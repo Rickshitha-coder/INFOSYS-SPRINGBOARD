@@ -1,0 +1,2401 @@
+Date,Time,Hour,Day_Type,Weather_Condition,Temperature_C,Rainfall_mm,Station,Transport_Mode,Demand,Available_Vehicles,Completed_Rides,Avg_Trip_Duration_Min
+2026-07-01,06:00,6,Weekday,Sunny,32.6,0.4,College,Bike,66,49,50,18.5
+2026-07-01,06:00,6,Weekday,Sunny,32.1,0.1,College,Ride Hailing,66,65,50,20.6
+2026-07-01,06:00,6,Weekday,Sunny,34.7,0.0,Tech Park,Bicycle,42,41,33,17.5
+2026-07-01,06:00,6,Weekday,Sunny,30.1,0.3,Airport,Bus,95,105,75,31.6
+2026-07-01,06:00,6,Weekday,Sunny,29.3,0.4,Central,Scooter,65,75,50,12.9
+2026-07-01,07:00,7,Weekday,Sunny,31.5,0.1,Airport,Bike,180,146,142,13.7
+2026-07-01,07:00,7,Weekday,Sunny,29.4,0.3,Railway,Ride Hailing,132,148,118,23.2
+2026-07-01,07:00,7,Weekday,Sunny,30.5,0.2,Tech Park,Bicycle,97,108,89,18.7
+2026-07-01,07:00,7,Weekday,Sunny,30.4,0.5,College,Bus,229,180,193,35.7
+2026-07-01,07:00,7,Weekday,Sunny,30.9,0.1,Market,Scooter,142,109,120,16.2
+2026-07-01,08:00,8,Weekday,Sunny,31.0,0.4,Railway,Bike,165,145,132,14.3
+2026-07-01,08:00,8,Weekday,Sunny,35.0,0.0,Tech Park,Ride Hailing,140,145,128,21.6
+2026-07-01,08:00,8,Weekday,Sunny,30.4,0.3,College,Bicycle,103,81,93,22.3
+2026-07-01,08:00,8,Weekday,Sunny,31.0,0.2,Beach,Bus,210,195,191,36.8
+2026-07-01,08:00,8,Weekday,Sunny,33.0,0.1,Market,Scooter,131,152,125,13.2
+2026-07-01,09:00,9,Weekday,Sunny,34.1,0.4,Railway,Bike,160,121,130,17.5
+2026-07-01,09:00,9,Weekday,Sunny,33.3,0.3,College,Ride Hailing,146,150,131,22.3
+2026-07-01,09:00,9,Weekday,Sunny,32.5,0.2,Central,Bicycle,88,82,79,18.8
+2026-07-01,09:00,9,Weekday,Sunny,30.1,0.2,Tech Park,Bus,223,179,168,34.4
+2026-07-01,09:00,9,Weekday,Sunny,30.8,0.2,Railway,Scooter,130,125,127,12.3
+2026-07-01,10:00,10,Weekday,Sunny,34.3,0.2,Central,Bike,76,91,59,16.5
+2026-07-01,10:00,10,Weekday,Sunny,32.8,0.0,Beach,Ride Hailing,59,58,45,20.4
+2026-07-01,10:00,10,Weekday,Sunny,34.2,0.3,College,Bicycle,39,29,38,22.9
+2026-07-01,10:00,10,Weekday,Sunny,32.2,0.5,Beach,Bus,106,105,82,27.8
+2026-07-01,10:00,10,Weekday,Sunny,31.6,0.2,Tech Park,Scooter,74,58,59,12.3
+2026-07-01,11:00,11,Weekday,Sunny,32.3,0.2,Tech Park,Bike,104,84,101,17.7
+2026-07-01,11:00,11,Weekday,Sunny,33.6,0.3,College,Ride Hailing,91,108,72,20.5
+2026-07-01,11:00,11,Weekday,Sunny,34.1,0.3,College,Bicycle,61,52,55,20.5
+2026-07-01,11:00,11,Weekday,Sunny,31.3,0.0,Market,Bus,160,144,140,37.7
+2026-07-01,11:00,11,Weekday,Sunny,33.1,0.3,Central,Scooter,81,68,73,13.8
+2026-07-01,12:00,12,Weekday,Sunny,34.9,0.2,Tech Park,Bike,101,76,93,18.1
+2026-07-01,12:00,12,Weekday,Sunny,32.2,0.0,Central,Ride Hailing,102,108,82,23.6
+2026-07-01,12:00,12,Weekday,Sunny,31.7,0.4,Airport,Bicycle,67,79,59,21.4
+2026-07-01,12:00,12,Weekday,Sunny,33.4,0.3,Railway,Bus,136,161,133,27.8
+2026-07-01,12:00,12,Weekday,Sunny,29.5,0.4,Railway,Scooter,89,98,81,12.3
+2026-07-01,13:00,13,Weekday,Sunny,33.2,0.1,Tech Park,Bike,111,115,96,15.7
+2026-07-01,13:00,13,Weekday,Sunny,31.9,0.4,Railway,Ride Hailing,99,101,80,23.8
+2026-07-01,13:00,13,Weekday,Sunny,33.2,0.1,Beach,Bicycle,70,81,67,18.8
+2026-07-01,13:00,13,Weekday,Sunny,31.1,0.5,College,Bus,168,135,133,32.4
+2026-07-01,13:00,13,Weekday,Sunny,29.5,0.5,Tech Park,Scooter,85,83,69,12.6
+2026-07-01,14:00,14,Weekday,Sunny,32.6,0.4,Beach,Bike,108,118,106,14.4
+2026-07-01,14:00,14,Weekday,Sunny,35.0,0.4,Market,Ride Hailing,91,102,85,28.8
+2026-07-01,14:00,14,Weekday,Sunny,30.6,0.4,Railway,Bicycle,60,68,55,17.3
+2026-07-01,14:00,14,Weekday,Sunny,29.2,0.1,Airport,Bus,129,146,109,28.7
+2026-07-01,14:00,14,Weekday,Sunny,31.7,0.3,Central,Scooter,101,71,93,14.6
+2026-07-01,15:00,15,Weekday,Sunny,32.0,0.0,Railway,Bike,89,70,76,19.1
+2026-07-01,15:00,15,Weekday,Sunny,32.1,0.4,Railway,Ride Hailing,59,61,50,27.7
+2026-07-01,15:00,15,Weekday,Sunny,31.2,0.4,Beach,Bicycle,47,34,40,18.4
+2026-07-01,15:00,15,Weekday,Sunny,33.6,0.1,Market,Bus,96,91,92,29.8
+2026-07-01,15:00,15,Weekday,Sunny,32.2,0.0,College,Scooter,64,60,50,14.1
+2026-07-01,16:00,16,Weekday,Sunny,31.9,0.3,College,Bike,69,63,57,17.2
+2026-07-01,16:00,16,Weekday,Sunny,34.9,0.1,Railway,Ride Hailing,57,57,50,23.4
+2026-07-01,16:00,16,Weekday,Sunny,33.3,0.2,College,Bicycle,48,31,47,20.4
+2026-07-01,16:00,16,Weekday,Sunny,29.7,0.1,Airport,Bus,96,85,83,29.9
+2026-07-01,16:00,16,Weekday,Sunny,29.5,0.2,Tech Park,Scooter,77,73,61,15.3
+2026-07-01,17:00,17,Weekday,Sunny,33.4,0.4,Central,Bike,152,168,148,14.3
+2026-07-01,17:00,17,Weekday,Sunny,32.8,0.3,Tech Park,Ride Hailing,176,194,140,22.4
+2026-07-01,17:00,17,Weekday,Sunny,30.4,0.5,Beach,Bicycle,121,99,112,20.5
+2026-07-01,17:00,17,Weekday,Sunny,33.4,0.4,Airport,Bus,261,194,248,32.7
+2026-07-01,17:00,17,Weekday,Sunny,33.9,0.2,College,Scooter,179,191,170,13.6
+2026-07-01,18:00,18,Weekday,Sunny,34.8,0.1,Airport,Bike,213,222,189,18.2
+2026-07-01,18:00,18,Weekday,Sunny,34.6,0.4,Railway,Ride Hailing,196,193,148,27.7
+2026-07-01,18:00,18,Weekday,Sunny,31.0,0.2,Airport,Bicycle,110,82,87,22.9
+2026-07-01,18:00,18,Weekday,Sunny,34.5,0.2,Central,Bus,228,190,192,33.2
+2026-07-01,18:00,18,Weekday,Sunny,32.8,0.5,Tech Park,Scooter,118,136,98,14.7
+2026-07-01,19:00,19,Weekday,Sunny,31.4,0.2,Market,Bike,187,141,153,15.3
+2026-07-01,19:00,19,Weekday,Sunny,29.9,0.2,Beach,Ride Hailing,186,166,157,25.1
+2026-07-01,19:00,19,Weekday,Sunny,31.4,0.3,Market,Bicycle,83,99,78,23.1
+2026-07-01,19:00,19,Weekday,Sunny,34.1,0.1,Beach,Bus,210,148,169,35.3
+2026-07-01,19:00,19,Weekday,Sunny,34.3,0.3,Beach,Scooter,173,182,163,12.5
+2026-07-01,20:00,20,Weekday,Sunny,30.8,0.4,Central,Bike,202,177,177,16.0
+2026-07-01,20:00,20,Weekday,Sunny,33.2,0.2,Tech Park,Ride Hailing,140,128,122,26.6
+2026-07-01,20:00,20,Weekday,Sunny,34.0,0.5,Central,Bicycle,116,93,102,21.6
+2026-07-01,20:00,20,Weekday,Sunny,31.4,0.5,Tech Park,Bus,216,199,190,36.6
+2026-07-01,20:00,20,Weekday,Sunny,32.4,0.4,Market,Scooter,137,116,125,13.4
+2026-07-01,21:00,21,Weekday,Sunny,29.9,0.2,Central,Bike,68,76,64,18.9
+2026-07-01,21:00,21,Weekday,Sunny,32.5,0.1,Railway,Ride Hailing,69,75,63,22.7
+2026-07-01,21:00,21,Weekday,Sunny,33.6,0.5,Airport,Bicycle,42,49,39,21.5
+2026-07-01,21:00,21,Weekday,Sunny,34.5,0.4,Central,Bus,102,68,93,30.5
+2026-07-01,21:00,21,Weekday,Sunny,31.9,0.2,Railway,Scooter,64,64,53,14.6
+2026-07-02,06:00,6,Weekday,Sunny,34.2,0.5,Railway,Bike,81,80,65,13.7
+2026-07-02,06:00,6,Weekday,Sunny,32.5,0.2,Tech Park,Ride Hailing,66,46,50,24.4
+2026-07-02,06:00,6,Weekday,Sunny,29.1,0.3,Market,Bicycle,39,32,31,17.3
+2026-07-02,06:00,6,Weekday,Sunny,32.6,0.0,Market,Bus,86,84,84,37.1
+2026-07-02,06:00,6,Weekday,Sunny,33.7,0.4,Airport,Scooter,54,40,43,12.8
+2026-07-02,07:00,7,Weekday,Sunny,34.4,0.0,Market,Bike,167,156,144,19.2
+2026-07-02,07:00,7,Weekday,Sunny,31.0,0.1,Airport,Ride Hailing,141,95,133,20.7
+2026-07-02,07:00,7,Weekday,Sunny,29.5,0.3,Market,Bicycle,82,57,66,21.8
+2026-07-02,07:00,7,Weekday,Sunny,29.9,0.5,Tech Park,Bus,219,205,208,29.9
+2026-07-02,07:00,7,Weekday,Sunny,34.0,0.1,Beach,Scooter,151,171,144,12.0
+2026-07-02,08:00,8,Weekday,Sunny,33.9,0.2,Tech Park,Bike,176,126,147,13.7
+2026-07-02,08:00,8,Weekday,Sunny,29.4,0.3,Airport,Ride Hailing,116,82,112,26.2
+2026-07-02,08:00,8,Weekday,Sunny,33.9,0.0,Market,Bicycle,120,117,101,17.5
+2026-07-02,08:00,8,Weekday,Sunny,33.2,0.3,College,Bus,195,175,154,36.1
+2026-07-02,08:00,8,Weekday,Sunny,31.7,0.4,Airport,Scooter,148,166,144,15.6
+2026-07-02,09:00,9,Weekday,Sunny,30.1,0.4,Tech Park,Bike,169,190,145,19.0
+2026-07-02,09:00,9,Weekday,Sunny,30.5,0.3,Tech Park,Ride Hailing,141,92,125,25.5
+2026-07-02,09:00,9,Weekday,Sunny,31.4,0.4,Market,Bicycle,86,63,74,21.8
+2026-07-02,09:00,9,Weekday,Sunny,32.7,0.2,Central,Bus,205,244,160,32.8
+2026-07-02,09:00,9,Weekday,Sunny,34.9,0.0,Market,Scooter,136,150,113,13.5
+2026-07-02,10:00,10,Weekday,Sunny,33.8,0.4,Market,Bike,75,78,71,17.6
+2026-07-02,10:00,10,Weekday,Sunny,33.3,0.3,Tech Park,Ride Hailing,60,40,47,24.1
+2026-07-02,10:00,10,Weekday,Sunny,30.4,0.1,Central,Bicycle,47,43,41,22.0
+2026-07-02,10:00,10,Weekday,Sunny,31.5,0.4,Central,Bus,105,117,83,38.0
+2026-07-02,10:00,10,Weekday,Sunny,31.5,0.1,Market,Scooter,74,68,70,16.3
+2026-07-02,11:00,11,Weekday,Sunny,32.8,0.0,Railway,Bike,103,111,87,17.0
+2026-07-02,11:00,11,Weekday,Sunny,34.8,0.4,Market,Ride Hailing,73,71,57,23.7
+2026-07-02,11:00,11,Weekday,Sunny,31.7,0.3,College,Bicycle,67,76,57,19.3
+2026-07-02,11:00,11,Weekday,Sunny,34.2,0.0,Beach,Bus,133,148,124,33.8
+2026-07-02,11:00,11,Weekday,Sunny,29.6,0.2,Tech Park,Scooter,112,87,89,12.3
+2026-07-02,12:00,12,Weekday,Sunny,29.8,0.1,Tech Park,Bike,107,100,92,17.3
+2026-07-02,12:00,12,Weekday,Sunny,33.2,0.2,College,Ride Hailing,104,93,99,21.9
+2026-07-02,12:00,12,Weekday,Sunny,34.0,0.1,Central,Bicycle,67,77,60,23.6
+2026-07-02,12:00,12,Weekday,Sunny,33.4,0.3,Market,Bus,134,151,125,33.6
+2026-07-02,12:00,12,Weekday,Sunny,32.8,0.3,Railway,Scooter,90,73,81,13.5
+2026-07-02,13:00,13,Weekday,Sunny,32.7,0.3,College,Bike,119,82,106,17.3
+2026-07-02,13:00,13,Weekday,Sunny,32.3,0.4,Beach,Ride Hailing,95,75,82,23.7
+2026-07-02,13:00,13,Weekday,Sunny,34.6,0.1,Market,Bicycle,58,45,56,17.4
+2026-07-02,13:00,13,Weekday,Sunny,33.9,0.4,Tech Park,Bus,126,132,106,38.1
+2026-07-02,13:00,13,Weekday,Sunny,33.8,0.5,Central,Scooter,94,74,91,14.3
+2026-07-02,14:00,14,Weekday,Sunny,33.6,0.4,Market,Bike,115,86,96,18.7
+2026-07-02,14:00,14,Weekday,Sunny,30.0,0.0,Market,Ride Hailing,105,104,90,25.3
+2026-07-02,14:00,14,Weekday,Sunny,29.8,0.4,Market,Bicycle,62,61,54,23.9
+2026-07-02,14:00,14,Weekday,Sunny,33.6,0.2,Tech Park,Bus,119,117,98,37.3
+2026-07-02,14:00,14,Weekday,Sunny,34.3,0.2,Central,Scooter,86,94,69,14.5
+2026-07-02,15:00,15,Weekday,Sunny,32.5,0.4,Beach,Bike,74,89,63,15.5
+2026-07-02,15:00,15,Weekday,Sunny,30.4,0.5,Railway,Ride Hailing,60,61,56,28.2
+2026-07-02,15:00,15,Weekday,Sunny,32.7,0.1,Airport,Bicycle,50,40,47,23.1
+2026-07-02,15:00,15,Weekday,Sunny,32.6,0.5,Airport,Bus,95,78,80,32.2
+2026-07-02,15:00,15,Weekday,Sunny,32.2,0.4,Market,Scooter,68,64,61,15.2
+2026-07-02,16:00,16,Weekday,Sunny,34.2,0.4,Central,Bike,74,74,69,14.3
+2026-07-02,16:00,16,Weekday,Sunny,32.0,0.1,Tech Park,Ride Hailing,64,65,50,24.4
+2026-07-02,16:00,16,Weekday,Sunny,29.9,0.0,Central,Bicycle,46,35,41,21.6
+2026-07-02,16:00,16,Weekday,Sunny,33.7,0.3,College,Bus,87,77,69,28.0
+2026-07-02,16:00,16,Weekday,Sunny,34.3,0.2,Railway,Scooter,70,66,59,12.5
+2026-07-02,17:00,17,Weekday,Sunny,33.7,0.3,Tech Park,Bike,160,126,125,15.9
+2026-07-02,17:00,17,Weekday,Sunny,29.6,0.4,Railway,Ride Hailing,147,140,126,27.5
+2026-07-02,17:00,17,Weekday,Sunny,29.6,0.0,Tech Park,Bicycle,113,98,110,17.9
+2026-07-02,17:00,17,Weekday,Sunny,34.3,0.5,Beach,Bus,239,206,204,29.7
+2026-07-02,17:00,17,Weekday,Sunny,29.1,0.1,College,Scooter,182,190,140,12.2
+2026-07-02,18:00,18,Weekday,Sunny,31.5,0.4,Market,Bike,168,160,158,14.0
+2026-07-02,18:00,18,Weekday,Sunny,32.9,0.4,Tech Park,Ride Hailing,134,96,119,26.9
+2026-07-02,18:00,18,Weekday,Sunny,29.7,0.3,College,Bicycle,114,113,90,17.3
+2026-07-02,18:00,18,Weekday,Sunny,32.9,0.4,Tech Park,Bus,259,186,206,37.1
+2026-07-02,18:00,18,Weekday,Sunny,30.6,0.3,Beach,Scooter,140,95,115,15.6
+2026-07-02,19:00,19,Weekday,Sunny,32.5,0.3,Beach,Bike,193,215,177,16.6
+2026-07-02,19:00,19,Weekday,Sunny,30.7,0.2,Airport,Ride Hailing,167,183,154,27.8
+2026-07-02,19:00,19,Weekday,Sunny,29.0,0.1,Market,Bicycle,100,85,93,20.9
+2026-07-02,19:00,19,Weekday,Sunny,32.9,0.3,Railway,Bus,237,219,185,31.5
+2026-07-02,19:00,19,Weekday,Sunny,32.5,0.3,Airport,Scooter,181,153,169,12.4
+2026-07-02,20:00,20,Weekday,Sunny,29.9,0.1,Railway,Bike,218,144,180,17.2
+2026-07-02,20:00,20,Weekday,Sunny,30.3,0.5,Beach,Ride Hailing,189,157,161,21.1
+2026-07-02,20:00,20,Weekday,Sunny,32.5,0.0,Central,Bicycle,111,123,93,21.0
+2026-07-02,20:00,20,Weekday,Sunny,34.1,0.2,Airport,Bus,216,251,201,27.8
+2026-07-02,20:00,20,Weekday,Sunny,33.6,0.4,College,Scooter,165,152,140,15.5
+2026-07-02,21:00,21,Weekday,Sunny,30.7,0.2,College,Bike,71,48,54,15.1
+2026-07-02,21:00,21,Weekday,Sunny,33.0,0.0,Airport,Ride Hailing,49,41,47,20.6
+2026-07-02,21:00,21,Weekday,Sunny,30.1,0.5,Beach,Bicycle,49,58,38,22.1
+2026-07-02,21:00,21,Weekday,Sunny,34.2,0.3,Tech Park,Bus,100,96,87,28.5
+2026-07-02,21:00,21,Weekday,Sunny,29.6,0.1,Market,Scooter,61,44,55,13.0
+2026-07-03,06:00,6,Weekday,Sunny,33.5,0.4,Airport,Bike,69,55,54,15.4
+2026-07-03,06:00,6,Weekday,Sunny,29.6,0.4,Market,Ride Hailing,68,72,60,25.0
+2026-07-03,06:00,6,Weekday,Sunny,32.8,0.3,Beach,Bicycle,45,36,42,21.0
+2026-07-03,06:00,6,Weekday,Sunny,30.0,0.2,Railway,Bus,81,80,68,37.2
+2026-07-03,06:00,6,Weekday,Sunny,34.8,0.3,Beach,Scooter,59,67,55,14.4
+2026-07-03,07:00,7,Weekday,Sunny,29.2,0.5,Railway,Bike,169,122,153,14.1
+2026-07-03,07:00,7,Weekday,Sunny,31.1,0.1,Tech Park,Ride Hailing,129,117,121,24.3
+2026-07-03,07:00,7,Weekday,Sunny,30.1,0.4,Central,Bicycle,111,98,106,22.2
+2026-07-03,07:00,7,Weekday,Sunny,30.0,0.1,Railway,Bus,218,181,198,28.0
+2026-07-03,07:00,7,Weekday,Sunny,31.4,0.4,Railway,Scooter,131,111,100,15.6
+2026-07-03,08:00,8,Weekday,Sunny,34.2,0.1,Airport,Bike,176,125,150,16.2
+2026-07-03,08:00,8,Weekday,Sunny,34.8,0.5,Central,Ride Hailing,171,202,133,26.3
+2026-07-03,08:00,8,Weekday,Sunny,29.6,0.2,Railway,Bicycle,106,75,97,20.8
+2026-07-03,08:00,8,Weekday,Sunny,34.3,0.3,College,Bus,202,198,154,37.0
+2026-07-03,08:00,8,Weekday,Sunny,29.7,0.4,Beach,Scooter,143,98,135,14.8
+2026-07-03,09:00,9,Weekday,Sunny,29.8,0.5,Beach,Bike,185,129,177,16.2
+2026-07-03,09:00,9,Weekday,Sunny,34.7,0.3,College,Ride Hailing,130,112,112,25.9
+2026-07-03,09:00,9,Weekday,Sunny,31.8,0.2,Tech Park,Bicycle,100,98,96,18.7
+2026-07-03,09:00,9,Weekday,Sunny,30.8,0.3,Central,Bus,204,223,180,32.9
+2026-07-03,09:00,9,Weekday,Sunny,31.7,0.4,Tech Park,Scooter,131,87,119,12.1
+2026-07-03,10:00,10,Weekday,Sunny,32.8,0.3,Beach,Bike,81,95,76,13.6
+2026-07-03,10:00,10,Weekday,Sunny,32.3,0.4,Market,Ride Hailing,61,62,47,25.4
+2026-07-03,10:00,10,Weekday,Sunny,34.2,0.0,Railway,Bicycle,44,44,42,21.3
+2026-07-03,10:00,10,Weekday,Sunny,31.4,0.2,Market,Bus,94,89,80,28.1
+2026-07-03,10:00,10,Weekday,Sunny,31.7,0.5,Airport,Scooter,75,60,62,15.8
+2026-07-03,11:00,11,Weekday,Sunny,32.2,0.0,Airport,Bike,100,85,76,15.8
+2026-07-03,11:00,11,Weekday,Sunny,30.9,0.1,Tech Park,Ride Hailing,106,89,81,23.8
+2026-07-03,11:00,11,Weekday,Sunny,32.2,0.5,Tech Park,Bicycle,74,88,59,23.8
+2026-07-03,11:00,11,Weekday,Sunny,30.9,0.5,Tech Park,Bus,113,129,88,37.9
+2026-07-03,11:00,11,Weekday,Sunny,31.9,0.4,Airport,Scooter,90,107,84,16.7
+2026-07-03,12:00,12,Weekday,Sunny,31.1,0.3,College,Bike,106,85,103,16.7
+2026-07-03,12:00,12,Weekday,Sunny,31.8,0.4,Airport,Ride Hailing,90,73,74,27.1
+2026-07-03,12:00,12,Weekday,Sunny,29.7,0.5,College,Bicycle,67,76,52,22.5
+2026-07-03,12:00,12,Weekday,Sunny,31.9,0.3,Tech Park,Bus,162,173,140,30.6
+2026-07-03,12:00,12,Weekday,Sunny,34.7,0.2,Railway,Scooter,92,102,85,14.7
+2026-07-03,13:00,13,Weekday,Sunny,30.3,0.0,Tech Park,Bike,111,88,84,19.0
+2026-07-03,13:00,13,Weekday,Sunny,29.1,0.1,Central,Ride Hailing,105,84,84,28.4
+2026-07-03,13:00,13,Weekday,Sunny,33.9,0.1,College,Bicycle,62,43,47,23.6
+2026-07-03,13:00,13,Weekday,Sunny,34.7,0.1,Railway,Bus,128,108,99,36.3
+2026-07-03,13:00,13,Weekday,Sunny,30.8,0.5,Tech Park,Scooter,92,62,71,13.9
+2026-07-03,14:00,14,Weekday,Sunny,31.5,0.4,College,Bike,110,85,83,14.8
+2026-07-03,14:00,14,Weekday,Sunny,33.9,0.1,Railway,Ride Hailing,105,108,85,26.4
+2026-07-03,14:00,14,Weekday,Sunny,33.7,0.3,Tech Park,Bicycle,59,51,46,18.3
+2026-07-03,14:00,14,Weekday,Sunny,32.4,0.5,Market,Bus,151,175,142,28.7
+2026-07-03,14:00,14,Weekday,Sunny,33.2,0.3,Beach,Scooter,95,88,80,15.0
+2026-07-03,15:00,15,Weekday,Sunny,32.8,0.2,Railway,Bike,70,82,57,16.3
+2026-07-03,15:00,15,Weekday,Sunny,31.2,0.4,Beach,Ride Hailing,63,60,53,26.4
+2026-07-03,15:00,15,Weekday,Sunny,29.3,0.0,Railway,Bicycle,46,33,42,23.8
+2026-07-03,15:00,15,Weekday,Sunny,31.0,0.2,Tech Park,Bus,78,87,59,31.4
+2026-07-03,15:00,15,Weekday,Sunny,33.1,0.3,Market,Scooter,64,58,62,14.4
+2026-07-03,16:00,16,Weekday,Sunny,31.1,0.3,College,Bike,63,47,54,15.5
+2026-07-03,16:00,16,Weekday,Sunny,33.7,0.2,College,Ride Hailing,56,62,42,27.9
+2026-07-03,16:00,16,Weekday,Sunny,30.4,0.3,Beach,Bicycle,42,43,37,23.9
+2026-07-03,16:00,16,Weekday,Sunny,32.5,0.2,College,Bus,94,68,84,36.0
+2026-07-03,16:00,16,Weekday,Sunny,33.1,0.0,Tech Park,Scooter,71,67,54,15.3
+2026-07-03,17:00,17,Weekday,Sunny,34.6,0.2,Tech Park,Bike,171,200,166,17.1
+2026-07-03,17:00,17,Weekday,Sunny,35.0,0.1,Railway,Ride Hailing,156,184,124,28.4
+2026-07-03,17:00,17,Weekday,Sunny,33.4,0.5,Railway,Bicycle,120,79,90,22.8
+2026-07-03,17:00,17,Weekday,Sunny,32.4,0.0,Market,Bus,216,217,195,29.0
+2026-07-03,17:00,17,Weekday,Sunny,32.1,0.2,Railway,Scooter,175,118,164,12.8
+2026-07-03,18:00,18,Weekday,Sunny,31.2,0.5,College,Bike,202,242,154,17.9
+2026-07-03,18:00,18,Weekday,Sunny,34.1,0.0,Central,Ride Hailing,160,138,141,23.9
+2026-07-03,18:00,18,Weekday,Sunny,31.6,0.1,Tech Park,Bicycle,116,93,112,21.1
+2026-07-03,18:00,18,Weekday,Sunny,32.0,0.2,College,Bus,235,207,218,32.5
+2026-07-03,18:00,18,Weekday,Sunny,29.3,0.4,College,Scooter,172,155,133,16.0
+2026-07-03,19:00,19,Weekday,Sunny,33.6,0.0,Tech Park,Bike,181,160,137,14.3
+2026-07-03,19:00,19,Weekday,Sunny,33.4,0.3,Market,Ride Hailing,180,122,143,23.0
+2026-07-03,19:00,19,Weekday,Sunny,33.8,0.3,Airport,Bicycle,112,84,94,23.3
+2026-07-03,19:00,19,Weekday,Sunny,34.7,0.4,Beach,Bus,197,196,170,31.3
+2026-07-03,19:00,19,Weekday,Sunny,31.8,0.4,Tech Park,Scooter,163,180,148,15.4
+2026-07-03,20:00,20,Weekday,Sunny,33.0,0.2,Central,Bike,200,147,155,17.9
+2026-07-03,20:00,20,Weekday,Sunny,33.2,0.4,Market,Ride Hailing,145,96,137,20.5
+2026-07-03,20:00,20,Weekday,Sunny,33.3,0.4,Railway,Bicycle,93,85,72,23.7
+2026-07-03,20:00,20,Weekday,Sunny,32.7,0.0,Railway,Bus,224,228,209,30.0
+2026-07-03,20:00,20,Weekday,Sunny,34.3,0.0,Railway,Scooter,141,124,136,14.0
+2026-07-03,21:00,21,Weekday,Sunny,33.0,0.4,Airport,Bike,71,61,69,17.2
+2026-07-03,21:00,21,Weekday,Sunny,32.3,0.3,Market,Ride Hailing,67,47,59,28.6
+2026-07-03,21:00,21,Weekday,Sunny,34.8,0.5,College,Bicycle,44,35,36,21.6
+2026-07-03,21:00,21,Weekday,Sunny,32.4,0.3,Market,Bus,95,95,87,31.4
+2026-07-03,21:00,21,Weekday,Sunny,33.4,0.4,College,Scooter,58,41,46,16.5
+2026-07-04,06:00,6,Weekend,Windy,28.5,0.4,Central,Bike,41,32,38,17.1
+2026-07-04,06:00,6,Weekend,Windy,29.1,0.5,Central,Ride Hailing,71,63,57,24.0
+2026-07-04,06:00,6,Weekend,Windy,27.9,2.0,Railway,Bicycle,17,13,15,21.2
+2026-07-04,06:00,6,Weekend,Windy,28.9,4.5,Central,Bus,69,73,63,33.0
+2026-07-04,06:00,6,Weekend,Windy,28.1,1.0,Railway,Scooter,42,42,40,14.3
+2026-07-04,07:00,7,Weekend,Windy,28.0,0.8,Tech Park,Bike,83,77,63,16.4
+2026-07-04,07:00,7,Weekend,Windy,28.8,4.4,Tech Park,Ride Hailing,170,188,145,27.2
+2026-07-04,07:00,7,Weekend,Windy,30.7,2.8,Market,Bicycle,47,39,45,23.7
+2026-07-04,07:00,7,Weekend,Windy,27.5,1.9,Beach,Bus,195,212,186,31.1
+2026-07-04,07:00,7,Weekend,Windy,28.7,4.4,Airport,Scooter,67,59,62,16.1
+2026-07-04,08:00,8,Weekend,Windy,27.2,2.8,Beach,Bike,78,60,68,17.0
+2026-07-04,08:00,8,Weekend,Windy,27.6,4.7,Central,Ride Hailing,152,162,144,26.1
+2026-07-04,08:00,8,Weekend,Windy,29.9,4.3,Market,Bicycle,46,41,45,20.6
+2026-07-04,08:00,8,Weekend,Windy,29.6,4.2,Market,Bus,190,173,167,34.2
+2026-07-04,08:00,8,Weekend,Windy,28.0,1.0,Railway,Scooter,83,78,72,15.9
+2026-07-04,09:00,9,Weekend,Windy,28.3,4.7,Airport,Bike,79,72,63,17.8
+2026-07-04,09:00,9,Weekend,Windy,29.3,3.3,Central,Ride Hailing,140,118,117,21.0
+2026-07-04,09:00,9,Weekend,Windy,28.1,3.4,College,Bicycle,40,34,36,17.7
+2026-07-04,09:00,9,Weekend,Windy,30.5,4.4,Tech Park,Bus,197,195,181,29.1
+2026-07-04,09:00,9,Weekend,Windy,28.9,4.3,Airport,Scooter,79,75,73,13.4
+2026-07-04,10:00,10,Weekend,Windy,27.4,3.2,Central,Bike,33,23,30,15.7
+2026-07-04,10:00,10,Weekend,Windy,26.3,4.9,College,Ride Hailing,71,67,67,24.3
+2026-07-04,10:00,10,Weekend,Windy,30.1,2.1,Railway,Bicycle,20,15,16,20.2
+2026-07-04,10:00,10,Weekend,Windy,27.2,5.0,Market,Bus,92,105,76,37.3
+2026-07-04,10:00,10,Weekend,Windy,26.1,0.1,Airport,Scooter,48,39,40,16.6
+2026-07-04,11:00,11,Weekend,Windy,28.1,3.2,Market,Bike,49,51,40,14.3
+2026-07-04,11:00,11,Weekend,Windy,28.6,3.2,Central,Ride Hailing,121,105,97,25.4
+2026-07-04,11:00,11,Weekend,Windy,30.3,0.3,Market,Bicycle,26,23,25,20.5
+2026-07-04,11:00,11,Weekend,Windy,28.3,0.1,Central,Bus,137,110,108,34.3
+2026-07-04,11:00,11,Weekend,Windy,28.4,1.4,College,Scooter,64,63,58,16.0
+2026-07-04,12:00,12,Weekend,Windy,29.1,2.5,Market,Bike,56,39,50,17.5
+2026-07-04,12:00,12,Weekend,Windy,26.2,2.3,Beach,Ride Hailing,100,114,80,26.6
+2026-07-04,12:00,12,Weekend,Windy,28.8,2.4,Airport,Bicycle,27,23,23,19.8
+2026-07-04,12:00,12,Weekend,Windy,30.8,1.6,Tech Park,Bus,128,102,99,29.1
+2026-07-04,12:00,12,Weekend,Windy,26.7,0.4,Airport,Scooter,54,43,45,15.2
+2026-07-04,13:00,13,Weekend,Windy,27.5,4.4,Central,Bike,54,60,49,17.1
+2026-07-04,13:00,13,Weekend,Windy,29.3,2.7,Beach,Ride Hailing,83,91,63,23.9
+2026-07-04,13:00,13,Weekend,Windy,29.3,0.6,Airport,Bicycle,27,26,25,23.6
+2026-07-04,13:00,13,Weekend,Windy,29.7,4.9,Central,Bus,129,113,112,37.3
+2026-07-04,13:00,13,Weekend,Windy,28.5,2.9,Beach,Scooter,52,55,42,12.5
+2026-07-04,14:00,14,Weekend,Windy,30.0,1.1,Airport,Bike,49,42,46,15.7
+2026-07-04,14:00,14,Weekend,Windy,27.9,1.0,Airport,Ride Hailing,105,98,93,26.7
+2026-07-04,14:00,14,Weekend,Windy,29.1,4.7,Airport,Bicycle,28,32,26,21.1
+2026-07-04,14:00,14,Weekend,Windy,28.6,2.5,Beach,Bus,131,114,123,29.1
+2026-07-04,14:00,14,Weekend,Windy,27.7,0.9,Market,Scooter,48,54,46,16.8
+2026-07-04,15:00,15,Weekend,Windy,29.9,4.6,Railway,Bike,41,31,34,18.1
+2026-07-04,15:00,15,Weekend,Windy,27.7,3.0,Railway,Ride Hailing,60,64,51,21.1
+2026-07-04,15:00,15,Weekend,Windy,27.4,3.6,Central,Bicycle,17,17,14,22.9
+2026-07-04,15:00,15,Weekend,Windy,31.0,2.3,Railway,Bus,78,85,63,28.8
+2026-07-04,15:00,15,Weekend,Windy,28.2,3.3,Airport,Scooter,31,21,24,12.7
+2026-07-04,16:00,16,Weekend,Windy,30.3,1.8,College,Bike,33,25,27,14.2
+2026-07-04,16:00,16,Weekend,Windy,27.7,3.7,Central,Ride Hailing,76,87,62,26.2
+2026-07-04,16:00,16,Weekend,Windy,27.8,2.9,Tech Park,Bicycle,20,23,16,22.1
+2026-07-04,16:00,16,Weekend,Windy,26.1,2.9,Beach,Bus,79,87,70,34.6
+2026-07-04,16:00,16,Weekend,Windy,30.3,3.7,Tech Park,Scooter,36,35,29,16.3
+2026-07-04,17:00,17,Weekend,Windy,26.7,1.1,Tech Park,Bike,94,74,80,18.0
+2026-07-04,17:00,17,Weekend,Windy,27.8,0.4,Central,Ride Hailing,153,148,127,27.3
+2026-07-04,17:00,17,Weekend,Windy,29.8,0.1,Tech Park,Bicycle,52,44,50,21.0
+2026-07-04,17:00,17,Weekend,Windy,30.9,2.1,Beach,Bus,220,207,167,32.5
+2026-07-04,17:00,17,Weekend,Windy,29.4,2.2,Beach,Scooter,102,95,95,12.1
+2026-07-04,18:00,18,Weekend,Windy,26.9,2.1,College,Bike,92,78,78,17.4
+2026-07-04,18:00,18,Weekend,Windy,27.6,1.9,Tech Park,Ride Hailing,173,162,158,21.2
+2026-07-04,18:00,18,Weekend,Windy,26.7,2.2,College,Bicycle,42,45,37,21.7
+2026-07-04,18:00,18,Weekend,Windy,30.5,4.1,Market,Bus,253,271,219,32.1
+2026-07-04,18:00,18,Weekend,Windy,27.3,3.3,Central,Scooter,112,94,101,15.8
+2026-07-04,19:00,19,Weekend,Windy,28.5,2.8,Beach,Bike,90,80,74,14.7
+2026-07-04,19:00,19,Weekend,Windy,26.8,4.9,Beach,Ride Hailing,186,130,156,21.2
+2026-07-04,19:00,19,Weekend,Windy,28.1,4.7,Central,Bicycle,50,40,41,18.9
+2026-07-04,19:00,19,Weekend,Windy,29.5,2.7,College,Bus,201,135,178,31.7
+2026-07-04,19:00,19,Weekend,Windy,30.7,4.4,Railway,Scooter,108,96,102,15.8
+2026-07-04,20:00,20,Weekend,Windy,28.8,4.6,Tech Park,Bike,87,88,83,17.9
+2026-07-04,20:00,20,Weekend,Windy,26.2,3.2,Tech Park,Ride Hailing,157,115,127,23.4
+2026-07-04,20:00,20,Weekend,Windy,26.7,3.3,Market,Bicycle,42,35,33,17.8
+2026-07-04,20:00,20,Weekend,Windy,30.9,2.9,Tech Park,Bus,189,160,171,30.2
+2026-07-04,20:00,20,Weekend,Windy,28.1,3.0,Beach,Scooter,94,84,84,15.2
+2026-07-04,21:00,21,Weekend,Windy,29.8,0.6,Airport,Bike,44,48,33,18.6
+2026-07-04,21:00,21,Weekend,Windy,28.1,3.5,Central,Ride Hailing,77,64,70,25.4
+2026-07-04,21:00,21,Weekend,Windy,30.2,2.4,Airport,Bicycle,20,20,18,18.5
+2026-07-04,21:00,21,Weekend,Windy,29.4,4.0,Airport,Bus,77,51,69,36.2
+2026-07-04,21:00,21,Weekend,Windy,26.4,2.0,Railway,Scooter,38,26,36,14.7
+2026-07-05,06:00,6,Weekend,Rainy,28.7,13.9,Market,Bike,26,27,25,18.0
+2026-07-05,06:00,6,Weekend,Rainy,26.8,30.5,Airport,Ride Hailing,74,72,56,26.5
+2026-07-05,06:00,6,Weekend,Rainy,25.6,30.0,College,Bicycle,13,13,11,19.1
+2026-07-05,06:00,6,Weekend,Rainy,27.0,16.5,Market,Bus,90,87,78,28.2
+2026-07-05,06:00,6,Weekend,Rainy,25.6,26.8,College,Scooter,27,19,26,14.2
+2026-07-05,07:00,7,Weekend,Rainy,28.4,13.0,Railway,Bike,55,40,49,17.5
+2026-07-05,07:00,7,Weekend,Rainy,25.4,25.6,Market,Ride Hailing,201,219,162,22.3
+2026-07-05,07:00,7,Weekend,Rainy,24.2,16.3,Central,Bicycle,21,20,18,18.6
+2026-07-05,07:00,7,Weekend,Rainy,27.5,22.3,Central,Bus,208,151,199,28.0
+2026-07-05,07:00,7,Weekend,Rainy,28.7,22.9,Airport,Scooter,68,81,64,13.4
+2026-07-05,08:00,8,Weekend,Rainy,27.3,18.8,Central,Bike,59,51,45,15.5
+2026-07-05,08:00,8,Weekend,Rainy,24.3,33.8,Airport,Ride Hailing,204,179,171,25.9
+2026-07-05,08:00,8,Weekend,Rainy,24.2,9.1,Tech Park,Bicycle,27,19,26,19.1
+2026-07-05,08:00,8,Weekend,Rainy,26.8,11.9,Market,Bus,172,166,143,36.2
+2026-07-05,08:00,8,Weekend,Rainy,25.6,16.3,Tech Park,Scooter,75,70,62,14.2
+2026-07-05,09:00,9,Weekend,Rainy,24.2,33.3,Central,Bike,48,34,46,19.0
+2026-07-05,09:00,9,Weekend,Rainy,26.8,11.1,Beach,Ride Hailing,211,209,175,27.7
+2026-07-05,09:00,9,Weekend,Rainy,28.1,29.6,College,Bicycle,25,29,21,18.5
+2026-07-05,09:00,9,Weekend,Rainy,26.1,30.1,Tech Park,Bus,206,184,155,30.0
+2026-07-05,09:00,9,Weekend,Rainy,26.2,18.4,Beach,Scooter,71,76,62,13.0
+2026-07-05,10:00,10,Weekend,Rainy,26.6,11.1,Beach,Bike,24,18,21,13.6
+2026-07-05,10:00,10,Weekend,Rainy,28.7,12.6,Airport,Ride Hailing,96,65,76,24.9
+2026-07-05,10:00,10,Weekend,Rainy,28.6,12.6,Market,Bicycle,13,10,10,21.8
+2026-07-05,10:00,10,Weekend,Rainy,28.9,34.0,Tech Park,Bus,103,110,87,34.5
+2026-07-05,10:00,10,Weekend,Rainy,28.6,29.1,Tech Park,Scooter,28,21,26,15.2
+2026-07-05,11:00,11,Weekend,Rainy,27.7,29.9,College,Bike,36,37,35,17.7
+2026-07-05,11:00,11,Weekend,Rainy,26.1,34.9,Market,Ride Hailing,149,163,141,20.9
+2026-07-05,11:00,11,Weekend,Rainy,28.5,26.1,Beach,Bicycle,18,16,14,18.1
+2026-07-05,11:00,11,Weekend,Rainy,25.1,20.8,Market,Bus,144,121,116,34.5
+2026-07-05,11:00,11,Weekend,Rainy,27.1,19.3,Central,Scooter,44,35,40,14.7
+2026-07-05,12:00,12,Weekend,Rainy,24.5,8.8,College,Bike,35,31,34,15.0
+2026-07-05,12:00,12,Weekend,Rainy,28.3,29.9,Railway,Ride Hailing,120,105,104,27.9
+2026-07-05,12:00,12,Weekend,Rainy,26.8,10.2,Airport,Bicycle,17,13,14,18.4
+2026-07-05,12:00,12,Weekend,Rainy,27.0,15.9,Beach,Bus,147,158,134,33.7
+2026-07-05,12:00,12,Weekend,Rainy,25.4,32.2,Market,Scooter,53,54,48,16.5
+2026-07-05,13:00,13,Weekend,Rainy,28.6,33.2,Beach,Bike,32,37,24,14.8
+2026-07-05,13:00,13,Weekend,Rainy,24.3,25.1,Market,Ride Hailing,130,111,124,21.7
+2026-07-05,13:00,13,Weekend,Rainy,26.0,32.5,Central,Bicycle,16,13,14,21.5
+2026-07-05,13:00,13,Weekend,Rainy,28.5,24.2,Central,Bus,151,110,136,34.4
+2026-07-05,13:00,13,Weekend,Rainy,27.5,21.5,Airport,Scooter,40,33,38,16.1
+2026-07-05,14:00,14,Weekend,Rainy,27.4,15.8,Beach,Bike,34,23,27,13.6
+2026-07-05,14:00,14,Weekend,Rainy,28.4,20.8,College,Ride Hailing,119,86,109,26.6
+2026-07-05,14:00,14,Weekend,Rainy,26.4,33.2,Railway,Bicycle,18,18,16,19.8
+2026-07-05,14:00,14,Weekend,Rainy,24.6,34.0,College,Bus,129,131,117,31.3
+2026-07-05,14:00,14,Weekend,Rainy,29.0,14.9,Tech Park,Scooter,46,46,44,12.5
+2026-07-05,15:00,15,Weekend,Rainy,24.7,25.9,Tech Park,Bike,23,22,20,18.5
+2026-07-05,15:00,15,Weekend,Rainy,25.4,28.2,Central,Ride Hailing,69,76,66,27.6
+2026-07-05,15:00,15,Weekend,Rainy,26.1,30.8,Beach,Bicycle,11,10,11,19.4
+2026-07-05,15:00,15,Weekend,Rainy,25.2,14.3,College,Bus,100,113,92,29.8
+2026-07-05,15:00,15,Weekend,Rainy,26.0,26.2,Beach,Scooter,32,38,26,12.2
+2026-07-05,16:00,16,Weekend,Rainy,26.8,18.8,Tech Park,Bike,27,18,24,13.8
+2026-07-05,16:00,16,Weekend,Rainy,28.1,16.3,Beach,Ride Hailing,101,105,84,20.5
+2026-07-05,16:00,16,Weekend,Rainy,28.0,17.2,Airport,Bicycle,11,8,9,19.5
+2026-07-05,16:00,16,Weekend,Rainy,27.2,13.1,Tech Park,Bus,81,66,67,29.0
+2026-07-05,16:00,16,Weekend,Rainy,28.2,34.5,College,Scooter,34,25,29,14.3
+2026-07-05,17:00,17,Weekend,Rainy,27.5,29.5,College,Bike,63,51,53,15.8
+2026-07-05,17:00,17,Weekend,Rainy,25.0,26.9,Market,Ride Hailing,212,185,198,22.3
+2026-07-05,17:00,17,Weekend,Rainy,25.9,13.2,Central,Bicycle,31,36,24,22.3
+2026-07-05,17:00,17,Weekend,Rainy,27.4,26.6,College,Bus,275,304,250,37.5
+2026-07-05,17:00,17,Weekend,Rainy,27.0,13.5,Airport,Scooter,76,55,60,13.1
+2026-07-05,18:00,18,Weekend,Rainy,26.9,10.4,Railway,Bike,49,46,41,14.7
+2026-07-05,18:00,18,Weekend,Rainy,24.6,34.1,Market,Ride Hailing,219,178,169,28.1
+2026-07-05,18:00,18,Weekend,Rainy,27.0,8.1,Beach,Bicycle,29,23,22,23.1
+2026-07-05,18:00,18,Weekend,Rainy,27.7,34.0,Tech Park,Bus,199,226,152,30.1
+2026-07-05,18:00,18,Weekend,Rainy,28.9,22.7,Railway,Scooter,61,54,50,15.5
+2026-07-05,19:00,19,Weekend,Rainy,27.7,28.2,Airport,Bike,67,58,51,15.9
+2026-07-05,19:00,19,Weekend,Rainy,27.1,22.5,Railway,Ride Hailing,221,147,185,21.3
+2026-07-05,19:00,19,Weekend,Rainy,28.9,22.9,Market,Bicycle,37,33,29,18.4
+2026-07-05,19:00,19,Weekend,Rainy,26.6,30.7,Tech Park,Bus,235,243,222,31.9
+2026-07-05,19:00,19,Weekend,Rainy,24.4,19.6,Beach,Scooter,80,69,69,16.1
+2026-07-05,20:00,20,Weekend,Rainy,27.5,15.2,Railway,Bike,62,45,51,16.5
+2026-07-05,20:00,20,Weekend,Rainy,25.5,12.5,Railway,Ride Hailing,237,223,192,20.8
+2026-07-05,20:00,20,Weekend,Rainy,26.4,15.6,College,Bicycle,30,22,23,22.0
+2026-07-05,20:00,20,Weekend,Rainy,27.3,17.4,Beach,Bus,256,194,239,29.3
+2026-07-05,20:00,20,Weekend,Rainy,24.1,10.3,Railway,Scooter,59,62,45,14.2
+2026-07-05,21:00,21,Weekend,Rainy,24.5,21.6,Airport,Bike,25,25,20,16.3
+2026-07-05,21:00,21,Weekend,Rainy,26.2,9.1,Airport,Ride Hailing,82,55,62,27.4
+2026-07-05,21:00,21,Weekend,Rainy,25.2,23.2,Tech Park,Bicycle,12,10,11,19.5
+2026-07-05,21:00,21,Weekend,Rainy,25.6,32.6,Railway,Bus,83,83,71,32.6
+2026-07-05,21:00,21,Weekend,Rainy,27.8,31.2,Beach,Scooter,32,22,26,13.0
+2026-07-06,06:00,6,Weekday,Cloudy,31.4,0.3,Beach,Bike,66,47,58,17.9
+2026-07-06,06:00,6,Weekday,Cloudy,27.8,1.9,Tech Park,Ride Hailing,77,78,65,22.9
+2026-07-06,06:00,6,Weekday,Cloudy,27.1,1.8,Railway,Bicycle,36,27,33,20.0
+2026-07-06,06:00,6,Weekday,Cloudy,27.9,0.2,Beach,Bus,96,96,86,28.6
+2026-07-06,06:00,6,Weekday,Cloudy,27.3,2.0,Central,Scooter,61,71,49,15.8
+2026-07-06,07:00,7,Weekday,Cloudy,31.3,0.5,Beach,Bike,156,136,126,17.1
+2026-07-06,07:00,7,Weekday,Cloudy,27.8,1.2,Central,Ride Hailing,185,143,141,22.9
+2026-07-06,07:00,7,Weekday,Cloudy,29.9,1.6,Market,Bicycle,81,68,76,17.5
+2026-07-06,07:00,7,Weekday,Cloudy,29.2,1.5,Airport,Bus,246,223,205,33.2
+2026-07-06,07:00,7,Weekday,Cloudy,31.4,0.1,Beach,Scooter,124,113,95,14.6
+2026-07-06,08:00,8,Weekday,Cloudy,30.6,0.2,Beach,Bike,163,164,145,14.6
+2026-07-06,08:00,8,Weekday,Cloudy,29.3,0.2,Tech Park,Ride Hailing,160,191,138,21.9
+2026-07-06,08:00,8,Weekday,Cloudy,31.7,0.2,Market,Bicycle,83,56,63,18.3
+2026-07-06,08:00,8,Weekday,Cloudy,31.5,1.9,Railway,Bus,222,210,191,31.6
+2026-07-06,08:00,8,Weekday,Cloudy,30.5,0.9,Tech Park,Scooter,119,108,98,16.6
+2026-07-06,09:00,9,Weekday,Cloudy,31.8,1.8,Market,Bike,152,120,125,14.1
+2026-07-06,09:00,9,Weekday,Cloudy,29.7,1.7,Beach,Ride Hailing,171,169,165,27.0
+2026-07-06,09:00,9,Weekday,Cloudy,29.5,1.4,College,Bicycle,99,86,78,23.8
+2026-07-06,09:00,9,Weekday,Cloudy,30.8,0.4,Market,Bus,225,245,186,35.1
+2026-07-06,09:00,9,Weekday,Cloudy,29.3,0.3,Central,Scooter,97,101,87,16.2
+2026-07-06,10:00,10,Weekday,Cloudy,30.4,0.1,Central,Bike,70,83,60,15.4
+2026-07-06,10:00,10,Weekday,Cloudy,30.8,1.3,Central,Ride Hailing,69,47,67,26.4
+2026-07-06,10:00,10,Weekday,Cloudy,30.7,1.7,Railway,Bicycle,40,28,36,17.4
+2026-07-06,10:00,10,Weekday,Cloudy,28.1,1.4,Airport,Bus,114,117,89,28.0
+2026-07-06,10:00,10,Weekday,Cloudy,29.2,0.5,Railway,Scooter,55,40,52,16.2
+2026-07-06,11:00,11,Weekday,Cloudy,27.3,0.7,Beach,Bike,92,103,77,17.4
+2026-07-06,11:00,11,Weekday,Cloudy,27.0,0.3,Market,Ride Hailing,116,105,98,24.0
+2026-07-06,11:00,11,Weekday,Cloudy,27.9,0.9,Market,Bicycle,69,47,55,20.4
+2026-07-06,11:00,11,Weekday,Cloudy,29.2,0.5,Airport,Bus,137,136,112,37.3
+2026-07-06,11:00,11,Weekday,Cloudy,29.7,0.3,College,Scooter,74,74,57,14.0
+2026-07-06,12:00,12,Weekday,Cloudy,30.7,0.4,Market,Bike,114,91,109,16.0
+2026-07-06,12:00,12,Weekday,Cloudy,30.6,1.3,Market,Ride Hailing,108,93,104,25.5
+2026-07-06,12:00,12,Weekday,Cloudy,29.0,1.4,Market,Bicycle,57,58,56,17.5
+2026-07-06,12:00,12,Weekday,Cloudy,27.2,0.9,College,Bus,164,165,160,37.4
+2026-07-06,12:00,12,Weekday,Cloudy,30.3,0.6,Beach,Scooter,75,87,62,16.4
+2026-07-06,13:00,13,Weekday,Cloudy,31.5,1.3,Market,Bike,80,81,61,16.9
+2026-07-06,13:00,13,Weekday,Cloudy,27.1,1.3,Railway,Ride Hailing,97,99,80,22.5
+2026-07-06,13:00,13,Weekday,Cloudy,27.9,0.0,Railway,Bicycle,44,47,39,18.3
+2026-07-06,13:00,13,Weekday,Cloudy,31.5,0.6,Beach,Bus,144,114,136,35.2
+2026-07-06,13:00,13,Weekday,Cloudy,29.9,1.7,Beach,Scooter,85,85,67,12.4
+2026-07-06,14:00,14,Weekday,Cloudy,28.0,1.2,Beach,Bike,94,62,80,13.8
+2026-07-06,14:00,14,Weekday,Cloudy,30.8,0.7,College,Ride Hailing,107,124,104,22.3
+2026-07-06,14:00,14,Weekday,Cloudy,29.8,1.8,Central,Bicycle,43,51,35,19.1
+2026-07-06,14:00,14,Weekday,Cloudy,28.0,1.6,Airport,Bus,127,125,102,33.3
+2026-07-06,14:00,14,Weekday,Cloudy,29.7,0.2,College,Scooter,73,64,62,15.5
+2026-07-06,15:00,15,Weekday,Cloudy,29.3,2.0,Railway,Bike,65,67,58,15.1
+2026-07-06,15:00,15,Weekday,Cloudy,28.1,1.0,Tech Park,Ride Hailing,85,66,66,27.9
+2026-07-06,15:00,15,Weekday,Cloudy,31.4,0.5,Railway,Bicycle,36,38,35,23.6
+2026-07-06,15:00,15,Weekday,Cloudy,27.5,1.7,Airport,Bus,86,93,78,30.6
+2026-07-06,15:00,15,Weekday,Cloudy,28.1,1.8,Railway,Scooter,49,56,40,15.9
+2026-07-06,16:00,16,Weekday,Cloudy,28.3,1.0,Market,Bike,65,61,52,18.0
+2026-07-06,16:00,16,Weekday,Cloudy,27.6,1.7,Market,Ride Hailing,71,78,58,21.0
+2026-07-06,16:00,16,Weekday,Cloudy,27.2,0.8,College,Bicycle,42,39,33,21.1
+2026-07-06,16:00,16,Weekday,Cloudy,27.5,0.4,Airport,Bus,92,90,82,31.9
+2026-07-06,16:00,16,Weekday,Cloudy,29.3,1.4,Beach,Scooter,63,46,47,12.0
+2026-07-06,17:00,17,Weekday,Cloudy,29.2,1.5,Central,Bike,156,186,131,14.6
+2026-07-06,17:00,17,Weekday,Cloudy,29.4,0.9,College,Ride Hailing,155,154,129,28.8
+2026-07-06,17:00,17,Weekday,Cloudy,28.7,1.1,Airport,Bicycle,95,72,81,18.7
+2026-07-06,17:00,17,Weekday,Cloudy,31.3,0.8,Beach,Bus,249,187,204,27.8
+2026-07-06,17:00,17,Weekday,Cloudy,27.9,1.6,Airport,Scooter,151,122,134,12.4
+2026-07-06,18:00,18,Weekday,Cloudy,32.0,0.1,Airport,Bike,165,109,139,14.8
+2026-07-06,18:00,18,Weekday,Cloudy,32.0,1.3,Tech Park,Ride Hailing,164,116,149,22.9
+2026-07-06,18:00,18,Weekday,Cloudy,31.7,1.8,College,Bicycle,81,69,75,22.7
+2026-07-06,18:00,18,Weekday,Cloudy,31.8,1.1,Beach,Bus,275,211,258,29.6
+2026-07-06,18:00,18,Weekday,Cloudy,29.3,1.0,Central,Scooter,150,152,141,12.0
+2026-07-06,19:00,19,Weekday,Cloudy,30.0,1.2,Railway,Bike,166,183,145,18.4
+2026-07-06,19:00,19,Weekday,Cloudy,27.4,0.2,Beach,Ride Hailing,125,133,98,25.0
+2026-07-06,19:00,19,Weekday,Cloudy,31.8,0.5,Airport,Bicycle,97,87,75,17.1
+2026-07-06,19:00,19,Weekday,Cloudy,27.5,1.0,College,Bus,226,200,178,35.0
+2026-07-06,19:00,19,Weekday,Cloudy,28.7,1.9,Railway,Scooter,144,140,134,13.6
+2026-07-06,20:00,20,Weekday,Cloudy,28.5,0.1,Railway,Bike,163,136,126,14.9
+2026-07-06,20:00,20,Weekday,Cloudy,28.3,0.4,Market,Ride Hailing,208,176,177,28.5
+2026-07-06,20:00,20,Weekday,Cloudy,29.3,1.6,Tech Park,Bicycle,78,82,75,23.4
+2026-07-06,20:00,20,Weekday,Cloudy,28.0,1.8,Airport,Bus,249,179,197,32.7
+2026-07-06,20:00,20,Weekday,Cloudy,27.6,1.2,Beach,Scooter,98,66,90,14.5
+2026-07-06,21:00,21,Weekday,Cloudy,27.4,1.9,Market,Bike,62,50,52,17.8
+2026-07-06,21:00,21,Weekday,Cloudy,27.1,1.3,College,Ride Hailing,74,78,58,26.8
+2026-07-06,21:00,21,Weekday,Cloudy,30.3,1.5,Central,Bicycle,37,38,29,22.2
+2026-07-06,21:00,21,Weekday,Cloudy,28.8,1.8,Beach,Bus,102,103,84,32.4
+2026-07-06,21:00,21,Weekday,Cloudy,27.1,0.3,Railway,Scooter,48,47,38,12.5
+2026-07-07,06:00,6,Weekday,Rainy,27.5,10.4,College,Bike,31,23,25,18.3
+2026-07-07,06:00,6,Weekday,Rainy,27.5,15.2,Beach,Ride Hailing,115,105,95,27.0
+2026-07-07,06:00,6,Weekday,Rainy,27.1,18.5,College,Bicycle,13,14,12,18.3
+2026-07-07,06:00,6,Weekday,Rainy,25.8,13.8,Market,Bus,109,71,94,31.5
+2026-07-07,06:00,6,Weekday,Rainy,26.3,18.8,Beach,Scooter,39,38,31,15.8
+2026-07-07,07:00,7,Weekday,Rainy,26.6,9.4,Market,Bike,74,85,67,19.1
+2026-07-07,07:00,7,Weekday,Rainy,27.3,13.3,Market,Ride Hailing,272,229,262,21.0
+2026-07-07,07:00,7,Weekday,Rainy,24.5,28.1,Beach,Bicycle,27,25,21,19.7
+2026-07-07,07:00,7,Weekday,Rainy,27.9,18.3,Market,Bus,273,310,227,28.1
+2026-07-07,07:00,7,Weekday,Rainy,26.4,13.3,Airport,Scooter,77,51,64,14.8
+2026-07-07,08:00,8,Weekday,Rainy,25.0,9.4,Market,Bike,67,66,58,16.7
+2026-07-07,08:00,8,Weekday,Rainy,26.1,10.8,Railway,Ride Hailing,249,215,202,23.9
+2026-07-07,08:00,8,Weekday,Rainy,24.0,32.9,Central,Bicycle,31,21,25,23.9
+2026-07-07,08:00,8,Weekday,Rainy,25.2,17.6,Beach,Bus,283,255,274,34.7
+2026-07-07,08:00,8,Weekday,Rainy,28.7,26.6,Beach,Scooter,70,69,63,14.5
+2026-07-07,09:00,9,Weekday,Rainy,26.8,26.7,Railway,Bike,72,65,64,16.7
+2026-07-07,09:00,9,Weekday,Rainy,28.4,16.5,Central,Ride Hailing,196,175,186,26.1
+2026-07-07,09:00,9,Weekday,Rainy,25.6,29.5,College,Bicycle,32,34,26,18.4
+2026-07-07,09:00,9,Weekday,Rainy,25.3,31.8,College,Bus,235,187,200,29.0
+2026-07-07,09:00,9,Weekday,Rainy,27.5,13.4,Airport,Scooter,80,79,72,13.8
+2026-07-07,10:00,10,Weekday,Rainy,25.6,19.0,Airport,Bike,31,21,27,18.3
+2026-07-07,10:00,10,Weekday,Rainy,27.5,33.6,Airport,Ride Hailing,116,138,105,27.8
+2026-07-07,10:00,10,Weekday,Rainy,27.7,19.0,Airport,Bicycle,16,15,14,22.3
+2026-07-07,10:00,10,Weekday,Rainy,27.5,32.1,Beach,Bus,110,101,104,29.0
+2026-07-07,10:00,10,Weekday,Rainy,28.0,26.4,Central,Scooter,38,29,29,14.2
+2026-07-07,11:00,11,Weekday,Rainy,27.6,13.7,Beach,Bike,42,47,39,16.4
+2026-07-07,11:00,11,Weekday,Rainy,25.3,24.4,Central,Ride Hailing,179,171,171,28.2
+2026-07-07,11:00,11,Weekday,Rainy,27.4,16.6,Central,Bicycle,20,19,17,20.6
+2026-07-07,11:00,11,Weekday,Rainy,24.9,26.8,Tech Park,Bus,151,103,139,37.9
+2026-07-07,11:00,11,Weekday,Rainy,27.2,18.2,Market,Scooter,60,50,55,14.6
+2026-07-07,12:00,12,Weekday,Rainy,28.0,31.1,Beach,Bike,43,44,36,16.2
+2026-07-07,12:00,12,Weekday,Rainy,27.0,11.2,Railway,Ride Hailing,165,118,133,28.1
+2026-07-07,12:00,12,Weekday,Rainy,26.7,13.4,Railway,Bicycle,21,16,16,21.2
+2026-07-07,12:00,12,Weekday,Rainy,28.0,19.1,Central,Bus,169,148,146,33.3
+2026-07-07,12:00,12,Weekday,Rainy,27.0,15.1,Railway,Scooter,52,51,42,13.9
+2026-07-07,13:00,13,Weekday,Rainy,24.9,16.7,Market,Bike,42,43,40,14.1
+2026-07-07,13:00,13,Weekday,Rainy,28.7,25.5,Market,Ride Hailing,130,142,109,27.1
+2026-07-07,13:00,13,Weekday,Rainy,26.8,31.3,Tech Park,Bicycle,23,16,18,23.0
+2026-07-07,13:00,13,Weekday,Rainy,26.1,27.4,Tech Park,Bus,126,103,114,29.5
+2026-07-07,13:00,13,Weekday,Rainy,25.5,22.7,Tech Park,Scooter,56,61,46,14.7
+2026-07-07,14:00,14,Weekday,Rainy,26.2,10.0,Tech Park,Bike,44,46,41,18.4
+2026-07-07,14:00,14,Weekday,Rainy,28.3,19.2,Tech Park,Ride Hailing,157,105,139,27.0
+2026-07-07,14:00,14,Weekday,Rainy,26.9,26.3,Beach,Bicycle,22,14,18,23.6
+2026-07-07,14:00,14,Weekday,Rainy,24.9,32.7,Tech Park,Bus,167,200,153,28.5
+2026-07-07,14:00,14,Weekday,Rainy,25.2,31.5,Railway,Scooter,48,36,39,15.8
+2026-07-07,15:00,15,Weekday,Rainy,26.9,24.2,College,Bike,29,28,27,14.5
+2026-07-07,15:00,15,Weekday,Rainy,26.3,10.6,Tech Park,Ride Hailing,115,110,108,22.9
+2026-07-07,15:00,15,Weekday,Rainy,28.1,12.9,Beach,Bicycle,15,15,13,19.6
+2026-07-07,15:00,15,Weekday,Rainy,26.6,29.9,Airport,Bus,101,79,97,36.8
+2026-07-07,15:00,15,Weekday,Rainy,25.6,10.9,Market,Scooter,36,26,35,13.3
+2026-07-07,16:00,16,Weekday,Rainy,28.5,25.0,Market,Bike,30,27,27,14.0
+2026-07-07,16:00,16,Weekday,Rainy,26.7,23.6,Market,Ride Hailing,96,96,74,28.0
+2026-07-07,16:00,16,Weekday,Rainy,26.4,10.0,Railway,Bicycle,17,14,14,19.0
+2026-07-07,16:00,16,Weekday,Rainy,26.5,18.4,Railway,Bus,107,125,103,29.5
+2026-07-07,16:00,16,Weekday,Rainy,27.8,18.2,College,Scooter,36,33,33,16.1
+2026-07-07,17:00,17,Weekday,Rainy,25.9,33.2,Tech Park,Bike,89,106,71,14.8
+2026-07-07,17:00,17,Weekday,Rainy,26.6,9.3,Airport,Ride Hailing,338,291,275,26.5
+2026-07-07,17:00,17,Weekday,Rainy,24.2,14.2,Airport,Bicycle,39,36,32,22.7
+2026-07-07,17:00,17,Weekday,Rainy,25.5,34.2,Airport,Bus,296,208,254,37.1
+2026-07-07,17:00,17,Weekday,Rainy,26.4,19.2,Market,Scooter,89,72,69,16.0
+2026-07-07,18:00,18,Weekday,Rainy,25.8,9.1,Railway,Bike,75,63,59,17.4
+2026-07-07,18:00,18,Weekday,Rainy,28.6,17.3,Market,Ride Hailing,250,167,242,22.4
+2026-07-07,18:00,18,Weekday,Rainy,24.5,12.5,Beach,Bicycle,32,27,29,19.7
+2026-07-07,18:00,18,Weekday,Rainy,27.7,29.4,Tech Park,Bus,334,310,317,29.9
+2026-07-07,18:00,18,Weekday,Rainy,27.2,34.9,Beach,Scooter,93,92,70,11.9
+2026-07-07,19:00,19,Weekday,Rainy,28.7,13.5,Tech Park,Bike,76,77,71,15.8
+2026-07-07,19:00,19,Weekday,Rainy,28.5,26.3,Beach,Ride Hailing,303,278,261,21.4
+2026-07-07,19:00,19,Weekday,Rainy,25.8,21.6,Beach,Bicycle,36,35,27,20.5
+2026-07-07,19:00,19,Weekday,Rainy,27.2,16.4,College,Bus,311,328,257,35.8
+2026-07-07,19:00,19,Weekday,Rainy,25.6,34.1,Railway,Scooter,110,101,102,14.1
+2026-07-07,20:00,20,Weekday,Rainy,26.1,13.2,College,Bike,79,63,60,13.8
+2026-07-07,20:00,20,Weekday,Rainy,24.6,21.0,Central,Ride Hailing,294,321,225,26.2
+2026-07-07,20:00,20,Weekday,Rainy,24.0,27.9,Market,Bicycle,32,34,31,20.9
+2026-07-07,20:00,20,Weekday,Rainy,27.8,28.8,Beach,Bus,285,206,265,30.2
+2026-07-07,20:00,20,Weekday,Rainy,27.7,19.8,Tech Park,Scooter,99,96,86,13.5
+2026-07-07,21:00,21,Weekday,Rainy,28.4,20.9,Airport,Bike,29,33,25,15.1
+2026-07-07,21:00,21,Weekday,Rainy,28.6,24.3,Central,Ride Hailing,111,86,94,27.0
+2026-07-07,21:00,21,Weekday,Rainy,25.1,25.2,Railway,Bicycle,12,13,11,22.7
+2026-07-07,21:00,21,Weekday,Rainy,25.3,23.3,College,Bus,107,93,90,36.1
+2026-07-07,21:00,21,Weekday,Rainy,28.8,23.4,Market,Scooter,33,22,29,16.7
+2026-07-08,06:00,6,Weekday,Sunny,32.7,0.4,Market,Bike,70,66,58,16.3
+2026-07-08,06:00,6,Weekday,Sunny,32.2,0.4,Central,Ride Hailing,64,71,49,24.4
+2026-07-08,06:00,6,Weekday,Sunny,29.0,0.2,College,Bicycle,43,34,34,21.7
+2026-07-08,06:00,6,Weekday,Sunny,29.4,0.5,College,Bus,110,79,86,27.5
+2026-07-08,06:00,6,Weekday,Sunny,34.7,0.1,Central,Scooter,56,52,49,13.3
+2026-07-08,07:00,7,Weekday,Sunny,33.8,0.3,Airport,Bike,174,176,144,19.0
+2026-07-08,07:00,7,Weekday,Sunny,34.9,0.5,Tech Park,Ride Hailing,144,118,120,21.0
+2026-07-08,07:00,7,Weekday,Sunny,33.0,0.3,Tech Park,Bicycle,105,80,98,22.2
+2026-07-08,07:00,7,Weekday,Sunny,33.2,0.2,Tech Park,Bus,228,215,221,31.6
+2026-07-08,07:00,7,Weekday,Sunny,34.9,0.4,College,Scooter,124,125,93,12.7
+2026-07-08,08:00,8,Weekday,Sunny,32.5,0.3,Beach,Bike,185,169,155,16.4
+2026-07-08,08:00,8,Weekday,Sunny,33.1,0.4,Railway,Ride Hailing,146,108,122,22.5
+2026-07-08,08:00,8,Weekday,Sunny,30.7,0.3,Beach,Bicycle,118,78,110,20.8
+2026-07-08,08:00,8,Weekday,Sunny,32.1,0.0,Market,Bus,190,173,165,33.8
+2026-07-08,08:00,8,Weekday,Sunny,33.3,0.2,Market,Scooter,183,150,145,12.3
+2026-07-08,09:00,9,Weekday,Sunny,30.3,0.4,College,Bike,149,101,142,17.5
+2026-07-08,09:00,9,Weekday,Sunny,31.0,0.3,Market,Ride Hailing,148,102,116,25.8
+2026-07-08,09:00,9,Weekday,Sunny,30.7,0.5,College,Bicycle,91,93,79,17.7
+2026-07-08,09:00,9,Weekday,Sunny,31.0,0.3,Airport,Bus,181,201,163,34.1
+2026-07-08,09:00,9,Weekday,Sunny,29.3,0.1,Tech Park,Scooter,120,114,90,12.4
+2026-07-08,10:00,10,Weekday,Sunny,34.2,0.1,Central,Bike,73,63,60,16.8
+2026-07-08,10:00,10,Weekday,Sunny,33.1,0.1,Airport,Ride Hailing,65,52,61,22.3
+2026-07-08,10:00,10,Weekday,Sunny,29.3,0.4,Central,Bicycle,50,40,40,22.5
+2026-07-08,10:00,10,Weekday,Sunny,29.7,0.4,Central,Bus,98,98,79,28.1
+2026-07-08,10:00,10,Weekday,Sunny,34.8,0.3,Central,Scooter,68,73,58,15.6
+2026-07-08,11:00,11,Weekday,Sunny,32.0,0.3,College,Bike,104,104,89,14.7
+2026-07-08,11:00,11,Weekday,Sunny,34.7,0.2,Market,Ride Hailing,103,83,95,21.2
+2026-07-08,11:00,11,Weekday,Sunny,29.0,0.2,Railway,Bicycle,62,64,56,19.8
+2026-07-08,11:00,11,Weekday,Sunny,30.8,0.5,Beach,Bus,139,119,112,35.4
+2026-07-08,11:00,11,Weekday,Sunny,30.1,0.2,Central,Scooter,94,78,75,13.4
+2026-07-08,12:00,12,Weekday,Sunny,33.1,0.1,Railway,Bike,115,81,106,15.5
+2026-07-08,12:00,12,Weekday,Sunny,31.0,0.2,Tech Park,Ride Hailing,85,101,77,20.8
+2026-07-08,12:00,12,Weekday,Sunny,33.7,0.4,Beach,Bicycle,70,50,60,21.8
+2026-07-08,12:00,12,Weekday,Sunny,32.7,0.1,Beach,Bus,155,141,139,27.6
+2026-07-08,12:00,12,Weekday,Sunny,32.1,0.1,Beach,Scooter,87,72,85,16.7
+2026-07-08,13:00,13,Weekday,Sunny,33.5,0.0,Beach,Bike,114,104,88,17.9
+2026-07-08,13:00,13,Weekday,Sunny,33.3,0.3,Railway,Ride Hailing,93,104,89,22.6
+2026-07-08,13:00,13,Weekday,Sunny,31.2,0.5,Tech Park,Bicycle,58,55,55,17.2
+2026-07-08,13:00,13,Weekday,Sunny,34.6,0.2,Central,Bus,136,102,105,33.6
+2026-07-08,13:00,13,Weekday,Sunny,34.5,0.3,Airport,Scooter,87,95,67,15.0
+2026-07-08,14:00,14,Weekday,Sunny,29.9,0.1,Railway,Bike,96,102,79,17.3
+2026-07-08,14:00,14,Weekday,Sunny,32.5,0.3,Beach,Ride Hailing,97,93,73,21.1
+2026-07-08,14:00,14,Weekday,Sunny,29.2,0.3,College,Bicycle,78,61,64,19.3
+2026-07-08,14:00,14,Weekday,Sunny,34.1,0.1,Central,Bus,138,111,113,31.7
+2026-07-08,14:00,14,Weekday,Sunny,34.9,0.4,Central,Scooter,88,70,67,12.5
+2026-07-08,15:00,15,Weekday,Sunny,31.8,0.3,Airport,Bike,70,61,62,16.3
+2026-07-08,15:00,15,Weekday,Sunny,31.0,0.2,Central,Ride Hailing,75,67,71,28.3
+2026-07-08,15:00,15,Weekday,Sunny,31.8,0.1,Railway,Bicycle,42,32,40,22.9
+2026-07-08,15:00,15,Weekday,Sunny,33.7,0.2,Airport,Bus,84,55,69,35.0
+2026-07-08,15:00,15,Weekday,Sunny,31.4,0.5,Beach,Scooter,63,51,47,14.7
+2026-07-08,16:00,16,Weekday,Sunny,29.3,0.4,Market,Bike,91,92,76,17.2
+2026-07-08,16:00,16,Weekday,Sunny,34.0,0.2,Tech Park,Ride Hailing,76,89,65,25.2
+2026-07-08,16:00,16,Weekday,Sunny,29.3,0.2,Market,Bicycle,46,35,37,22.6
+2026-07-08,16:00,16,Weekday,Sunny,33.6,0.1,Beach,Bus,103,91,93,34.0
+2026-07-08,16:00,16,Weekday,Sunny,31.0,0.3,Airport,Scooter,60,66,56,14.8
+2026-07-08,17:00,17,Weekday,Sunny,34.4,0.3,Beach,Bike,197,198,157,14.4
+2026-07-08,17:00,17,Weekday,Sunny,34.3,0.3,Airport,Ride Hailing,197,218,155,20.7
+2026-07-08,17:00,17,Weekday,Sunny,30.6,0.2,Railway,Bicycle,118,137,95,17.6
+2026-07-08,17:00,17,Weekday,Sunny,33.7,0.4,Airport,Bus,225,231,180,32.1
+2026-07-08,17:00,17,Weekday,Sunny,30.6,0.2,Beach,Scooter,151,145,147,15.0
+2026-07-08,18:00,18,Weekday,Sunny,34.0,0.3,Airport,Bike,213,169,194,13.8
+2026-07-08,18:00,18,Weekday,Sunny,31.0,0.1,Market,Ride Hailing,152,159,121,22.5
+2026-07-08,18:00,18,Weekday,Sunny,29.6,0.5,Beach,Bicycle,128,100,99,22.6
+2026-07-08,18:00,18,Weekday,Sunny,30.6,0.1,College,Bus,207,146,191,36.2
+2026-07-08,18:00,18,Weekday,Sunny,32.8,0.5,Central,Scooter,135,105,116,14.6
+2026-07-08,19:00,19,Weekday,Sunny,33.3,0.3,Central,Bike,169,129,136,14.3
+2026-07-08,19:00,19,Weekday,Sunny,33.0,0.4,Railway,Ride Hailing,150,115,116,26.1
+2026-07-08,19:00,19,Weekday,Sunny,31.5,0.4,College,Bicycle,109,79,90,23.4
+2026-07-08,19:00,19,Weekday,Sunny,32.0,0.2,Railway,Bus,209,193,192,35.8
+2026-07-08,19:00,19,Weekday,Sunny,29.7,0.1,Central,Scooter,168,158,137,15.0
+2026-07-08,20:00,20,Weekday,Sunny,30.9,0.4,Railway,Bike,221,201,206,14.3
+2026-07-08,20:00,20,Weekday,Sunny,34.5,0.4,College,Ride Hailing,195,229,147,23.0
+2026-07-08,20:00,20,Weekday,Sunny,31.9,0.0,Tech Park,Bicycle,126,91,114,21.0
+2026-07-08,20:00,20,Weekday,Sunny,31.9,0.1,Beach,Bus,239,181,224,36.2
+2026-07-08,20:00,20,Weekday,Sunny,31.0,0.3,Tech Park,Scooter,150,179,131,12.9
+2026-07-08,21:00,21,Weekday,Sunny,30.1,0.3,Airport,Bike,65,53,57,14.0
+2026-07-08,21:00,21,Weekday,Sunny,33.4,0.5,Airport,Ride Hailing,66,79,64,27.9
+2026-07-08,21:00,21,Weekday,Sunny,32.3,0.3,Tech Park,Bicycle,46,32,44,19.4
+2026-07-08,21:00,21,Weekday,Sunny,29.3,0.4,Tech Park,Bus,93,73,89,28.3
+2026-07-08,21:00,21,Weekday,Sunny,34.5,0.2,Central,Scooter,57,56,55,15.8
+2026-07-09,06:00,6,Weekday,Sunny,30.9,0.4,Tech Park,Bike,74,67,71,13.8
+2026-07-09,06:00,6,Weekday,Sunny,32.1,0.2,Airport,Ride Hailing,55,54,48,26.6
+2026-07-09,06:00,6,Weekday,Sunny,31.7,0.3,Railway,Bicycle,43,49,39,23.3
+2026-07-09,06:00,6,Weekday,Sunny,30.6,0.1,Market,Bus,97,65,91,36.0
+2026-07-09,06:00,6,Weekday,Sunny,34.6,0.0,Central,Scooter,64,64,61,16.5
+2026-07-09,07:00,7,Weekday,Sunny,29.8,0.4,Airport,Bike,165,147,126,18.2
+2026-07-09,07:00,7,Weekday,Sunny,32.5,0.0,Beach,Ride Hailing,121,90,100,25.5
+2026-07-09,07:00,7,Weekday,Sunny,34.0,0.2,Central,Bicycle,92,65,78,23.7
+2026-07-09,07:00,7,Weekday,Sunny,33.6,0.1,Beach,Bus,204,159,174,33.0
+2026-07-09,07:00,7,Weekday,Sunny,30.7,0.2,Beach,Scooter,145,137,124,13.3
+2026-07-09,08:00,8,Weekday,Sunny,32.6,0.4,Beach,Bike,173,144,153,14.1
+2026-07-09,08:00,8,Weekday,Sunny,34.1,0.2,College,Ride Hailing,143,122,118,27.5
+2026-07-09,08:00,8,Weekday,Sunny,33.6,0.1,Market,Bicycle,89,60,83,21.0
+2026-07-09,08:00,8,Weekday,Sunny,29.2,0.2,Beach,Bus,207,214,155,37.0
+2026-07-09,08:00,8,Weekday,Sunny,31.5,0.4,Central,Scooter,126,101,100,15.1
+2026-07-09,09:00,9,Weekday,Sunny,29.8,0.2,Beach,Bike,195,201,166,18.9
+2026-07-09,09:00,9,Weekday,Sunny,34.8,0.0,Railway,Ride Hailing,150,106,123,25.5
+2026-07-09,09:00,9,Weekday,Sunny,29.0,0.4,Railway,Bicycle,101,102,91,23.7
+2026-07-09,09:00,9,Weekday,Sunny,31.0,0.4,Railway,Bus,212,248,201,30.4
+2026-07-09,09:00,9,Weekday,Sunny,32.6,0.3,Tech Park,Scooter,143,105,131,11.9
+2026-07-09,10:00,10,Weekday,Sunny,31.6,0.4,Tech Park,Bike,83,75,70,14.5
+2026-07-09,10:00,10,Weekday,Sunny,29.9,0.4,Market,Ride Hailing,63,54,53,25.2
+2026-07-09,10:00,10,Weekday,Sunny,29.7,0.0,Airport,Bicycle,37,41,35,22.9
+2026-07-09,10:00,10,Weekday,Sunny,30.0,0.2,Market,Bus,104,102,96,36.5
+2026-07-09,10:00,10,Weekday,Sunny,30.6,0.1,Beach,Scooter,55,42,45,16.8
+2026-07-09,11:00,11,Weekday,Sunny,33.6,0.0,Market,Bike,106,96,91,18.5
+2026-07-09,11:00,11,Weekday,Sunny,33.9,0.0,Beach,Ride Hailing,82,53,71,26.7
+2026-07-09,11:00,11,Weekday,Sunny,30.4,0.0,Central,Bicycle,54,62,53,17.7
+2026-07-09,11:00,11,Weekday,Sunny,31.8,0.5,Market,Bus,144,121,117,32.0
+2026-07-09,11:00,11,Weekday,Sunny,31.6,0.2,College,Scooter,97,95,86,16.0
+2026-07-09,12:00,12,Weekday,Sunny,31.6,0.5,Tech Park,Bike,121,143,105,14.2
+2026-07-09,12:00,12,Weekday,Sunny,33.2,0.5,Beach,Ride Hailing,100,92,88,25.1
+2026-07-09,12:00,12,Weekday,Sunny,34.4,0.2,Beach,Bicycle,65,63,51,19.8
+2026-07-09,12:00,12,Weekday,Sunny,32.9,0.3,Market,Bus,120,93,95,32.0
+2026-07-09,12:00,12,Weekday,Sunny,33.5,0.1,Tech Park,Scooter,73,73,68,15.1
+2026-07-09,13:00,13,Weekday,Sunny,29.2,0.3,College,Bike,102,108,96,14.0
+2026-07-09,13:00,13,Weekday,Sunny,30.1,0.2,Tech Park,Ride Hailing,88,68,73,22.8
+2026-07-09,13:00,13,Weekday,Sunny,31.6,0.1,Airport,Bicycle,75,73,67,19.9
+2026-07-09,13:00,13,Weekday,Sunny,30.3,0.4,College,Bus,127,137,120,31.2
+2026-07-09,13:00,13,Weekday,Sunny,29.8,0.1,Tech Park,Scooter,99,73,93,15.8
+2026-07-09,14:00,14,Weekday,Sunny,33.9,0.2,Market,Bike,100,80,93,15.6
+2026-07-09,14:00,14,Weekday,Sunny,29.8,0.1,Market,Ride Hailing,91,93,87,20.9
+2026-07-09,14:00,14,Weekday,Sunny,30.7,0.3,College,Bicycle,51,37,45,22.3
+2026-07-09,14:00,14,Weekday,Sunny,31.1,0.5,Airport,Bus,136,137,124,33.8
+2026-07-09,14:00,14,Weekday,Sunny,29.4,0.3,Tech Park,Scooter,76,72,72,14.8
+2026-07-09,15:00,15,Weekday,Sunny,30.5,0.5,Tech Park,Bike,64,43,56,18.4
+2026-07-09,15:00,15,Weekday,Sunny,35.0,0.2,College,Ride Hailing,61,44,59,24.1
+2026-07-09,15:00,15,Weekday,Sunny,32.4,0.1,Market,Bicycle,60,39,55,19.9
+2026-07-09,15:00,15,Weekday,Sunny,34.6,0.2,College,Bus,98,113,77,36.4
+2026-07-09,15:00,15,Weekday,Sunny,34.9,0.2,Central,Scooter,61,43,50,16.0
+2026-07-09,16:00,16,Weekday,Sunny,34.2,0.2,Railway,Bike,71,47,59,16.6
+2026-07-09,16:00,16,Weekday,Sunny,31.7,0.3,Beach,Ride Hailing,58,53,50,27.4
+2026-07-09,16:00,16,Weekday,Sunny,33.4,0.4,College,Bicycle,50,42,39,19.9
+2026-07-09,16:00,16,Weekday,Sunny,34.6,0.5,Tech Park,Bus,97,88,81,36.9
+2026-07-09,16:00,16,Weekday,Sunny,32.4,0.1,Central,Scooter,67,72,64,12.0
+2026-07-09,17:00,17,Weekday,Sunny,32.4,0.1,College,Bike,176,178,156,17.7
+2026-07-09,17:00,17,Weekday,Sunny,33.6,0.4,Market,Ride Hailing,186,159,151,26.8
+2026-07-09,17:00,17,Weekday,Sunny,31.9,0.5,Beach,Bicycle,125,99,100,19.4
+2026-07-09,17:00,17,Weekday,Sunny,31.4,0.5,Railway,Bus,259,290,228,33.2
+2026-07-09,17:00,17,Weekday,Sunny,29.2,0.2,College,Scooter,144,99,111,15.9
+2026-07-09,18:00,18,Weekday,Sunny,30.5,0.2,Central,Bike,179,129,136,15.2
+2026-07-09,18:00,18,Weekday,Sunny,30.5,0.3,Beach,Ride Hailing,182,133,150,28.6
+2026-07-09,18:00,18,Weekday,Sunny,34.7,0.1,Market,Bicycle,119,124,97,21.1
+2026-07-09,18:00,18,Weekday,Sunny,31.5,0.4,Beach,Bus,235,170,224,35.6
+2026-07-09,18:00,18,Weekday,Sunny,32.8,0.2,Beach,Scooter,174,185,148,15.5
+2026-07-09,19:00,19,Weekday,Sunny,33.9,0.1,Central,Bike,200,143,171,18.7
+2026-07-09,19:00,19,Weekday,Sunny,33.8,0.3,Beach,Ride Hailing,158,146,128,26.3
+2026-07-09,19:00,19,Weekday,Sunny,34.4,0.3,Tech Park,Bicycle,129,147,111,21.6
+2026-07-09,19:00,19,Weekday,Sunny,31.9,0.3,Railway,Bus,266,210,235,36.1
+2026-07-09,19:00,19,Weekday,Sunny,31.5,0.1,Airport,Scooter,180,158,150,13.9
+2026-07-09,20:00,20,Weekday,Sunny,34.6,0.1,College,Bike,176,138,155,14.2
+2026-07-09,20:00,20,Weekday,Sunny,29.5,0.4,Beach,Ride Hailing,146,117,138,20.7
+2026-07-09,20:00,20,Weekday,Sunny,30.4,0.2,Railway,Bicycle,109,111,93,23.9
+2026-07-09,20:00,20,Weekday,Sunny,33.1,0.3,Airport,Bus,229,161,211,38.0
+2026-07-09,20:00,20,Weekday,Sunny,33.8,0.2,College,Scooter,168,144,135,14.6
+2026-07-09,21:00,21,Weekday,Sunny,30.6,0.4,Market,Bike,76,53,67,16.6
+2026-07-09,21:00,21,Weekday,Sunny,32.8,0.0,Railway,Ride Hailing,59,40,55,21.7
+2026-07-09,21:00,21,Weekday,Sunny,30.2,0.1,College,Bicycle,48,55,41,20.2
+2026-07-09,21:00,21,Weekday,Sunny,30.1,0.5,Beach,Bus,86,92,73,30.9
+2026-07-09,21:00,21,Weekday,Sunny,31.0,0.0,Central,Scooter,58,59,49,15.4
+2026-07-10,06:00,6,Weekday,Windy,28.9,0.1,Market,Bike,48,47,41,17.1
+2026-07-10,06:00,6,Weekday,Windy,29.7,0.8,Market,Ride Hailing,94,110,73,22.6
+2026-07-10,06:00,6,Weekday,Windy,30.7,2.5,Tech Park,Bicycle,21,22,18,23.3
+2026-07-10,06:00,6,Weekday,Windy,30.0,3.6,Central,Bus,90,80,71,37.8
+2026-07-10,06:00,6,Weekday,Windy,28.4,4.4,Central,Scooter,54,40,48,15.3
+2026-07-10,07:00,7,Weekday,Windy,26.4,4.3,Central,Bike,95,96,90,14.2
+2026-07-10,07:00,7,Weekday,Windy,27.2,4.3,Tech Park,Ride Hailing,189,180,173,20.8
+2026-07-10,07:00,7,Weekday,Windy,26.1,3.1,Beach,Bicycle,51,55,44,20.9
+2026-07-10,07:00,7,Weekday,Windy,26.0,0.1,Airport,Bus,225,214,218,38.4
+2026-07-10,07:00,7,Weekday,Windy,27.5,3.5,College,Scooter,87,65,82,12.0
+2026-07-10,08:00,8,Weekday,Windy,30.6,4.7,Tech Park,Bike,99,90,76,16.9
+2026-07-10,08:00,8,Weekday,Windy,27.8,2.9,College,Ride Hailing,197,236,176,25.1
+2026-07-10,08:00,8,Weekday,Windy,29.6,3.1,Railway,Bicycle,48,34,39,19.7
+2026-07-10,08:00,8,Weekday,Windy,31.0,2.2,Airport,Bus,244,217,203,28.0
+2026-07-10,08:00,8,Weekday,Windy,30.9,0.6,College,Scooter,81,73,74,16.2
+2026-07-10,09:00,9,Weekday,Windy,26.5,1.7,Railway,Bike,105,104,98,18.6
+2026-07-10,09:00,9,Weekday,Windy,30.8,0.9,Railway,Ride Hailing,196,190,156,21.0
+2026-07-10,09:00,9,Weekday,Windy,29.5,3.6,Central,Bicycle,58,57,47,18.1
+2026-07-10,09:00,9,Weekday,Windy,30.9,4.8,College,Bus,215,198,209,36.5
+2026-07-10,09:00,9,Weekday,Windy,26.2,1.7,College,Scooter,96,82,91,14.0
+2026-07-10,10:00,10,Weekday,Windy,30.7,2.5,Airport,Bike,40,36,38,14.1
+2026-07-10,10:00,10,Weekday,Windy,27.7,4.1,Airport,Ride Hailing,70,68,66,21.0
+2026-07-10,10:00,10,Weekday,Windy,28.0,2.1,College,Bicycle,25,21,23,18.1
+2026-07-10,10:00,10,Weekday,Windy,29.7,2.5,Railway,Bus,93,70,78,31.2
+2026-07-10,10:00,10,Weekday,Windy,27.2,2.0,Beach,Scooter,47,51,38,14.3
+2026-07-10,11:00,11,Weekday,Windy,27.0,3.7,Market,Bike,74,52,72,18.4
+2026-07-10,11:00,11,Weekday,Windy,27.5,4.6,Airport,Ride Hailing,142,126,114,28.8
+2026-07-10,11:00,11,Weekday,Windy,27.9,2.9,Tech Park,Bicycle,35,31,26,20.4
+2026-07-10,11:00,11,Weekday,Windy,30.6,4.4,Market,Bus,168,197,144,35.0
+2026-07-10,11:00,11,Weekday,Windy,29.9,0.8,Tech Park,Scooter,90,60,74,15.5
+2026-07-10,12:00,12,Weekday,Windy,30.6,2.1,Beach,Bike,60,56,53,16.3
+2026-07-10,12:00,12,Weekday,Windy,28.1,2.7,Beach,Ride Hailing,123,106,116,28.5
+2026-07-10,12:00,12,Weekday,Windy,27.8,1.3,Airport,Bicycle,32,33,30,19.4
+2026-07-10,12:00,12,Weekday,Windy,29.9,0.7,Airport,Bus,162,148,140,29.6
+2026-07-10,12:00,12,Weekday,Windy,30.2,3.1,Market,Scooter,73,71,57,14.1
+2026-07-10,13:00,13,Weekday,Windy,29.4,4.7,Tech Park,Bike,54,54,41,13.8
+2026-07-10,13:00,13,Weekday,Windy,29.2,3.3,Beach,Ride Hailing,109,118,96,28.7
+2026-07-10,13:00,13,Weekday,Windy,29.8,4.0,Beach,Bicycle,38,43,30,21.4
+2026-07-10,13:00,13,Weekday,Windy,26.3,0.2,Central,Bus,126,84,106,28.4
+2026-07-10,13:00,13,Weekday,Windy,28.9,4.7,Railway,Scooter,69,46,56,14.4
+2026-07-10,14:00,14,Weekday,Windy,29.3,4.4,Beach,Bike,55,49,45,15.0
+2026-07-10,14:00,14,Weekday,Windy,29.4,2.4,College,Ride Hailing,121,118,104,23.5
+2026-07-10,14:00,14,Weekday,Windy,26.8,5.0,Beach,Bicycle,28,18,23,22.0
+2026-07-10,14:00,14,Weekday,Windy,27.8,4.9,Tech Park,Bus,133,159,109,35.2
+2026-07-10,14:00,14,Weekday,Windy,27.8,3.6,Tech Park,Scooter,74,87,70,14.3
+2026-07-10,15:00,15,Weekday,Windy,27.3,0.3,Airport,Bike,49,43,39,18.7
+2026-07-10,15:00,15,Weekday,Windy,27.8,1.1,College,Ride Hailing,92,89,86,25.1
+2026-07-10,15:00,15,Weekday,Windy,29.4,1.9,Market,Bicycle,25,17,23,22.0
+2026-07-10,15:00,15,Weekday,Windy,26.1,0.7,Railway,Bus,111,93,108,37.4
+2026-07-10,15:00,15,Weekday,Windy,29.0,2.2,Beach,Scooter,46,33,37,12.0
+2026-07-10,16:00,16,Weekday,Windy,29.9,3.4,College,Bike,51,42,45,19.1
+2026-07-10,16:00,16,Weekday,Windy,27.3,3.4,Beach,Ride Hailing,92,63,69,26.0
+2026-07-10,16:00,16,Weekday,Windy,29.9,1.8,Tech Park,Bicycle,26,23,21,22.1
+2026-07-10,16:00,16,Weekday,Windy,30.8,2.4,Tech Park,Bus,98,102,76,35.6
+2026-07-10,16:00,16,Weekday,Windy,27.1,0.4,Market,Scooter,54,39,48,15.2
+2026-07-10,17:00,17,Weekday,Windy,30.7,1.7,Tech Park,Bike,100,83,86,18.2
+2026-07-10,17:00,17,Weekday,Windy,29.5,3.1,Railway,Ride Hailing,222,258,183,28.3
+2026-07-10,17:00,17,Weekday,Windy,29.0,1.4,College,Bicycle,61,58,52,23.8
+2026-07-10,17:00,17,Weekday,Windy,30.5,4.6,College,Bus,298,195,291,37.0
+2026-07-10,17:00,17,Weekday,Windy,26.1,3.5,Beach,Scooter,133,87,109,15.0
+2026-07-10,18:00,18,Weekday,Windy,26.2,3.3,Railway,Bike,126,115,107,17.9
+2026-07-10,18:00,18,Weekday,Windy,26.4,3.2,Beach,Ride Hailing,163,185,150,28.0
+2026-07-10,18:00,18,Weekday,Windy,29.8,1.9,Central,Bicycle,67,68,58,17.2
+2026-07-10,18:00,18,Weekday,Windy,28.7,1.1,College,Bus,318,378,309,31.9
+2026-07-10,18:00,18,Weekday,Windy,28.5,3.1,Tech Park,Scooter,111,103,91,12.7
+2026-07-10,19:00,19,Weekday,Windy,30.1,3.4,Beach,Bike,108,115,82,15.0
+2026-07-10,19:00,19,Weekday,Windy,26.3,4.3,Tech Park,Ride Hailing,214,191,167,24.5
+2026-07-10,19:00,19,Weekday,Windy,30.4,4.0,Tech Park,Bicycle,58,58,54,22.5
+2026-07-10,19:00,19,Weekday,Windy,28.6,2.2,Railway,Bus,244,217,190,32.3
+2026-07-10,19:00,19,Weekday,Windy,28.7,2.2,Beach,Scooter,103,93,78,13.0
+2026-07-10,20:00,20,Weekday,Windy,26.9,0.4,Tech Park,Bike,98,112,81,14.4
+2026-07-10,20:00,20,Weekday,Windy,26.9,1.0,Market,Ride Hailing,223,259,204,26.8
+2026-07-10,20:00,20,Weekday,Windy,30.9,3.5,Beach,Bicycle,67,61,58,23.0
+2026-07-10,20:00,20,Weekday,Windy,29.5,2.6,Tech Park,Bus,285,292,261,38.0
+2026-07-10,20:00,20,Weekday,Windy,27.8,3.6,Central,Scooter,140,126,136,12.3
+2026-07-10,21:00,21,Weekday,Windy,27.3,0.1,Railway,Bike,51,60,40,18.0
+2026-07-10,21:00,21,Weekday,Windy,26.2,2.3,College,Ride Hailing,95,66,86,26.1
+2026-07-10,21:00,21,Weekday,Windy,26.2,5.0,Beach,Bicycle,23,23,21,22.0
+2026-07-10,21:00,21,Weekday,Windy,28.4,0.2,Beach,Bus,94,93,74,33.1
+2026-07-10,21:00,21,Weekday,Windy,26.0,2.1,Airport,Scooter,46,49,43,13.3
+2026-07-11,06:00,6,Weekend,Sunny,30.1,0.0,Central,Bike,62,57,50,17.6
+2026-07-11,06:00,6,Weekend,Sunny,32.5,0.4,Railway,Ride Hailing,62,57,59,26.4
+2026-07-11,06:00,6,Weekend,Sunny,34.9,0.2,Railway,Bicycle,42,50,36,22.8
+2026-07-11,06:00,6,Weekend,Sunny,33.7,0.4,Central,Bus,73,80,62,28.0
+2026-07-11,06:00,6,Weekend,Sunny,29.7,0.1,College,Scooter,49,41,41,15.9
+2026-07-11,07:00,7,Weekend,Sunny,33.2,0.1,Beach,Bike,109,120,101,18.0
+2026-07-11,07:00,7,Weekend,Sunny,33.5,0.2,Market,Ride Hailing,119,120,104,20.8
+2026-07-11,07:00,7,Weekend,Sunny,32.4,0.3,College,Bicycle,90,90,76,22.7
+2026-07-11,07:00,7,Weekend,Sunny,30.1,0.4,Airport,Bus,182,127,154,33.5
+2026-07-11,07:00,7,Weekend,Sunny,35.0,0.4,Tech Park,Scooter,127,109,104,16.3
+2026-07-11,08:00,8,Weekend,Sunny,33.3,0.5,Central,Bike,150,168,146,15.1
+2026-07-11,08:00,8,Weekend,Sunny,29.9,0.2,Market,Ride Hailing,127,105,104,22.7
+2026-07-11,08:00,8,Weekend,Sunny,32.4,0.4,Market,Bicycle,73,62,68,20.7
+2026-07-11,08:00,8,Weekend,Sunny,30.5,0.1,Airport,Bus,140,165,129,35.6
+2026-07-11,08:00,8,Weekend,Sunny,32.5,0.0,Tech Park,Scooter,110,109,87,14.5
+2026-07-11,09:00,9,Weekend,Sunny,30.6,0.2,College,Bike,130,117,113,17.6
+2026-07-11,09:00,9,Weekend,Sunny,29.5,0.2,College,Ride Hailing,113,132,100,28.7
+2026-07-11,09:00,9,Weekend,Sunny,32.6,0.3,College,Bicycle,86,92,83,17.4
+2026-07-11,09:00,9,Weekend,Sunny,32.0,0.2,Beach,Bus,163,135,147,34.2
+2026-07-11,09:00,9,Weekend,Sunny,34.8,0.1,Beach,Scooter,106,75,100,13.4
+2026-07-11,10:00,10,Weekend,Sunny,30.2,0.3,College,Bike,51,40,42,16.2
+2026-07-11,10:00,10,Weekend,Sunny,32.2,0.4,Market,Ride Hailing,48,57,41,25.1
+2026-07-11,10:00,10,Weekend,Sunny,33.1,0.5,Market,Bicycle,36,24,30,18.3
+2026-07-11,10:00,10,Weekend,Sunny,34.2,0.2,College,Bus,95,96,90,35.6
+2026-07-11,10:00,10,Weekend,Sunny,31.4,0.2,Tech Park,Scooter,51,36,45,12.0
+2026-07-11,11:00,11,Weekend,Sunny,34.6,0.2,Railway,Bike,89,91,84,17.5
+2026-07-11,11:00,11,Weekend,Sunny,31.3,0.2,Tech Park,Ride Hailing,81,89,76,25.2
+2026-07-11,11:00,11,Weekend,Sunny,32.9,0.2,Beach,Bicycle,55,51,50,20.0
+2026-07-11,11:00,11,Weekend,Sunny,34.7,0.1,College,Bus,116,87,95,32.5
+2026-07-11,11:00,11,Weekend,Sunny,30.2,0.2,Airport,Scooter,83,87,64,16.6
+2026-07-11,12:00,12,Weekend,Sunny,29.6,0.1,Central,Bike,87,96,72,17.7
+2026-07-11,12:00,12,Weekend,Sunny,33.1,0.3,Beach,Ride Hailing,73,55,55,22.4
+2026-07-11,12:00,12,Weekend,Sunny,33.8,0.1,Central,Bicycle,54,36,48,18.0
+2026-07-11,12:00,12,Weekend,Sunny,32.5,0.0,Tech Park,Bus,117,91,102,32.3
+2026-07-11,12:00,12,Weekend,Sunny,29.3,0.4,Tech Park,Scooter,84,56,68,14.3
+2026-07-11,13:00,13,Weekend,Sunny,31.8,0.1,Tech Park,Bike,81,68,70,16.9
+2026-07-11,13:00,13,Weekend,Sunny,31.2,0.4,Tech Park,Ride Hailing,75,62,65,23.1
+2026-07-11,13:00,13,Weekend,Sunny,33.0,0.3,Beach,Bicycle,38,39,34,18.4
+2026-07-11,13:00,13,Weekend,Sunny,33.5,0.3,College,Bus,103,111,91,34.4
+2026-07-11,13:00,13,Weekend,Sunny,29.6,0.2,Beach,Scooter,65,66,51,13.9
+2026-07-11,14:00,14,Weekend,Sunny,32.4,0.4,Railway,Bike,86,68,75,19.0
+2026-07-11,14:00,14,Weekend,Sunny,33.1,0.4,Tech Park,Ride Hailing,70,49,55,26.1
+2026-07-11,14:00,14,Weekend,Sunny,31.0,0.5,Airport,Bicycle,50,55,44,23.6
+2026-07-11,14:00,14,Weekend,Sunny,30.7,0.3,Tech Park,Bus,118,81,105,33.8
+2026-07-11,14:00,14,Weekend,Sunny,32.9,0.1,College,Scooter,60,46,53,15.6
+2026-07-11,15:00,15,Weekend,Sunny,29.8,0.4,College,Bike,68,50,52,14.8
+2026-07-11,15:00,15,Weekend,Sunny,33.8,0.3,Beach,Ride Hailing,56,41,44,24.0
+2026-07-11,15:00,15,Weekend,Sunny,29.2,0.2,Beach,Bicycle,37,39,33,19.3
+2026-07-11,15:00,15,Weekend,Sunny,32.5,0.1,Airport,Bus,83,73,81,27.8
+2026-07-11,15:00,15,Weekend,Sunny,30.3,0.1,Market,Scooter,43,44,33,16.5
+2026-07-11,16:00,16,Weekend,Sunny,33.5,0.1,Railway,Bike,59,65,53,15.8
+2026-07-11,16:00,16,Weekend,Sunny,33.0,0.4,Central,Ride Hailing,47,41,45,22.5
+2026-07-11,16:00,16,Weekend,Sunny,29.8,0.0,Beach,Bicycle,30,26,27,23.3
+2026-07-11,16:00,16,Weekend,Sunny,30.5,0.3,Market,Bus,82,70,79,35.0
+2026-07-11,16:00,16,Weekend,Sunny,34.3,0.3,Beach,Scooter,54,65,42,13.1
+2026-07-11,17:00,17,Weekend,Sunny,31.9,0.2,Beach,Bike,167,173,127,18.7
+2026-07-11,17:00,17,Weekend,Sunny,32.8,0.4,Beach,Ride Hailing,133,93,103,22.6
+2026-07-11,17:00,17,Weekend,Sunny,31.4,0.3,College,Bicycle,91,95,69,19.7
+2026-07-11,17:00,17,Weekend,Sunny,30.6,0.1,Central,Bus,166,142,129,30.0
+2026-07-11,17:00,17,Weekend,Sunny,29.3,0.1,Tech Park,Scooter,126,100,121,13.7
+2026-07-11,18:00,18,Weekend,Sunny,33.6,0.4,Beach,Bike,159,137,135,16.2
+2026-07-11,18:00,18,Weekend,Sunny,33.4,0.4,Market,Ride Hailing,95,78,87,27.3
+2026-07-11,18:00,18,Weekend,Sunny,34.2,0.4,College,Bicycle,91,104,79,20.3
+2026-07-11,18:00,18,Weekend,Sunny,29.2,0.5,Market,Bus,197,232,164,34.4
+2026-07-11,18:00,18,Weekend,Sunny,34.4,0.5,Central,Scooter,148,142,117,13.4
+2026-07-11,19:00,19,Weekend,Sunny,34.1,0.2,Tech Park,Bike,136,124,113,18.4
+2026-07-11,19:00,19,Weekend,Sunny,31.1,0.3,College,Ride Hailing,136,156,102,24.6
+2026-07-11,19:00,19,Weekend,Sunny,32.6,0.4,Market,Bicycle,86,89,83,20.9
+2026-07-11,19:00,19,Weekend,Sunny,29.9,0.1,Beach,Bus,201,162,180,34.0
+2026-07-11,19:00,19,Weekend,Sunny,33.6,0.1,College,Scooter,124,116,111,15.9
+2026-07-11,20:00,20,Weekend,Sunny,31.6,0.0,Beach,Bike,169,114,159,15.0
+2026-07-11,20:00,20,Weekend,Sunny,30.6,0.1,Beach,Ride Hailing,151,133,138,28.3
+2026-07-11,20:00,20,Weekend,Sunny,32.5,0.2,Railway,Bicycle,114,116,86,20.5
+2026-07-11,20:00,20,Weekend,Sunny,34.4,0.2,Central,Bus,159,152,146,37.2
+2026-07-11,20:00,20,Weekend,Sunny,30.9,0.4,Market,Scooter,106,84,94,12.9
+2026-07-11,21:00,21,Weekend,Sunny,33.9,0.5,Beach,Bike,64,52,52,17.0
+2026-07-11,21:00,21,Weekend,Sunny,31.9,0.2,Airport,Ride Hailing,50,49,40,28.0
+2026-07-11,21:00,21,Weekend,Sunny,29.7,0.1,Beach,Bicycle,37,33,29,20.8
+2026-07-11,21:00,21,Weekend,Sunny,33.0,0.4,Airport,Bus,75,55,71,35.4
+2026-07-11,21:00,21,Weekend,Sunny,34.0,0.4,Airport,Scooter,51,42,43,12.5
+2026-07-12,06:00,6,Weekend,Sunny,34.2,0.1,Central,Bike,59,51,47,15.7
+2026-07-12,06:00,6,Weekend,Sunny,29.1,0.2,Market,Ride Hailing,58,68,49,25.9
+2026-07-12,06:00,6,Weekend,Sunny,31.1,0.4,Railway,Bicycle,32,34,27,23.9
+2026-07-12,06:00,6,Weekend,Sunny,31.3,0.4,Railway,Bus,72,82,66,36.9
+2026-07-12,06:00,6,Weekend,Sunny,32.7,0.3,Airport,Scooter,52,34,41,15.1
+2026-07-12,07:00,7,Weekend,Sunny,32.8,0.1,Central,Bike,137,152,104,18.3
+2026-07-12,07:00,7,Weekend,Sunny,32.2,0.3,College,Ride Hailing,98,114,82,26.8
+2026-07-12,07:00,7,Weekend,Sunny,31.0,0.3,Railway,Bicycle,76,78,63,20.1
+2026-07-12,07:00,7,Weekend,Sunny,31.9,0.0,Beach,Bus,160,152,128,32.2
+2026-07-12,07:00,7,Weekend,Sunny,31.2,0.1,College,Scooter,127,119,108,15.1
+2026-07-12,08:00,8,Weekend,Sunny,34.1,0.2,Beach,Bike,134,97,122,14.8
+2026-07-12,08:00,8,Weekend,Sunny,31.5,0.4,College,Ride Hailing,118,128,104,21.4
+2026-07-12,08:00,8,Weekend,Sunny,32.3,0.1,College,Bicycle,88,71,74,22.5
+2026-07-12,08:00,8,Weekend,Sunny,29.7,0.3,Tech Park,Bus,172,160,164,31.2
+2026-07-12,08:00,8,Weekend,Sunny,34.1,0.0,Beach,Scooter,125,107,98,15.4
+2026-07-12,09:00,9,Weekend,Sunny,29.7,0.2,Beach,Bike,154,182,123,14.1
+2026-07-12,09:00,9,Weekend,Sunny,34.7,0.4,Beach,Ride Hailing,117,105,99,24.7
+2026-07-12,09:00,9,Weekend,Sunny,30.9,0.0,Central,Bicycle,93,72,77,20.4
+2026-07-12,09:00,9,Weekend,Sunny,29.5,0.3,College,Bus,156,166,127,32.2
+2026-07-12,09:00,9,Weekend,Sunny,33.4,0.4,Railway,Scooter,116,107,88,13.6
+2026-07-12,10:00,10,Weekend,Sunny,29.8,0.4,Market,Bike,53,60,49,16.5
+2026-07-12,10:00,10,Weekend,Sunny,29.5,0.4,Railway,Ride Hailing,47,47,45,21.5
+2026-07-12,10:00,10,Weekend,Sunny,29.7,0.2,Beach,Bicycle,37,30,28,17.3
+2026-07-12,10:00,10,Weekend,Sunny,34.1,0.1,Railway,Bus,69,50,63,27.5
+2026-07-12,10:00,10,Weekend,Sunny,33.9,0.1,Airport,Scooter,50,42,42,12.0
+2026-07-12,11:00,11,Weekend,Sunny,32.2,0.0,Market,Bike,86,77,81,15.7
+2026-07-12,11:00,11,Weekend,Sunny,30.9,0.1,Tech Park,Ride Hailing,74,85,56,22.2
+2026-07-12,11:00,11,Weekend,Sunny,29.6,0.1,Tech Park,Bicycle,51,56,40,22.3
+2026-07-12,11:00,11,Weekend,Sunny,32.0,0.3,Airport,Bus,122,140,94,28.7
+2026-07-12,11:00,11,Weekend,Sunny,32.4,0.1,Airport,Scooter,76,58,57,14.5
+2026-07-12,12:00,12,Weekend,Sunny,30.2,0.4,Tech Park,Bike,89,86,78,15.9
+2026-07-12,12:00,12,Weekend,Sunny,34.0,0.3,Tech Park,Ride Hailing,86,94,70,27.8
+2026-07-12,12:00,12,Weekend,Sunny,30.3,0.4,Railway,Bicycle,51,48,48,22.2
+2026-07-12,12:00,12,Weekend,Sunny,31.7,0.5,Airport,Bus,109,120,104,34.4
+2026-07-12,12:00,12,Weekend,Sunny,30.8,0.3,Railway,Scooter,71,67,67,15.2
+2026-07-12,13:00,13,Weekend,Sunny,35.0,0.1,Central,Bike,85,85,80,13.6
+2026-07-12,13:00,13,Weekend,Sunny,32.2,0.5,College,Ride Hailing,69,70,66,25.3
+2026-07-12,13:00,13,Weekend,Sunny,30.3,0.3,Tech Park,Bicycle,48,38,42,21.0
+2026-07-12,13:00,13,Weekend,Sunny,33.7,0.4,Tech Park,Bus,109,85,104,29.4
+2026-07-12,13:00,13,Weekend,Sunny,34.3,0.5,Beach,Scooter,72,54,54,14.8
+2026-07-12,14:00,14,Weekend,Sunny,31.4,0.3,Central,Bike,93,109,89,18.0
+2026-07-12,14:00,14,Weekend,Sunny,29.1,0.2,College,Ride Hailing,60,65,47,21.1
+2026-07-12,14:00,14,Weekend,Sunny,31.8,0.5,Beach,Bicycle,50,36,46,17.0
+2026-07-12,14:00,14,Weekend,Sunny,30.4,0.4,Tech Park,Bus,108,97,83,36.1
+2026-07-12,14:00,14,Weekend,Sunny,31.6,0.1,Market,Scooter,89,95,83,14.2
+2026-07-12,15:00,15,Weekend,Sunny,33.4,0.1,Beach,Bike,57,39,50,15.0
+2026-07-12,15:00,15,Weekend,Sunny,30.0,0.2,Market,Ride Hailing,44,45,39,21.1
+2026-07-12,15:00,15,Weekend,Sunny,34.0,0.4,Market,Bicycle,36,28,34,23.5
+2026-07-12,15:00,15,Weekend,Sunny,31.2,0.3,College,Bus,79,66,61,35.1
+2026-07-12,15:00,15,Weekend,Sunny,29.6,0.1,Tech Park,Scooter,53,37,43,15.6
+2026-07-12,16:00,16,Weekend,Sunny,31.4,0.2,Beach,Bike,64,47,50,16.8
+2026-07-12,16:00,16,Weekend,Sunny,29.0,0.2,Beach,Ride Hailing,58,68,44,28.6
+2026-07-12,16:00,16,Weekend,Sunny,30.3,0.1,Beach,Bicycle,42,30,40,22.7
+2026-07-12,16:00,16,Weekend,Sunny,31.6,0.2,Central,Bus,78,75,74,38.1
+2026-07-12,16:00,16,Weekend,Sunny,30.2,0.0,Market,Scooter,52,56,48,12.9
+2026-07-12,17:00,17,Weekend,Sunny,31.0,0.3,Railway,Bike,152,166,120,15.2
+2026-07-12,17:00,17,Weekend,Sunny,29.2,0.3,Beach,Ride Hailing,115,88,90,22.0
+2026-07-12,17:00,17,Weekend,Sunny,30.1,0.3,Airport,Bicycle,96,113,81,23.1
+2026-07-12,17:00,17,Weekend,Sunny,33.6,0.2,Tech Park,Bus,194,153,179,34.3
+2026-07-12,17:00,17,Weekend,Sunny,31.6,0.2,College,Scooter,122,87,92,12.5
+2026-07-12,18:00,18,Weekend,Sunny,33.8,0.2,Market,Bike,166,199,127,16.2
+2026-07-12,18:00,18,Weekend,Sunny,30.2,0.1,College,Ride Hailing,126,98,111,25.3
+2026-07-12,18:00,18,Weekend,Sunny,33.0,0.0,Central,Bicycle,85,95,76,23.7
+2026-07-12,18:00,18,Weekend,Sunny,33.8,0.4,Beach,Bus,201,177,193,28.0
+2026-07-12,18:00,18,Weekend,Sunny,33.5,0.4,Tech Park,Scooter,112,94,100,16.1
+2026-07-12,19:00,19,Weekend,Sunny,33.9,0.3,Beach,Bike,158,140,133,16.5
+2026-07-12,19:00,19,Weekend,Sunny,34.6,0.4,Central,Ride Hailing,137,122,121,22.4
+2026-07-12,19:00,19,Weekend,Sunny,34.2,0.4,Market,Bicycle,116,87,105,23.8
+2026-07-12,19:00,19,Weekend,Sunny,29.5,0.4,Central,Bus,187,192,145,30.9
+2026-07-12,19:00,19,Weekend,Sunny,30.1,0.3,College,Scooter,94,105,78,13.0
+2026-07-12,20:00,20,Weekend,Sunny,32.6,0.4,Beach,Bike,172,185,150,18.1
+2026-07-12,20:00,20,Weekend,Sunny,30.0,0.1,Railway,Ride Hailing,143,151,122,21.0
+2026-07-12,20:00,20,Weekend,Sunny,31.9,0.1,Railway,Bicycle,107,105,97,19.7
+2026-07-12,20:00,20,Weekend,Sunny,32.7,0.4,Tech Park,Bus,183,157,175,31.7
+2026-07-12,20:00,20,Weekend,Sunny,30.6,0.4,Railway,Scooter,134,112,120,16.4
+2026-07-12,21:00,21,Weekend,Sunny,31.4,0.5,College,Bike,64,55,55,13.7
+2026-07-12,21:00,21,Weekend,Sunny,29.6,0.3,Market,Ride Hailing,56,58,50,20.8
+2026-07-12,21:00,21,Weekend,Sunny,31.0,0.1,Beach,Bicycle,31,23,28,19.3
+2026-07-12,21:00,21,Weekend,Sunny,31.4,0.4,Central,Bus,76,72,74,32.8
+2026-07-12,21:00,21,Weekend,Sunny,31.1,0.2,Beach,Scooter,53,52,42,16.0
+2026-07-13,06:00,6,Weekday,Rainy,26.8,31.7,Central,Bike,32,32,24,17.8
+2026-07-13,06:00,6,Weekday,Rainy,25.8,14.2,Market,Ride Hailing,119,122,115,26.0
+2026-07-13,06:00,6,Weekday,Rainy,24.6,18.6,Central,Bicycle,12,11,10,18.3
+2026-07-13,06:00,6,Weekday,Rainy,28.9,26.3,Tech Park,Bus,124,87,96,33.6
+2026-07-13,06:00,6,Weekday,Rainy,24.1,34.4,Tech Park,Scooter,39,44,35,12.8
+2026-07-13,07:00,7,Weekday,Rainy,24.0,16.3,Beach,Bike,88,98,78,18.7
+2026-07-13,07:00,7,Weekday,Rainy,28.4,25.4,Beach,Ride Hailing,309,335,272,23.4
+2026-07-13,07:00,7,Weekday,Rainy,27.5,26.4,Central,Bicycle,28,22,22,18.0
+2026-07-13,07:00,7,Weekday,Rainy,26.3,30.7,Airport,Bus,236,212,220,31.5
+2026-07-13,07:00,7,Weekday,Rainy,29.0,30.7,Beach,Scooter,79,86,63,13.5
+2026-07-13,08:00,8,Weekday,Rainy,24.4,16.0,Market,Bike,76,79,73,14.9
+2026-07-13,08:00,8,Weekday,Rainy,24.3,8.4,Beach,Ride Hailing,217,193,186,28.7
+2026-07-13,08:00,8,Weekday,Rainy,25.0,32.0,Railway,Bicycle,30,35,25,21.0
+2026-07-13,08:00,8,Weekday,Rainy,27.4,11.6,Tech Park,Bus,223,261,178,30.1
+2026-07-13,08:00,8,Weekday,Rainy,27.4,15.7,Railway,Scooter,89,96,73,15.6
+2026-07-13,09:00,9,Weekday,Rainy,27.0,18.5,Tech Park,Bike,82,59,80,18.1
+2026-07-13,09:00,9,Weekday,Rainy,26.7,18.6,Airport,Ride Hailing,242,269,232,21.0
+2026-07-13,09:00,9,Weekday,Rainy,26.8,18.5,Market,Bicycle,30,21,23,21.9
+2026-07-13,09:00,9,Weekday,Rainy,25.4,11.7,Central,Bus,274,309,262,30.2
+2026-07-13,09:00,9,Weekday,Rainy,24.5,10.1,Airport,Scooter,82,86,74,14.7
+2026-07-13,10:00,10,Weekday,Rainy,26.0,17.3,Airport,Bike,36,28,33,18.1
+2026-07-13,10:00,10,Weekday,Rainy,25.4,27.9,Airport,Ride Hailing,114,87,104,28.1
+2026-07-13,10:00,10,Weekday,Rainy,24.5,13.9,Beach,Bicycle,13,14,12,20.0
+2026-07-13,10:00,10,Weekday,Rainy,27.8,28.2,Tech Park,Bus,97,94,74,31.0
+2026-07-13,10:00,10,Weekday,Rainy,25.1,11.2,Tech Park,Scooter,33,37,29,15.6
+2026-07-13,11:00,11,Weekday,Rainy,27.8,12.9,Market,Bike,39,43,38,14.4
+2026-07-13,11:00,11,Weekday,Rainy,27.9,30.6,Tech Park,Ride Hailing,139,115,125,24.1
+2026-07-13,11:00,11,Weekday,Rainy,28.1,16.8,Airport,Bicycle,24,28,23,21.9
+2026-07-13,11:00,11,Weekday,Rainy,27.8,10.6,College,Bus,192,225,148,27.3
+2026-07-13,11:00,11,Weekday,Rainy,27.3,13.8,Tech Park,Scooter,55,47,42,12.6
+2026-07-13,12:00,12,Weekday,Rainy,25.5,24.6,Railway,Bike,41,39,35,15.1
+2026-07-13,12:00,12,Weekday,Rainy,26.4,14.8,Beach,Ride Hailing,179,162,152,21.9
+2026-07-13,12:00,12,Weekday,Rainy,27.0,15.4,College,Bicycle,23,20,21,20.6
+2026-07-13,12:00,12,Weekday,Rainy,28.1,21.0,Tech Park,Bus,183,163,161,27.9
+2026-07-13,12:00,12,Weekday,Rainy,26.1,11.9,Central,Scooter,44,30,33,12.4
+2026-07-13,13:00,13,Weekday,Rainy,24.5,19.4,College,Bike,49,59,40,14.4
+2026-07-13,13:00,13,Weekday,Rainy,24.7,31.9,Railway,Ride Hailing,159,120,129,27.6
+2026-07-13,13:00,13,Weekday,Rainy,25.0,13.9,Tech Park,Bicycle,22,17,19,23.1
+2026-07-13,13:00,13,Weekday,Rainy,27.3,10.0,Beach,Bus,124,116,115,31.0
+2026-07-13,13:00,13,Weekday,Rainy,26.5,9.9,Central,Scooter,55,52,53,15.0
+2026-07-13,14:00,14,Weekday,Rainy,25.9,32.0,Tech Park,Bike,46,50,41,16.5
+2026-07-13,14:00,14,Weekday,Rainy,28.5,16.8,Central,Ride Hailing,160,121,152,21.6
+2026-07-13,14:00,14,Weekday,Rainy,25.1,17.7,College,Bicycle,21,18,19,17.4
+2026-07-13,14:00,14,Weekday,Rainy,26.8,24.8,Tech Park,Bus,185,133,153,33.5
+2026-07-13,14:00,14,Weekday,Rainy,27.5,8.8,College,Scooter,54,59,49,12.9
+2026-07-13,15:00,15,Weekday,Rainy,25.7,30.2,Railway,Bike,33,27,28,17.6
+2026-07-13,15:00,15,Weekday,Rainy,28.3,12.3,College,Ride Hailing,114,110,111,27.8
+2026-07-13,15:00,15,Weekday,Rainy,28.6,8.2,College,Bicycle,13,10,12,18.3
+2026-07-13,15:00,15,Weekday,Rainy,24.2,24.6,College,Bus,116,129,90,37.5
+2026-07-13,15:00,15,Weekday,Rainy,24.8,28.0,Tech Park,Scooter,41,35,31,15.3
+2026-07-13,16:00,16,Weekday,Rainy,27.7,19.7,Airport,Bike,34,40,28,15.0
+2026-07-13,16:00,16,Weekday,Rainy,24.5,20.0,Central,Ride Hailing,102,77,82,23.0
+2026-07-13,16:00,16,Weekday,Rainy,28.2,32.9,Market,Bicycle,17,20,14,18.5
+2026-07-13,16:00,16,Weekday,Rainy,28.1,13.2,Airport,Bus,137,133,104,33.8
+2026-07-13,16:00,16,Weekday,Rainy,28.4,34.4,Market,Scooter,39,27,33,14.4
+2026-07-13,17:00,17,Weekday,Rainy,27.5,34.2,Central,Bike,73,81,71,15.1
+2026-07-13,17:00,17,Weekday,Rainy,25.1,19.6,Tech Park,Ride Hailing,255,303,242,27.2
+2026-07-13,17:00,17,Weekday,Rainy,28.8,10.5,Airport,Bicycle,33,36,30,21.4
+2026-07-13,17:00,17,Weekday,Rainy,24.3,12.6,Beach,Bus,228,216,221,29.5
+2026-07-13,17:00,17,Weekday,Rainy,25.3,29.8,Beach,Scooter,94,109,89,13.7
+2026-07-13,18:00,18,Weekday,Rainy,25.9,16.1,Railway,Bike,62,73,56,16.6
+2026-07-13,18:00,18,Weekday,Rainy,24.7,10.7,Tech Park,Ride Hailing,271,212,207,21.9
+2026-07-13,18:00,18,Weekday,Rainy,27.6,24.9,Tech Park,Bicycle,40,27,35,20.9
+2026-07-13,18:00,18,Weekday,Rainy,26.5,33.8,Market,Bus,289,263,223,27.7
+2026-07-13,18:00,18,Weekday,Rainy,24.8,10.7,Beach,Scooter,82,71,77,12.3
+2026-07-13,19:00,19,Weekday,Rainy,28.3,33.0,Airport,Bike,67,62,64,17.1
+2026-07-13,19:00,19,Weekday,Rainy,28.4,23.4,Airport,Ride Hailing,264,308,244,26.2
+2026-07-13,19:00,19,Weekday,Rainy,27.4,34.3,Central,Bicycle,34,27,26,20.0
+2026-07-13,19:00,19,Weekday,Rainy,24.6,34.8,Airport,Bus,279,233,235,31.0
+2026-07-13,19:00,19,Weekday,Rainy,24.9,27.4,Market,Scooter,91,70,74,12.4
+2026-07-13,20:00,20,Weekday,Rainy,24.7,24.2,Railway,Bike,71,67,69,16.0
+2026-07-13,20:00,20,Weekday,Rainy,26.8,15.9,Airport,Ride Hailing,297,333,275,20.9
+2026-07-13,20:00,20,Weekday,Rainy,26.9,14.3,College,Bicycle,34,34,33,19.7
+2026-07-13,20:00,20,Weekday,Rainy,26.3,10.8,Beach,Bus,292,277,281,37.6
+2026-07-13,20:00,20,Weekday,Rainy,25.6,30.5,Tech Park,Scooter,106,109,86,15.2
+2026-07-13,21:00,21,Weekday,Rainy,28.3,30.5,Central,Bike,29,24,25,18.4
+2026-07-13,21:00,21,Weekday,Rainy,28.7,26.3,Airport,Ride Hailing,113,92,90,23.5
+2026-07-13,21:00,21,Weekday,Rainy,25.9,30.8,Tech Park,Bicycle,16,18,13,18.8
+2026-07-13,21:00,21,Weekday,Rainy,24.9,22.3,Airport,Bus,124,134,109,36.8
+2026-07-13,21:00,21,Weekday,Rainy,27.1,14.2,Tech Park,Scooter,44,39,38,13.4
+2026-07-14,06:00,6,Weekday,Rainy,27.4,28.7,Market,Bike,36,31,33,15.9
+2026-07-14,06:00,6,Weekday,Rainy,28.6,31.7,Beach,Ride Hailing,114,127,89,22.2
+2026-07-14,06:00,6,Weekday,Rainy,25.0,32.4,Tech Park,Bicycle,16,13,15,19.7
+2026-07-14,06:00,6,Weekday,Rainy,26.2,28.4,Beach,Bus,103,89,100,31.0
+2026-07-14,06:00,6,Weekday,Rainy,24.9,11.0,Market,Scooter,41,45,33,15.7
+2026-07-14,07:00,7,Weekday,Rainy,25.0,22.2,Beach,Bike,56,37,43,17.7
+2026-07-14,07:00,7,Weekday,Rainy,28.3,10.5,College,Ride Hailing,228,207,172,21.2
+2026-07-14,07:00,7,Weekday,Rainy,26.2,8.9,Railway,Bicycle,28,22,23,18.7
+2026-07-14,07:00,7,Weekday,Rainy,24.6,17.0,Airport,Bus,246,256,197,34.6
+2026-07-14,07:00,7,Weekday,Rainy,24.6,9.1,Airport,Scooter,74,83,59,12.7
+2026-07-14,08:00,8,Weekday,Rainy,26.0,14.8,Beach,Bike,76,84,62,16.7
+2026-07-14,08:00,8,Weekday,Rainy,28.6,11.5,Railway,Ride Hailing,252,217,204,20.8
+2026-07-14,08:00,8,Weekday,Rainy,24.9,9.7,Railway,Bicycle,31,29,29,18.5
+2026-07-14,08:00,8,Weekday,Rainy,25.3,24.5,Beach,Bus,234,193,202,36.3
+2026-07-14,08:00,8,Weekday,Rainy,26.1,18.9,Market,Scooter,88,62,86,13.9
+2026-07-14,09:00,9,Weekday,Rainy,24.8,17.7,Tech Park,Bike,81,54,78,18.2
+2026-07-14,09:00,9,Weekday,Rainy,27.4,32.0,Tech Park,Ride Hailing,234,213,202,20.6
+2026-07-14,09:00,9,Weekday,Rainy,25.3,23.9,Beach,Bicycle,30,36,26,22.8
+2026-07-14,09:00,9,Weekday,Rainy,24.7,28.3,Airport,Bus,250,168,239,38.4
+2026-07-14,09:00,9,Weekday,Rainy,25.9,21.5,College,Scooter,59,46,53,12.4
+2026-07-14,10:00,10,Weekday,Rainy,28.3,13.7,College,Bike,33,31,29,17.7
+2026-07-14,10:00,10,Weekday,Rainy,24.1,23.1,Tech Park,Ride Hailing,93,83,76,27.9
+2026-07-14,10:00,10,Weekday,Rainy,24.0,20.1,Beach,Bicycle,17,12,15,19.1
+2026-07-14,10:00,10,Weekday,Rainy,25.1,28.0,Beach,Bus,111,82,99,28.2
+2026-07-14,10:00,10,Weekday,Rainy,28.5,16.6,College,Scooter,33,38,32,14.3
+2026-07-14,11:00,11,Weekday,Rainy,25.1,29.8,Railway,Bike,49,40,38,16.2
+2026-07-14,11:00,11,Weekday,Rainy,24.7,26.4,Beach,Ride Hailing,136,104,106,24.0
+2026-07-14,11:00,11,Weekday,Rainy,24.4,13.2,Railway,Bicycle,22,18,22,21.7
+2026-07-14,11:00,11,Weekday,Rainy,28.3,18.5,Airport,Bus,187,201,181,28.8
+2026-07-14,11:00,11,Weekday,Rainy,26.8,8.4,Airport,Scooter,52,56,49,16.2
+2026-07-14,12:00,12,Weekday,Rainy,28.2,24.6,College,Bike,43,47,40,18.8
+2026-07-14,12:00,12,Weekday,Rainy,28.8,18.7,Market,Ride Hailing,186,180,178,27.2
+2026-07-14,12:00,12,Weekday,Rainy,28.1,30.7,College,Bicycle,17,20,15,20.0
+2026-07-14,12:00,12,Weekday,Rainy,24.4,11.7,Central,Bus,169,200,142,33.9
+2026-07-14,12:00,12,Weekday,Rainy,28.9,27.6,Tech Park,Scooter,49,35,38,15.6
+2026-07-14,13:00,13,Weekday,Rainy,26.1,15.6,College,Bike,53,38,50,18.8
+2026-07-14,13:00,13,Weekday,Rainy,28.0,29.1,Central,Ride Hailing,135,110,111,27.8
+2026-07-14,13:00,13,Weekday,Rainy,25.3,21.7,Tech Park,Bicycle,19,19,17,18.6
+2026-07-14,13:00,13,Weekday,Rainy,27.4,9.3,Airport,Bus,153,138,116,27.4
+2026-07-14,13:00,13,Weekday,Rainy,28.2,9.0,Market,Scooter,55,65,43,13.1
+2026-07-14,14:00,14,Weekday,Rainy,25.7,10.8,Beach,Bike,48,36,37,14.2
+2026-07-14,14:00,14,Weekday,Rainy,28.2,9.9,Beach,Ride Hailing,189,138,166,22.0
+2026-07-14,14:00,14,Weekday,Rainy,28.7,8.6,Airport,Bicycle,20,20,16,23.4
+2026-07-14,14:00,14,Weekday,Rainy,27.9,18.9,Airport,Bus,179,169,171,38.4
+2026-07-14,14:00,14,Weekday,Rainy,27.3,32.3,Beach,Scooter,41,44,40,14.8
+2026-07-14,15:00,15,Weekday,Rainy,24.0,15.0,Airport,Bike,31,35,29,14.7
+2026-07-14,15:00,15,Weekday,Rainy,25.0,8.7,Central,Ride Hailing,123,137,96,25.9
+2026-07-14,15:00,15,Weekday,Rainy,26.4,24.1,Market,Bicycle,16,14,15,17.5
+2026-07-14,15:00,15,Weekday,Rainy,26.2,24.0,Airport,Bus,123,103,95,33.6
+2026-07-14,15:00,15,Weekday,Rainy,26.1,23.5,College,Scooter,40,34,36,12.0
+2026-07-14,16:00,16,Weekday,Rainy,28.0,25.1,Beach,Bike,31,20,26,16.0
+2026-07-14,16:00,16,Weekday,Rainy,28.2,34.6,Airport,Ride Hailing,112,113,94,26.1
+2026-07-14,16:00,16,Weekday,Rainy,25.2,24.4,Central,Bicycle,14,13,13,19.1
+2026-07-14,16:00,16,Weekday,Rainy,24.9,13.0,Tech Park,Bus,124,124,110,28.6
+2026-07-14,16:00,16,Weekday,Rainy,24.6,34.2,Airport,Scooter,33,25,25,15.9
+2026-07-14,17:00,17,Weekday,Rainy,25.5,11.0,College,Bike,80,83,74,15.2
+2026-07-14,17:00,17,Weekday,Rainy,24.9,21.9,College,Ride Hailing,255,297,194,26.7
+2026-07-14,17:00,17,Weekday,Rainy,24.1,27.0,Railway,Bicycle,36,38,33,17.8
+2026-07-14,17:00,17,Weekday,Rainy,26.6,11.8,Beach,Bus,292,281,242,35.1
+2026-07-14,17:00,17,Weekday,Rainy,28.2,26.9,Tech Park,Scooter,88,58,71,12.4
+2026-07-14,18:00,18,Weekday,Rainy,25.8,30.0,Beach,Bike,76,70,65,15.3
+2026-07-14,18:00,18,Weekday,Rainy,27.0,28.3,Beach,Ride Hailing,286,208,249,27.4
+2026-07-14,18:00,18,Weekday,Rainy,26.7,34.4,Railway,Bicycle,25,26,19,21.5
+2026-07-14,18:00,18,Weekday,Rainy,24.3,18.5,Railway,Bus,278,279,238,36.9
+2026-07-14,18:00,18,Weekday,Rainy,27.2,26.6,Market,Scooter,109,122,96,13.9
+2026-07-14,19:00,19,Weekday,Rainy,26.9,20.6,College,Bike,86,83,76,15.4
+2026-07-14,19:00,19,Weekday,Rainy,29.0,30.3,College,Ride Hailing,275,293,212,20.7
+2026-07-14,19:00,19,Weekday,Rainy,28.1,13.7,Market,Bicycle,40,33,39,18.1
+2026-07-14,19:00,19,Weekday,Rainy,27.5,14.7,College,Bus,268,178,225,35.8
+2026-07-14,19:00,19,Weekday,Rainy,24.3,28.7,Beach,Scooter,72,72,65,15.2
+2026-07-14,20:00,20,Weekday,Rainy,24.2,19.7,Market,Bike,69,48,55,16.6
+2026-07-14,20:00,20,Weekday,Rainy,27.3,11.4,Airport,Ride Hailing,269,202,214,22.4
+2026-07-14,20:00,20,Weekday,Rainy,24.6,22.6,College,Bicycle,36,39,35,19.6
+2026-07-14,20:00,20,Weekday,Rainy,28.9,12.9,Market,Bus,276,197,222,30.6
+2026-07-14,20:00,20,Weekday,Rainy,27.9,29.6,Airport,Scooter,100,97,92,14.0
+2026-07-14,21:00,21,Weekday,Rainy,27.3,34.7,College,Bike,35,29,33,18.3
+2026-07-14,21:00,21,Weekday,Rainy,24.5,13.0,Beach,Ride Hailing,117,136,88,21.8
+2026-07-14,21:00,21,Weekday,Rainy,25.4,23.4,College,Bicycle,14,11,12,21.2
+2026-07-14,21:00,21,Weekday,Rainy,26.1,8.8,Central,Bus,151,175,114,35.9
+2026-07-14,21:00,21,Weekday,Rainy,27.0,10.2,Market,Scooter,38,26,34,13.9
+2026-07-15,06:00,6,Weekday,Sunny,33.6,0.0,Market,Bike,74,75,57,15.7
+2026-07-15,06:00,6,Weekday,Sunny,31.6,0.4,Railway,Ride Hailing,68,68,52,21.8
+2026-07-15,06:00,6,Weekday,Sunny,34.3,0.2,Railway,Bicycle,49,45,43,23.7
+2026-07-15,06:00,6,Weekday,Sunny,29.4,0.4,Railway,Bus,92,62,90,31.3
+2026-07-15,06:00,6,Weekday,Sunny,30.3,0.2,Central,Scooter,67,77,65,13.2
+2026-07-15,07:00,7,Weekday,Sunny,31.1,0.2,Beach,Bike,126,89,101,14.6
+2026-07-15,07:00,7,Weekday,Sunny,29.2,0.1,College,Ride Hailing,142,146,136,28.5
+2026-07-15,07:00,7,Weekday,Sunny,31.6,0.1,Tech Park,Bicycle,98,90,84,23.7
+2026-07-15,07:00,7,Weekday,Sunny,32.8,0.1,Beach,Bus,249,260,212,28.8
+2026-07-15,07:00,7,Weekday,Sunny,31.5,0.3,Tech Park,Scooter,137,134,109,13.3
+2026-07-15,08:00,8,Weekday,Sunny,31.8,0.2,Central,Bike,138,132,107,15.8
+2026-07-15,08:00,8,Weekday,Sunny,34.6,0.2,Airport,Ride Hailing,173,186,146,21.9
+2026-07-15,08:00,8,Weekday,Sunny,34.3,0.1,Beach,Bicycle,95,68,85,23.9
+2026-07-15,08:00,8,Weekday,Sunny,34.6,0.1,Market,Bus,199,190,171,36.6
+2026-07-15,08:00,8,Weekday,Sunny,32.1,0.1,Tech Park,Scooter,147,110,143,14.7
+2026-07-15,09:00,9,Weekday,Sunny,31.1,0.3,Central,Bike,120,129,104,18.6
+2026-07-15,09:00,9,Weekday,Sunny,32.1,0.1,Market,Ride Hailing,129,131,114,23.0
+2026-07-15,09:00,9,Weekday,Sunny,34.3,0.1,Tech Park,Bicycle,94,93,88,19.3
+2026-07-15,09:00,9,Weekday,Sunny,34.1,0.1,Railway,Bus,221,227,177,38.2
+2026-07-15,09:00,9,Weekday,Sunny,30.3,0.0,Beach,Scooter,155,174,123,16.2
+2026-07-15,10:00,10,Weekday,Sunny,30.0,0.2,Market,Bike,71,74,55,18.0
+2026-07-15,10:00,10,Weekday,Sunny,30.7,0.3,Central,Ride Hailing,64,70,57,22.7
+2026-07-15,10:00,10,Weekday,Sunny,31.5,0.3,Airport,Bicycle,58,53,47,17.4
+2026-07-15,10:00,10,Weekday,Sunny,31.1,0.3,Airport,Bus,98,106,82,38.2
+2026-07-15,10:00,10,Weekday,Sunny,34.3,0.3,Beach,Scooter,67,64,51,12.2
+2026-07-15,11:00,11,Weekday,Sunny,34.9,0.3,Airport,Bike,98,88,86,14.2
+2026-07-15,11:00,11,Weekday,Sunny,31.1,0.0,Beach,Ride Hailing,103,68,87,28.2
+2026-07-15,11:00,11,Weekday,Sunny,33.0,0.5,Airport,Bicycle,66,68,64,22.8
+2026-07-15,11:00,11,Weekday,Sunny,31.7,0.1,Beach,Bus,148,140,114,37.6
+2026-07-15,11:00,11,Weekday,Sunny,32.7,0.0,College,Scooter,101,116,81,12.8
+2026-07-15,12:00,12,Weekday,Sunny,32.0,0.4,Railway,Bike,117,95,108,14.8
+2026-07-15,12:00,12,Weekday,Sunny,32.1,0.2,Market,Ride Hailing,92,92,86,24.2
+2026-07-15,12:00,12,Weekday,Sunny,33.7,0.2,Central,Bicycle,61,47,54,22.6
+2026-07-15,12:00,12,Weekday,Sunny,30.3,0.2,Market,Bus,121,138,105,34.4
+2026-07-15,12:00,12,Weekday,Sunny,30.2,0.4,Railway,Scooter,94,83,73,14.0
+2026-07-15,13:00,13,Weekday,Sunny,30.7,0.0,Central,Bike,105,111,93,15.5
+2026-07-15,13:00,13,Weekday,Sunny,31.0,0.2,Beach,Ride Hailing,87,80,83,22.0
+2026-07-15,13:00,13,Weekday,Sunny,32.0,0.3,Beach,Bicycle,66,69,62,20.2
+2026-07-15,13:00,13,Weekday,Sunny,32.5,0.3,College,Bus,149,123,129,34.7
+2026-07-15,13:00,13,Weekday,Sunny,32.4,0.4,Market,Scooter,82,73,64,14.4
+2026-07-15,14:00,14,Weekday,Sunny,31.6,0.2,Airport,Bike,133,117,113,13.8
+2026-07-15,14:00,14,Weekday,Sunny,29.6,0.2,Beach,Ride Hailing,96,89,89,27.8
+2026-07-15,14:00,14,Weekday,Sunny,34.1,0.2,Beach,Bicycle,71,60,68,21.5
+2026-07-15,14:00,14,Weekday,Sunny,33.0,0.1,Market,Bus,150,135,140,35.8
+2026-07-15,14:00,14,Weekday,Sunny,31.7,0.3,College,Scooter,83,93,66,16.4
+2026-07-15,15:00,15,Weekday,Sunny,34.1,0.3,Airport,Bike,72,86,62,18.5
+2026-07-15,15:00,15,Weekday,Sunny,30.4,0.4,Central,Ride Hailing,65,53,53,25.8
+2026-07-15,15:00,15,Weekday,Sunny,32.2,0.4,College,Bicycle,40,36,38,19.9
+2026-07-15,15:00,15,Weekday,Sunny,33.5,0.4,Beach,Bus,92,92,80,27.8
+2026-07-15,15:00,15,Weekday,Sunny,33.2,0.5,Railway,Scooter,73,51,59,12.4
+2026-07-15,16:00,16,Weekday,Sunny,31.4,0.1,Railway,Bike,74,50,61,14.0
+2026-07-15,16:00,16,Weekday,Sunny,31.2,0.1,Beach,Ride Hailing,69,62,61,25.5
+2026-07-15,16:00,16,Weekday,Sunny,34.2,0.3,Market,Bicycle,45,31,36,20.9
+2026-07-15,16:00,16,Weekday,Sunny,31.5,0.1,Railway,Bus,90,82,73,37.5
+2026-07-15,16:00,16,Weekday,Sunny,31.1,0.0,Market,Scooter,60,60,51,16.1
+2026-07-15,17:00,17,Weekday,Sunny,34.9,0.5,Beach,Bike,172,137,161,17.6
+2026-07-15,17:00,17,Weekday,Sunny,31.9,0.5,Airport,Ride Hailing,166,167,139,26.6
+2026-07-15,17:00,17,Weekday,Sunny,31.3,0.5,Airport,Bicycle,105,76,90,22.3
+2026-07-15,17:00,17,Weekday,Sunny,29.7,0.0,Beach,Bus,216,175,188,28.1
+2026-07-15,17:00,17,Weekday,Sunny,32.4,0.4,Railway,Scooter,181,189,138,12.9
+2026-07-15,18:00,18,Weekday,Sunny,33.8,0.5,Tech Park,Bike,138,104,119,15.8
+2026-07-15,18:00,18,Weekday,Sunny,30.2,0.2,College,Ride Hailing,178,195,142,22.9
+2026-07-15,18:00,18,Weekday,Sunny,32.7,0.2,Tech Park,Bicycle,109,121,104,18.3
+2026-07-15,18:00,18,Weekday,Sunny,34.5,0.4,Market,Bus,217,248,184,36.0
+2026-07-15,18:00,18,Weekday,Sunny,33.7,0.3,Beach,Scooter,139,148,125,16.4
+2026-07-15,19:00,19,Weekday,Sunny,33.4,0.5,Central,Bike,190,157,149,14.0
+2026-07-15,19:00,19,Weekday,Sunny,34.1,0.4,Central,Ride Hailing,192,162,187,28.3
+2026-07-15,19:00,19,Weekday,Sunny,34.4,0.0,College,Bicycle,101,85,91,19.7
+2026-07-15,19:00,19,Weekday,Sunny,34.6,0.3,Central,Bus,225,227,173,34.0
+2026-07-15,19:00,19,Weekday,Sunny,31.4,0.1,Railway,Scooter,140,148,106,13.8
+2026-07-15,20:00,20,Weekday,Sunny,32.2,0.2,Beach,Bike,175,204,155,17.5
+2026-07-15,20:00,20,Weekday,Sunny,29.1,0.2,Railway,Ride Hailing,163,120,128,28.7
+2026-07-15,20:00,20,Weekday,Sunny,34.3,0.4,Railway,Bicycle,119,138,100,19.2
+2026-07-15,20:00,20,Weekday,Sunny,33.7,0.2,Market,Bus,273,295,214,32.5
+2026-07-15,20:00,20,Weekday,Sunny,32.9,0.4,Airport,Scooter,156,103,147,16.5
+2026-07-15,21:00,21,Weekday,Sunny,31.4,0.1,College,Bike,79,75,64,14.9
+2026-07-15,21:00,21,Weekday,Sunny,33.5,0.3,Central,Ride Hailing,70,56,58,23.0
+2026-07-15,21:00,21,Weekday,Sunny,32.8,0.1,Railway,Bicycle,41,30,34,22.5
+2026-07-15,21:00,21,Weekday,Sunny,29.4,0.0,College,Bus,96,94,88,32.2
+2026-07-15,21:00,21,Weekday,Sunny,34.8,0.5,Beach,Scooter,64,71,49,13.5
+2026-07-16,06:00,6,Weekday,Cloudy,31.1,1.5,Airport,Bike,68,51,64,15.7
+2026-07-16,06:00,6,Weekday,Cloudy,31.4,1.0,Beach,Ride Hailing,85,59,77,24.8
+2026-07-16,06:00,6,Weekday,Cloudy,30.4,0.8,Beach,Bicycle,41,45,39,17.5
+2026-07-16,06:00,6,Weekday,Cloudy,28.2,0.7,Beach,Bus,108,88,96,32.0
+2026-07-16,06:00,6,Weekday,Cloudy,29.3,0.9,College,Scooter,48,39,45,16.3
+2026-07-16,07:00,7,Weekday,Cloudy,28.1,1.7,College,Bike,143,149,109,18.7
+2026-07-16,07:00,7,Weekday,Cloudy,30.0,1.5,Central,Ride Hailing,156,179,127,25.9
+2026-07-16,07:00,7,Weekday,Cloudy,29.0,1.5,Tech Park,Bicycle,80,83,74,18.7
+2026-07-16,07:00,7,Weekday,Cloudy,29.6,1.7,Market,Bus,187,204,149,30.2
+2026-07-16,07:00,7,Weekday,Cloudy,27.2,0.8,Beach,Scooter,125,127,121,12.4
+2026-07-16,08:00,8,Weekday,Cloudy,30.1,0.6,Market,Bike,131,114,102,13.8
+2026-07-16,08:00,8,Weekday,Cloudy,31.0,1.4,Tech Park,Ride Hailing,149,113,123,28.5
+2026-07-16,08:00,8,Weekday,Cloudy,29.3,0.5,Market,Bicycle,91,88,89,23.9
+2026-07-16,08:00,8,Weekday,Cloudy,31.4,2.0,College,Bus,249,225,205,34.0
+2026-07-16,08:00,8,Weekday,Cloudy,30.3,1.2,Tech Park,Scooter,132,98,111,16.3
+2026-07-16,09:00,9,Weekday,Cloudy,28.2,2.0,Tech Park,Bike,125,91,94,14.9
+2026-07-16,09:00,9,Weekday,Cloudy,27.7,0.8,Central,Ride Hailing,171,179,146,27.7
+2026-07-16,09:00,9,Weekday,Cloudy,31.6,0.0,Tech Park,Bicycle,70,81,66,19.1
+2026-07-16,09:00,9,Weekday,Cloudy,28.4,1.2,Airport,Bus,227,170,206,33.1
+2026-07-16,09:00,9,Weekday,Cloudy,27.5,1.9,College,Scooter,121,83,117,14.1
+2026-07-16,10:00,10,Weekday,Cloudy,27.4,1.4,Airport,Bike,60,63,51,14.0
+2026-07-16,10:00,10,Weekday,Cloudy,30.0,1.9,Railway,Ride Hailing,81,61,67,23.6
+2026-07-16,10:00,10,Weekday,Cloudy,27.5,0.6,Market,Bicycle,38,35,35,21.5
+2026-07-16,10:00,10,Weekday,Cloudy,30.5,1.4,College,Bus,105,125,95,32.3
+2026-07-16,10:00,10,Weekday,Cloudy,31.5,1.3,Airport,Scooter,60,47,50,12.4
+2026-07-16,11:00,11,Weekday,Cloudy,30.6,0.5,Central,Bike,115,82,103,17.7
+2026-07-16,11:00,11,Weekday,Cloudy,27.7,1.1,Railway,Ride Hailing,110,81,88,23.5
+2026-07-16,11:00,11,Weekday,Cloudy,29.9,1.8,Railway,Bicycle,52,54,50,18.2
+2026-07-16,11:00,11,Weekday,Cloudy,29.8,0.6,Tech Park,Bus,149,144,115,30.3
+2026-07-16,11:00,11,Weekday,Cloudy,30.8,1.2,Market,Scooter,84,96,75,13.6
+2026-07-16,12:00,12,Weekday,Cloudy,27.8,1.7,Market,Bike,103,75,88,14.6
+2026-07-16,12:00,12,Weekday,Cloudy,27.5,0.1,Railway,Ride Hailing,112,130,94,24.1
+2026-07-16,12:00,12,Weekday,Cloudy,27.0,1.0,Tech Park,Bicycle,55,52,47,23.4
+2026-07-16,12:00,12,Weekday,Cloudy,27.8,1.0,Airport,Bus,141,119,122,31.9
+2026-07-16,12:00,12,Weekday,Cloudy,28.3,1.9,Central,Scooter,86,58,66,13.5
+2026-07-16,13:00,13,Weekday,Cloudy,29.9,0.2,Tech Park,Bike,98,115,84,13.8
+2026-07-16,13:00,13,Weekday,Cloudy,28.8,0.1,Central,Ride Hailing,102,116,80,27.6
+2026-07-16,13:00,13,Weekday,Cloudy,30.4,0.4,Railway,Bicycle,55,47,48,21.9
+2026-07-16,13:00,13,Weekday,Cloudy,27.8,1.1,Beach,Bus,167,196,130,30.9
+2026-07-16,13:00,13,Weekday,Cloudy,30.8,0.5,Railway,Scooter,80,71,63,13.0
+2026-07-16,14:00,14,Weekday,Cloudy,27.8,1.3,Beach,Bike,113,127,97,18.3
+2026-07-16,14:00,14,Weekday,Cloudy,27.4,0.2,Central,Ride Hailing,106,82,97,24.8
+2026-07-16,14:00,14,Weekday,Cloudy,31.9,1.0,Railway,Bicycle,57,37,43,20.3
+2026-07-16,14:00,14,Weekday,Cloudy,28.2,1.6,Railway,Bus,148,151,121,32.3
+2026-07-16,14:00,14,Weekday,Cloudy,29.3,1.5,Beach,Scooter,81,84,75,13.1
+2026-07-16,15:00,15,Weekday,Cloudy,29.8,0.5,Beach,Bike,74,64,61,13.8
+2026-07-16,15:00,15,Weekday,Cloudy,30.8,0.0,Airport,Ride Hailing,77,72,69,26.8
+2026-07-16,15:00,15,Weekday,Cloudy,31.7,0.4,Market,Bicycle,40,47,34,20.9
+2026-07-16,15:00,15,Weekday,Cloudy,29.8,1.5,Tech Park,Bus,98,78,75,35.9
+2026-07-16,15:00,15,Weekday,Cloudy,31.3,0.9,Market,Scooter,56,58,50,16.6
+2026-07-16,16:00,16,Weekday,Cloudy,28.6,0.3,College,Bike,67,45,59,13.7
+2026-07-16,16:00,16,Weekday,Cloudy,31.6,1.6,College,Ride Hailing,78,79,67,24.3
+2026-07-16,16:00,16,Weekday,Cloudy,30.7,0.4,Beach,Bicycle,50,57,42,23.4
+2026-07-16,16:00,16,Weekday,Cloudy,28.7,1.7,Market,Bus,107,78,91,38.0
+2026-07-16,16:00,16,Weekday,Cloudy,27.3,1.2,Airport,Scooter,66,54,58,14.1
+2026-07-16,17:00,17,Weekday,Cloudy,31.0,0.4,Beach,Bike,193,213,173,14.9
+2026-07-16,17:00,17,Weekday,Cloudy,29.2,0.6,Airport,Ride Hailing,155,149,122,27.6
+2026-07-16,17:00,17,Weekday,Cloudy,32.0,1.3,Beach,Bicycle,116,111,88,23.5
+2026-07-16,17:00,17,Weekday,Cloudy,28.2,0.5,Airport,Bus,236,226,187,34.0
+2026-07-16,17:00,17,Weekday,Cloudy,31.0,1.0,Airport,Scooter,135,136,105,15.4
+2026-07-16,18:00,18,Weekday,Cloudy,28.7,1.4,Market,Bike,162,189,151,19.0
+2026-07-16,18:00,18,Weekday,Cloudy,29.7,1.4,Railway,Ride Hailing,152,141,135,22.9
+2026-07-16,18:00,18,Weekday,Cloudy,28.6,1.4,Airport,Bicycle,110,93,100,17.1
+2026-07-16,18:00,18,Weekday,Cloudy,28.7,1.3,Tech Park,Bus,235,254,228,33.7
+2026-07-16,18:00,18,Weekday,Cloudy,29.3,1.2,Airport,Scooter,122,122,100,15.8
+2026-07-16,19:00,19,Weekday,Cloudy,28.6,1.3,College,Bike,167,127,156,18.3
+2026-07-16,19:00,19,Weekday,Cloudy,31.3,1.3,Central,Ride Hailing,176,125,160,24.1
+2026-07-16,19:00,19,Weekday,Cloudy,31.8,0.4,Railway,Bicycle,99,78,88,23.2
+2026-07-16,19:00,19,Weekday,Cloudy,30.8,1.2,Airport,Bus,271,191,241,30.6
+2026-07-16,19:00,19,Weekday,Cloudy,27.6,1.9,College,Scooter,142,133,118,12.0
+2026-07-16,20:00,20,Weekday,Cloudy,28.8,1.7,Central,Bike,139,98,130,18.2
+2026-07-16,20:00,20,Weekday,Cloudy,27.4,1.1,Central,Ride Hailing,170,165,157,23.9
+2026-07-16,20:00,20,Weekday,Cloudy,28.8,1.7,College,Bicycle,85,80,78,20.9
+2026-07-16,20:00,20,Weekday,Cloudy,31.8,0.9,Tech Park,Bus,248,227,212,38.1
+2026-07-16,20:00,20,Weekday,Cloudy,30.9,1.2,Beach,Scooter,140,160,115,15.1
+2026-07-16,21:00,21,Weekday,Cloudy,31.5,1.7,Airport,Bike,56,66,48,15.9
+2026-07-16,21:00,21,Weekday,Cloudy,30.4,0.3,Tech Park,Ride Hailing,67,55,60,26.2
+2026-07-16,21:00,21,Weekday,Cloudy,31.1,1.4,College,Bicycle,40,28,34,18.1
+2026-07-16,21:00,21,Weekday,Cloudy,30.5,0.3,College,Bus,91,93,69,36.6
+2026-07-16,21:00,21,Weekday,Cloudy,27.1,1.0,Railway,Scooter,60,52,46,15.7
+2026-07-17,06:00,6,Weekday,Sunny,34.9,0.2,Market,Bike,59,59,57,16.5
+2026-07-17,06:00,6,Weekday,Sunny,31.2,0.0,Central,Ride Hailing,57,58,45,24.5
+2026-07-17,06:00,6,Weekday,Sunny,31.9,0.5,Tech Park,Bicycle,43,49,37,21.4
+2026-07-17,06:00,6,Weekday,Sunny,34.8,0.5,Market,Bus,92,76,75,31.8
+2026-07-17,06:00,6,Weekday,Sunny,32.7,0.4,Tech Park,Scooter,62,63,56,13.8
+2026-07-17,07:00,7,Weekday,Sunny,32.1,0.5,Market,Bike,146,163,127,15.4
+2026-07-17,07:00,7,Weekday,Sunny,32.1,0.3,Railway,Ride Hailing,150,98,139,26.7
+2026-07-17,07:00,7,Weekday,Sunny,29.9,0.3,Tech Park,Bicycle,111,130,87,18.5
+2026-07-17,07:00,7,Weekday,Sunny,29.3,0.3,Market,Bus,201,224,158,30.2
+2026-07-17,07:00,7,Weekday,Sunny,29.3,0.2,College,Scooter,158,189,144,13.3
+2026-07-17,08:00,8,Weekday,Sunny,29.3,0.2,Tech Park,Bike,167,140,145,14.9
+2026-07-17,08:00,8,Weekday,Sunny,32.6,0.1,Airport,Ride Hailing,123,97,97,23.3
+2026-07-17,08:00,8,Weekday,Sunny,31.1,0.4,College,Bicycle,98,91,92,17.5
+2026-07-17,08:00,8,Weekday,Sunny,34.3,0.3,Market,Bus,193,148,153,30.0
+2026-07-17,08:00,8,Weekday,Sunny,29.9,0.2,Beach,Scooter,133,150,119,13.0
+2026-07-17,09:00,9,Weekday,Sunny,34.7,0.3,Tech Park,Bike,172,160,161,16.4
+2026-07-17,09:00,9,Weekday,Sunny,33.3,0.4,Railway,Ride Hailing,132,128,116,24.5
+2026-07-17,09:00,9,Weekday,Sunny,31.9,0.4,Railway,Bicycle,89,72,73,18.4
+2026-07-17,09:00,9,Weekday,Sunny,34.6,0.2,Tech Park,Bus,193,178,185,37.9
+2026-07-17,09:00,9,Weekday,Sunny,31.9,0.3,Central,Scooter,158,183,125,15.8
+2026-07-17,10:00,10,Weekday,Sunny,32.1,0.1,Central,Bike,74,70,70,16.6
+2026-07-17,10:00,10,Weekday,Sunny,31.2,0.1,Beach,Ride Hailing,70,79,65,22.5
+2026-07-17,10:00,10,Weekday,Sunny,30.4,0.4,Beach,Bicycle,45,49,36,20.7
+2026-07-17,10:00,10,Weekday,Sunny,34.8,0.1,Tech Park,Bus,82,59,63,31.8
+2026-07-17,10:00,10,Weekday,Sunny,34.8,0.1,Airport,Scooter,69,81,61,12.1
+2026-07-17,11:00,11,Weekday,Sunny,31.9,0.1,Airport,Bike,111,108,85,17.2
+2026-07-17,11:00,11,Weekday,Sunny,29.4,0.3,Tech Park,Ride Hailing,92,89,69,23.2
+2026-07-17,11:00,11,Weekday,Sunny,29.4,0.4,College,Bicycle,70,49,54,22.4
+2026-07-17,11:00,11,Weekday,Sunny,33.9,0.4,Market,Bus,135,151,129,36.7
+2026-07-17,11:00,11,Weekday,Sunny,34.0,0.4,Tech Park,Scooter,94,76,80,15.3
+2026-07-17,12:00,12,Weekday,Sunny,30.8,0.5,College,Bike,103,88,92,18.2
+2026-07-17,12:00,12,Weekday,Sunny,33.0,0.3,Beach,Ride Hailing,79,87,62,23.7
+2026-07-17,12:00,12,Weekday,Sunny,29.0,0.0,Tech Park,Bicycle,55,43,49,20.7
+2026-07-17,12:00,12,Weekday,Sunny,34.9,0.0,Market,Bus,143,122,127,30.4
+2026-07-17,12:00,12,Weekday,Sunny,33.6,0.4,Market,Scooter,93,63,71,16.2
+2026-07-17,13:00,13,Weekday,Sunny,31.1,0.2,Airport,Bike,102,121,82,14.5
+2026-07-17,13:00,13,Weekday,Sunny,31.9,0.5,Beach,Ride Hailing,94,99,71,23.5
+2026-07-17,13:00,13,Weekday,Sunny,30.6,0.0,Market,Bicycle,72,82,66,20.7
+2026-07-17,13:00,13,Weekday,Sunny,33.5,0.3,Tech Park,Bus,152,156,133,29.9
+2026-07-17,13:00,13,Weekday,Sunny,34.2,0.3,Tech Park,Scooter,97,89,80,13.5
+2026-07-17,14:00,14,Weekday,Sunny,30.9,0.1,Railway,Bike,108,103,83,15.7
+2026-07-17,14:00,14,Weekday,Sunny,32.1,0.2,Railway,Ride Hailing,87,57,66,26.0
+2026-07-17,14:00,14,Weekday,Sunny,31.8,0.4,Airport,Bicycle,67,71,55,19.1
+2026-07-17,14:00,14,Weekday,Sunny,33.7,0.4,Railway,Bus,130,144,107,36.5
+2026-07-17,14:00,14,Weekday,Sunny,34.5,0.0,Airport,Scooter,99,69,87,14.7
+2026-07-17,15:00,15,Weekday,Sunny,32.3,0.0,Central,Bike,67,64,51,19.1
+2026-07-17,15:00,15,Weekday,Sunny,32.4,0.4,Tech Park,Ride Hailing,62,59,55,23.1
+2026-07-17,15:00,15,Weekday,Sunny,33.0,0.0,Airport,Bicycle,49,49,45,21.7
+2026-07-17,15:00,15,Weekday,Sunny,34.1,0.4,Railway,Bus,86,72,65,36.5
+2026-07-17,15:00,15,Weekday,Sunny,31.2,0.1,Tech Park,Scooter,68,57,51,14.3
+2026-07-17,16:00,16,Weekday,Sunny,32.4,0.2,Railway,Bike,78,81,64,15.5
+2026-07-17,16:00,16,Weekday,Sunny,33.2,0.4,Railway,Ride Hailing,61,63,57,26.5
+2026-07-17,16:00,16,Weekday,Sunny,30.4,0.0,Railway,Bicycle,37,32,34,19.6
+2026-07-17,16:00,16,Weekday,Sunny,34.8,0.1,Tech Park,Bus,100,114,97,34.7
+2026-07-17,16:00,16,Weekday,Sunny,30.2,0.5,Market,Scooter,67,69,56,14.2
+2026-07-17,17:00,17,Weekday,Sunny,31.1,0.1,Airport,Bike,210,159,167,17.6
+2026-07-17,17:00,17,Weekday,Sunny,31.3,0.1,Beach,Ride Hailing,155,147,139,28.4
+2026-07-17,17:00,17,Weekday,Sunny,34.2,0.3,Market,Bicycle,108,111,90,17.9
+2026-07-17,17:00,17,Weekday,Sunny,33.2,0.1,Railway,Bus,259,225,243,36.8
+2026-07-17,17:00,17,Weekday,Sunny,32.0,0.4,Railway,Scooter,165,156,136,13.0
+2026-07-17,18:00,18,Weekday,Sunny,32.8,0.2,Market,Bike,190,200,151,14.8
+2026-07-17,18:00,18,Weekday,Sunny,31.5,0.2,Beach,Ride Hailing,129,105,113,23.1
+2026-07-17,18:00,18,Weekday,Sunny,31.9,0.5,Airport,Bicycle,109,77,88,18.8
+2026-07-17,18:00,18,Weekday,Sunny,34.3,0.2,Airport,Bus,277,315,243,34.0
+2026-07-17,18:00,18,Weekday,Sunny,31.4,0.2,Beach,Scooter,158,169,131,16.3
+2026-07-17,19:00,19,Weekday,Sunny,29.0,0.4,Airport,Bike,186,213,157,15.8
+2026-07-17,19:00,19,Weekday,Sunny,30.6,0.0,Beach,Ride Hailing,141,119,129,22.2
+2026-07-17,19:00,19,Weekday,Sunny,31.6,0.4,Central,Bicycle,113,89,96,21.6
+2026-07-17,19:00,19,Weekday,Sunny,29.3,0.1,College,Bus,264,290,236,35.2
+2026-07-17,19:00,19,Weekday,Sunny,30.9,0.4,College,Scooter,160,161,128,12.9
+2026-07-17,20:00,20,Weekday,Sunny,33.6,0.1,College,Bike,206,159,178,15.6
+2026-07-17,20:00,20,Weekday,Sunny,31.6,0.5,Airport,Ride Hailing,177,130,153,21.6
+2026-07-17,20:00,20,Weekday,Sunny,30.5,0.0,Tech Park,Bicycle,100,92,78,20.3
+2026-07-17,20:00,20,Weekday,Sunny,29.4,0.3,Market,Bus,263,222,236,28.7
+2026-07-17,20:00,20,Weekday,Sunny,32.6,0.3,Airport,Scooter,154,107,133,13.9
+2026-07-17,21:00,21,Weekday,Sunny,31.5,0.2,Central,Bike,75,81,68,16.1
+2026-07-17,21:00,21,Weekday,Sunny,32.7,0.2,Tech Park,Ride Hailing,60,52,47,22.3
+2026-07-17,21:00,21,Weekday,Sunny,32.1,0.3,Beach,Bicycle,44,31,36,23.2
+2026-07-17,21:00,21,Weekday,Sunny,32.2,0.0,Railway,Bus,87,98,71,32.3
+2026-07-17,21:00,21,Weekday,Sunny,32.1,0.4,Beach,Scooter,66,72,58,15.0
+2026-07-18,06:00,6,Weekend,Cloudy,30.3,1.9,Airport,Bike,55,40,46,14.0
+2026-07-18,06:00,6,Weekend,Cloudy,28.0,1.6,Central,Ride Hailing,57,39,47,26.2
+2026-07-18,06:00,6,Weekend,Cloudy,30.6,1.1,Railway,Bicycle,32,35,28,24.0
+2026-07-18,06:00,6,Weekend,Cloudy,27.2,1.4,Market,Bus,63,54,54,27.3
+2026-07-18,06:00,6,Weekend,Cloudy,31.6,0.9,Airport,Scooter,48,49,46,15.7
+2026-07-18,07:00,7,Weekend,Cloudy,31.2,1.7,Central,Bike,137,144,133,16.8
+2026-07-18,07:00,7,Weekend,Cloudy,30.5,1.6,Central,Ride Hailing,113,123,91,21.7
+2026-07-18,07:00,7,Weekend,Cloudy,29.3,0.7,Airport,Bicycle,74,54,69,18.7
+2026-07-18,07:00,7,Weekend,Cloudy,27.2,1.0,Railway,Bus,165,146,145,37.8
+2026-07-18,07:00,7,Weekend,Cloudy,30.0,0.9,Railway,Scooter,115,120,98,12.7
+2026-07-18,08:00,8,Weekend,Cloudy,31.3,2.0,Railway,Bike,112,105,93,14.2
+2026-07-18,08:00,8,Weekend,Cloudy,31.6,0.9,Beach,Ride Hailing,141,156,112,26.4
+2026-07-18,08:00,8,Weekend,Cloudy,29.7,0.8,Airport,Bicycle,69,78,54,22.3
+2026-07-18,08:00,8,Weekend,Cloudy,30.5,0.3,College,Bus,201,200,164,32.9
+2026-07-18,08:00,8,Weekend,Cloudy,27.8,1.9,Beach,Scooter,104,125,101,15.1
+2026-07-18,09:00,9,Weekend,Cloudy,30.7,0.7,Market,Bike,134,88,128,14.2
+2026-07-18,09:00,9,Weekend,Cloudy,28.7,0.4,Central,Ride Hailing,125,91,117,24.1
+2026-07-18,09:00,9,Weekend,Cloudy,30.4,0.8,Railway,Bicycle,67,50,58,21.6
+2026-07-18,09:00,9,Weekend,Cloudy,28.5,1.3,Tech Park,Bus,164,156,160,36.8
+2026-07-18,09:00,9,Weekend,Cloudy,28.6,1.6,Market,Scooter,110,121,91,14.8
+2026-07-18,10:00,10,Weekend,Cloudy,28.7,2.0,College,Bike,46,44,43,15.0
+2026-07-18,10:00,10,Weekend,Cloudy,31.5,1.8,Tech Park,Ride Hailing,62,44,56,22.4
+2026-07-18,10:00,10,Weekend,Cloudy,29.5,0.3,Railway,Bicycle,30,29,24,21.4
+2026-07-18,10:00,10,Weekend,Cloudy,27.6,0.5,College,Bus,84,62,64,30.2
+2026-07-18,10:00,10,Weekend,Cloudy,30.3,0.9,Beach,Scooter,41,43,33,12.8
+2026-07-18,11:00,11,Weekend,Cloudy,29.0,0.0,Central,Bike,76,73,61,14.8
+2026-07-18,11:00,11,Weekend,Cloudy,27.5,0.8,Airport,Ride Hailing,94,100,92,25.6
+2026-07-18,11:00,11,Weekend,Cloudy,27.4,0.1,Railway,Bicycle,43,35,34,22.5
+2026-07-18,11:00,11,Weekend,Cloudy,30.9,0.7,Beach,Bus,116,77,91,36.0
+2026-07-18,11:00,11,Weekend,Cloudy,30.1,1.7,Railway,Scooter,57,61,47,15.3
+2026-07-18,12:00,12,Weekend,Cloudy,31.5,1.9,Tech Park,Bike,89,101,69,15.5
+2026-07-18,12:00,12,Weekend,Cloudy,28.3,1.1,Beach,Ride Hailing,92,65,73,23.5
+2026-07-18,12:00,12,Weekend,Cloudy,28.9,1.4,Railway,Bicycle,50,34,43,17.9
+2026-07-18,12:00,12,Weekend,Cloudy,29.9,1.1,College,Bus,103,117,93,31.4
+2026-07-18,12:00,12,Weekend,Cloudy,31.6,0.5,College,Scooter,74,75,65,15.3
+2026-07-18,13:00,13,Weekend,Cloudy,27.6,1.4,Beach,Bike,81,74,62,15.1
+2026-07-18,13:00,13,Weekend,Cloudy,30.6,0.9,Market,Ride Hailing,74,66,69,24.3
+2026-07-18,13:00,13,Weekend,Cloudy,30.7,0.4,Tech Park,Bicycle,46,40,41,19.6
+2026-07-18,13:00,13,Weekend,Cloudy,27.7,1.0,Railway,Bus,119,138,98,38.0
+2026-07-18,13:00,13,Weekend,Cloudy,27.3,1.9,Beach,Scooter,66,75,57,16.3
+2026-07-18,14:00,14,Weekend,Cloudy,29.0,1.7,Central,Bike,80,82,71,17.3
+2026-07-18,14:00,14,Weekend,Cloudy,31.6,1.6,Railway,Ride Hailing,96,104,80,28.4
+2026-07-18,14:00,14,Weekend,Cloudy,29.1,1.7,Tech Park,Bicycle,47,34,42,23.2
+2026-07-18,14:00,14,Weekend,Cloudy,31.9,1.8,Market,Bus,129,136,120,31.2
+2026-07-18,14:00,14,Weekend,Cloudy,31.6,0.5,Tech Park,Scooter,62,63,51,14.2
+2026-07-18,15:00,15,Weekend,Cloudy,29.7,0.0,Beach,Bike,52,50,41,15.6
+2026-07-18,15:00,15,Weekend,Cloudy,28.0,1.8,Market,Ride Hailing,64,70,53,24.6
+2026-07-18,15:00,15,Weekend,Cloudy,31.4,0.7,Airport,Bicycle,31,27,30,22.1
+2026-07-18,15:00,15,Weekend,Cloudy,29.2,1.9,Railway,Bus,91,88,85,35.4
+2026-07-18,15:00,15,Weekend,Cloudy,28.9,1.3,Beach,Scooter,47,39,43,13.4
+2026-07-18,16:00,16,Weekend,Cloudy,30.5,0.1,Beach,Bike,48,56,37,13.9
+2026-07-18,16:00,16,Weekend,Cloudy,30.5,1.8,Beach,Ride Hailing,55,66,48,22.1
+2026-07-18,16:00,16,Weekend,Cloudy,28.4,0.3,Beach,Bicycle,27,31,21,17.3
+2026-07-18,16:00,16,Weekend,Cloudy,30.2,0.3,Railway,Bus,91,67,84,38.1
+2026-07-18,16:00,16,Weekend,Cloudy,27.9,0.7,College,Scooter,49,51,43,15.8
+2026-07-18,17:00,17,Weekend,Cloudy,27.5,0.7,Tech Park,Bike,111,93,87,16.8
+2026-07-18,17:00,17,Weekend,Cloudy,28.5,1.2,Railway,Ride Hailing,154,163,127,21.3
+2026-07-18,17:00,17,Weekend,Cloudy,27.3,1.4,Beach,Bicycle,68,79,64,22.2
+2026-07-18,17:00,17,Weekend,Cloudy,31.7,1.0,Tech Park,Bus,228,187,192,30.6
+2026-07-18,17:00,17,Weekend,Cloudy,27.3,1.5,Railway,Scooter,106,79,92,15.7
+2026-07-18,18:00,18,Weekend,Cloudy,31.1,0.7,Railway,Bike,134,150,118,13.9
+2026-07-18,18:00,18,Weekend,Cloudy,29.8,0.5,Airport,Ride Hailing,136,95,123,20.5
+2026-07-18,18:00,18,Weekend,Cloudy,28.1,2.0,Railway,Bicycle,77,62,64,23.0
+2026-07-18,18:00,18,Weekend,Cloudy,30.7,0.6,Market,Bus,242,202,196,29.7
+2026-07-18,18:00,18,Weekend,Cloudy,28.9,1.6,Central,Scooter,104,90,101,15.7
+2026-07-18,19:00,19,Weekend,Cloudy,29.2,0.9,Tech Park,Bike,109,73,89,18.1
+2026-07-18,19:00,19,Weekend,Cloudy,27.5,0.6,Central,Ride Hailing,131,94,99,25.7
+2026-07-18,19:00,19,Weekend,Cloudy,31.9,1.3,Railway,Bicycle,78,81,70,23.6
+2026-07-18,19:00,19,Weekend,Cloudy,29.5,1.4,Central,Bus,222,146,177,35.9
+2026-07-18,19:00,19,Weekend,Cloudy,30.3,1.1,Market,Scooter,137,112,124,14.7
+2026-07-18,20:00,20,Weekend,Cloudy,31.3,1.4,Railway,Bike,151,139,147,18.9
+2026-07-18,20:00,20,Weekend,Cloudy,31.5,0.7,College,Ride Hailing,126,125,120,22.5
+2026-07-18,20:00,20,Weekend,Cloudy,30.9,0.5,Market,Bicycle,84,55,70,21.2
+2026-07-18,20:00,20,Weekend,Cloudy,27.1,0.2,Tech Park,Bus,224,208,184,37.2
+2026-07-18,20:00,20,Weekend,Cloudy,28.9,0.7,Market,Scooter,114,82,107,14.9
+2026-07-18,21:00,21,Weekend,Cloudy,31.9,0.9,Airport,Bike,35,34,31,17.9
+2026-07-18,21:00,21,Weekend,Cloudy,29.3,1.3,Airport,Ride Hailing,60,54,48,23.0
+2026-07-18,21:00,21,Weekend,Cloudy,28.0,0.4,Railway,Bicycle,36,31,33,23.8
+2026-07-18,21:00,21,Weekend,Cloudy,31.1,0.5,Beach,Bus,80,76,69,37.3
+2026-07-18,21:00,21,Weekend,Cloudy,30.3,0.1,Beach,Scooter,42,38,37,16.0
+2026-07-19,06:00,6,Weekend,Sunny,33.4,0.3,Railway,Bike,61,45,58,15.2
+2026-07-19,06:00,6,Weekend,Sunny,30.5,0.5,Market,Ride Hailing,63,43,49,22.0
+2026-07-19,06:00,6,Weekend,Sunny,33.5,0.1,Railway,Bicycle,34,29,27,23.2
+2026-07-19,06:00,6,Weekend,Sunny,32.8,0.1,College,Bus,80,64,69,33.8
+2026-07-19,06:00,6,Weekend,Sunny,30.8,0.0,Beach,Scooter,44,30,38,16.8
+2026-07-19,07:00,7,Weekend,Sunny,32.9,0.1,Airport,Bike,119,99,104,14.2
+2026-07-19,07:00,7,Weekend,Sunny,29.6,0.3,College,Ride Hailing,103,81,88,26.6
+2026-07-19,07:00,7,Weekend,Sunny,34.9,0.4,Market,Bicycle,89,94,69,18.5
+2026-07-19,07:00,7,Weekend,Sunny,29.4,0.0,Beach,Bus,174,176,151,27.5
+2026-07-19,07:00,7,Weekend,Sunny,33.7,0.4,Railway,Scooter,136,114,110,16.6
+2026-07-19,08:00,8,Weekend,Sunny,32.4,0.4,Market,Bike,128,85,114,15.4
+2026-07-19,08:00,8,Weekend,Sunny,33.1,0.3,College,Ride Hailing,118,110,115,28.4
+2026-07-19,08:00,8,Weekend,Sunny,34.1,0.3,Railway,Bicycle,84,56,63,18.8
+2026-07-19,08:00,8,Weekend,Sunny,31.3,0.2,Tech Park,Bus,175,145,160,27.7
+2026-07-19,08:00,8,Weekend,Sunny,34.5,0.4,Market,Scooter,119,112,90,13.1
+2026-07-19,09:00,9,Weekend,Sunny,34.5,0.2,Tech Park,Bike,130,138,105,13.6
+2026-07-19,09:00,9,Weekend,Sunny,29.2,0.1,Market,Ride Hailing,119,99,107,28.8
+2026-07-19,09:00,9,Weekend,Sunny,32.1,0.3,Market,Bicycle,62,61,48,23.0
+2026-07-19,09:00,9,Weekend,Sunny,34.1,0.3,Tech Park,Bus,177,176,147,35.0
+2026-07-19,09:00,9,Weekend,Sunny,30.2,0.3,College,Scooter,120,131,113,14.2
+2026-07-19,10:00,10,Weekend,Sunny,32.5,0.5,Beach,Bike,69,73,67,14.2
+2026-07-19,10:00,10,Weekend,Sunny,33.4,0.2,Railway,Ride Hailing,55,41,52,25.7
+2026-07-19,10:00,10,Weekend,Sunny,34.7,0.3,Beach,Bicycle,36,26,29,17.7
+2026-07-19,10:00,10,Weekend,Sunny,33.2,0.1,Market,Bus,74,51,64,30.7
+2026-07-19,10:00,10,Weekend,Sunny,34.9,0.1,Tech Park,Scooter,62,70,58,15.0
+2026-07-19,11:00,11,Weekend,Sunny,32.2,0.4,Market,Bike,96,100,78,18.9
+2026-07-19,11:00,11,Weekend,Sunny,29.5,0.5,Beach,Ride Hailing,76,50,63,26.3
+2026-07-19,11:00,11,Weekend,Sunny,33.6,0.1,Airport,Bicycle,49,56,41,18.5
+2026-07-19,11:00,11,Weekend,Sunny,29.7,0.5,Beach,Bus,92,94,83,33.7
+2026-07-19,11:00,11,Weekend,Sunny,31.6,0.3,Beach,Scooter,79,61,74,13.1
+2026-07-19,12:00,12,Weekend,Sunny,29.3,0.2,Tech Park,Bike,91,82,70,17.4
+2026-07-19,12:00,12,Weekend,Sunny,33.6,0.2,College,Ride Hailing,77,71,70,22.2
+2026-07-19,12:00,12,Weekend,Sunny,30.0,0.3,Beach,Bicycle,58,44,52,21.5
+2026-07-19,12:00,12,Weekend,Sunny,32.8,0.2,Tech Park,Bus,113,124,95,36.7
+2026-07-19,12:00,12,Weekend,Sunny,30.5,0.1,Tech Park,Scooter,75,76,61,13.1
+2026-07-19,13:00,13,Weekend,Sunny,29.8,0.0,Beach,Bike,90,91,81,18.4
+2026-07-19,13:00,13,Weekend,Sunny,32.3,0.1,Beach,Ride Hailing,79,79,75,23.7
+2026-07-19,13:00,13,Weekend,Sunny,31.3,0.0,Tech Park,Bicycle,55,40,51,22.0
+2026-07-19,13:00,13,Weekend,Sunny,34.7,0.2,Central,Bus,113,106,92,34.6
+2026-07-19,13:00,13,Weekend,Sunny,30.1,0.1,Beach,Scooter,73,48,67,13.5
+2026-07-19,14:00,14,Weekend,Sunny,32.4,0.0,Railway,Bike,81,84,79,13.8
+2026-07-19,14:00,14,Weekend,Sunny,30.6,0.3,Beach,Ride Hailing,84,99,76,24.7
+2026-07-19,14:00,14,Weekend,Sunny,32.8,0.4,Airport,Bicycle,62,48,58,23.5
+2026-07-19,14:00,14,Weekend,Sunny,33.0,0.4,Railway,Bus,113,93,92,30.6
+2026-07-19,14:00,14,Weekend,Sunny,32.0,0.2,Railway,Scooter,69,46,67,15.0
+2026-07-19,15:00,15,Weekend,Sunny,33.9,0.4,Market,Bike,53,36,41,18.0
+2026-07-19,15:00,15,Weekend,Sunny,32.7,0.4,Railway,Ride Hailing,56,48,50,23.0
+2026-07-19,15:00,15,Weekend,Sunny,34.6,0.2,Airport,Bicycle,32,21,31,20.5
+2026-07-19,15:00,15,Weekend,Sunny,32.9,0.4,Central,Bus,70,53,55,29.8
+2026-07-19,15:00,15,Weekend,Sunny,33.2,0.2,Beach,Scooter,47,55,36,15.8
+2026-07-19,16:00,16,Weekend,Sunny,33.7,0.3,Tech Park,Bike,57,65,56,18.7
+2026-07-19,16:00,16,Weekend,Sunny,29.8,0.4,College,Ride Hailing,57,57,50,23.5
+2026-07-19,16:00,16,Weekend,Sunny,32.9,0.4,Market,Bicycle,36,42,27,22.2
+2026-07-19,16:00,16,Weekend,Sunny,33.6,0.5,College,Bus,79,53,66,36.7
+2026-07-19,16:00,16,Weekend,Sunny,29.8,0.0,Airport,Scooter,56,59,48,14.5
+2026-07-19,17:00,17,Weekend,Sunny,31.0,0.1,Tech Park,Bike,125,127,108,17.7
+2026-07-19,17:00,17,Weekend,Sunny,34.5,0.3,Beach,Ride Hailing,131,157,103,21.6
+2026-07-19,17:00,17,Weekend,Sunny,31.5,0.1,College,Bicycle,84,65,79,19.9
+2026-07-19,17:00,17,Weekend,Sunny,30.4,0.2,Market,Bus,178,195,170,36.1
+2026-07-19,17:00,17,Weekend,Sunny,33.3,0.3,Railway,Scooter,108,90,102,15.6
+2026-07-19,18:00,18,Weekend,Sunny,32.5,0.0,Market,Bike,154,162,150,18.0
+2026-07-19,18:00,18,Weekend,Sunny,29.1,0.0,Beach,Ride Hailing,130,86,104,28.3
+2026-07-19,18:00,18,Weekend,Sunny,32.6,0.5,Market,Bicycle,106,91,83,20.0
+2026-07-19,18:00,18,Weekend,Sunny,29.5,0.4,Beach,Bus,197,201,193,27.5
+2026-07-19,18:00,18,Weekend,Sunny,31.5,0.4,Central,Scooter,130,126,124,12.5
+2026-07-19,19:00,19,Weekend,Sunny,33.7,0.3,Central,Bike,149,156,136,16.6
+2026-07-19,19:00,19,Weekend,Sunny,34.3,0.0,Railway,Ride Hailing,120,99,114,28.0
+2026-07-19,19:00,19,Weekend,Sunny,33.3,0.1,Tech Park,Bicycle,104,109,90,21.0
+2026-07-19,19:00,19,Weekend,Sunny,34.1,0.2,Beach,Bus,259,187,202,35.9
+2026-07-19,19:00,19,Weekend,Sunny,31.7,0.3,Railway,Scooter,121,108,103,15.7
+2026-07-19,20:00,20,Weekend,Sunny,31.1,0.2,Tech Park,Bike,146,159,140,16.4
+2026-07-19,20:00,20,Weekend,Sunny,33.6,0.1,Central,Ride Hailing,125,99,96,23.2
+2026-07-19,20:00,20,Weekend,Sunny,32.3,0.4,College,Bicycle,96,82,73,20.1
+2026-07-19,20:00,20,Weekend,Sunny,34.8,0.5,Tech Park,Bus,198,237,159,30.3
+2026-07-19,20:00,20,Weekend,Sunny,35.0,0.5,Beach,Scooter,124,117,97,14.9
+2026-07-19,21:00,21,Weekend,Sunny,30.6,0.3,Tech Park,Bike,54,64,49,16.7
+2026-07-19,21:00,21,Weekend,Sunny,29.3,0.4,Airport,Ride Hailing,51,39,46,22.1
+2026-07-19,21:00,21,Weekend,Sunny,31.9,0.5,Airport,Bicycle,36,41,27,20.6
+2026-07-19,21:00,21,Weekend,Sunny,32.6,0.5,Market,Bus,81,71,77,35.7
+2026-07-19,21:00,21,Weekend,Sunny,34.3,0.1,Tech Park,Scooter,46,54,39,14.9
+2026-07-20,06:00,6,Weekday,Cloudy,28.1,1.0,College,Bike,75,57,66,14.0
+2026-07-20,06:00,6,Weekday,Cloudy,31.5,1.7,Beach,Ride Hailing,70,58,58,26.6
+2026-07-20,06:00,6,Weekday,Cloudy,28.8,1.2,Airport,Bicycle,34,23,30,21.9
+2026-07-20,06:00,6,Weekday,Cloudy,31.6,0.9,Market,Bus,105,123,86,30.6
+2026-07-20,06:00,6,Weekday,Cloudy,29.1,0.8,Railway,Scooter,52,39,47,15.3
+2026-07-20,07:00,7,Weekday,Cloudy,27.5,1.8,Airport,Bike,132,157,125,15.4
+2026-07-20,07:00,7,Weekday,Cloudy,30.4,0.9,Beach,Ride Hailing,152,139,138,22.4
+2026-07-20,07:00,7,Weekday,Cloudy,28.2,0.4,Beach,Bicycle,77,83,66,23.2
+2026-07-20,07:00,7,Weekday,Cloudy,31.2,0.2,Market,Bus,213,220,186,27.4
+2026-07-20,07:00,7,Weekday,Cloudy,27.8,2.0,Beach,Scooter,106,117,95,16.7
+2026-07-20,08:00,8,Weekday,Cloudy,29.1,1.1,Airport,Bike,168,152,139,17.1
+2026-07-20,08:00,8,Weekday,Cloudy,29.3,1.4,Railway,Ride Hailing,174,157,170,26.7
+2026-07-20,08:00,8,Weekday,Cloudy,29.5,0.8,College,Bicycle,91,65,69,22.4
+2026-07-20,08:00,8,Weekday,Cloudy,27.4,0.2,Market,Bus,197,192,159,29.0
+2026-07-20,08:00,8,Weekday,Cloudy,29.1,0.6,Tech Park,Scooter,128,94,98,14.7
+2026-07-20,09:00,9,Weekday,Cloudy,29.5,0.6,Central,Bike,146,119,121,16.0
+2026-07-20,09:00,9,Weekday,Cloudy,27.5,1.1,College,Ride Hailing,162,140,141,23.1
+2026-07-20,09:00,9,Weekday,Cloudy,27.8,1.5,Tech Park,Bicycle,99,113,85,22.4
+2026-07-20,09:00,9,Weekday,Cloudy,30.9,1.0,Airport,Bus,230,159,198,33.9
+2026-07-20,09:00,9,Weekday,Cloudy,31.3,0.0,Tech Park,Scooter,121,108,98,15.2
+2026-07-20,10:00,10,Weekday,Cloudy,31.1,0.6,Market,Bike,78,62,64,18.8
+2026-07-20,10:00,10,Weekday,Cloudy,29.4,1.2,Tech Park,Ride Hailing,69,60,62,27.1
+2026-07-20,10:00,10,Weekday,Cloudy,31.0,1.4,Beach,Bicycle,34,27,26,20.7
+2026-07-20,10:00,10,Weekday,Cloudy,27.6,0.9,Market,Bus,83,95,80,35.8
+2026-07-20,10:00,10,Weekday,Cloudy,31.7,1.2,Beach,Scooter,51,37,43,14.3
+2026-07-20,11:00,11,Weekday,Cloudy,27.2,0.4,Tech Park,Bike,90,72,86,13.9
+2026-07-20,11:00,11,Weekday,Cloudy,29.2,1.6,Market,Ride Hailing,93,66,73,20.9
+2026-07-20,11:00,11,Weekday,Cloudy,29.5,1.3,Airport,Bicycle,51,40,39,18.9
+2026-07-20,11:00,11,Weekday,Cloudy,28.3,1.6,Central,Bus,147,173,119,37.4
+2026-07-20,11:00,11,Weekday,Cloudy,32.0,0.8,Tech Park,Scooter,75,53,65,14.7
+2026-07-20,12:00,12,Weekday,Cloudy,32.0,1.0,Beach,Bike,110,129,98,17.0
+2026-07-20,12:00,12,Weekday,Cloudy,28.3,0.6,Tech Park,Ride Hailing,76,51,62,28.6
+2026-07-20,12:00,12,Weekday,Cloudy,31.4,0.7,Market,Bicycle,58,38,47,17.6
+2026-07-20,12:00,12,Weekday,Cloudy,28.0,0.3,Beach,Bus,150,133,124,34.9
+2026-07-20,12:00,12,Weekday,Cloudy,30.7,0.5,Railway,Scooter,85,64,71,15.2
+2026-07-20,13:00,13,Weekday,Cloudy,28.4,1.4,Beach,Bike,87,60,69,18.0
+2026-07-20,13:00,13,Weekday,Cloudy,30.9,0.1,Market,Ride Hailing,80,59,60,22.2
+2026-07-20,13:00,13,Weekday,Cloudy,32.0,0.6,Market,Bicycle,58,57,50,17.4
+2026-07-20,13:00,13,Weekday,Cloudy,27.7,1.1,Airport,Bus,151,133,139,38.0
+2026-07-20,13:00,13,Weekday,Cloudy,27.5,0.1,Airport,Scooter,93,109,77,15.4
+2026-07-20,14:00,14,Weekday,Cloudy,28.2,0.4,Beach,Bike,92,100,78,17.5
+2026-07-20,14:00,14,Weekday,Cloudy,30.1,1.9,Railway,Ride Hailing,92,88,89,28.4
+2026-07-20,14:00,14,Weekday,Cloudy,31.1,1.7,Railway,Bicycle,54,44,48,17.9
+2026-07-20,14:00,14,Weekday,Cloudy,31.7,0.3,Beach,Bus,140,100,119,27.9
+2026-07-20,14:00,14,Weekday,Cloudy,31.2,0.5,Beach,Scooter,77,62,70,13.4
+2026-07-20,15:00,15,Weekday,Cloudy,31.2,0.2,Market,Bike,66,75,65,18.4
+2026-07-20,15:00,15,Weekday,Cloudy,28.2,1.3,College,Ride Hailing,76,60,60,24.3
+2026-07-20,15:00,15,Weekday,Cloudy,30.0,0.1,Airport,Bicycle,33,32,28,20.2
+2026-07-20,15:00,15,Weekday,Cloudy,28.1,1.2,Beach,Bus,105,124,91,29.8
+2026-07-20,15:00,15,Weekday,Cloudy,31.8,0.3,Central,Scooter,57,62,50,12.4
+2026-07-20,16:00,16,Weekday,Cloudy,29.1,0.4,Tech Park,Bike,68,64,60,14.1
+2026-07-20,16:00,16,Weekday,Cloudy,30.3,1.1,Beach,Ride Hailing,69,54,65,25.6
+2026-07-20,16:00,16,Weekday,Cloudy,30.1,0.4,Tech Park,Bicycle,38,32,31,22.4
+2026-07-20,16:00,16,Weekday,Cloudy,28.9,0.7,Tech Park,Bus,101,79,88,29.8
+2026-07-20,16:00,16,Weekday,Cloudy,31.6,0.7,Beach,Scooter,55,47,49,15.3
+2026-07-20,17:00,17,Weekday,Cloudy,30.9,1.7,Tech Park,Bike,183,160,172,16.9
+2026-07-20,17:00,17,Weekday,Cloudy,27.5,1.2,Central,Ride Hailing,205,219,189,26.7
+2026-07-20,17:00,17,Weekday,Cloudy,27.4,0.1,Beach,Bicycle,91,67,83,20.8
+2026-07-20,17:00,17,Weekday,Cloudy,31.7,1.4,Beach,Bus,256,284,211,30.0
+2026-07-20,17:00,17,Weekday,Cloudy,28.0,0.7,Market,Scooter,120,105,104,15.3
+2026-07-20,18:00,18,Weekday,Cloudy,29.8,0.9,Beach,Bike,154,168,128,17.8
+2026-07-20,18:00,18,Weekday,Cloudy,31.7,0.5,Beach,Ride Hailing,204,200,161,21.6
+2026-07-20,18:00,18,Weekday,Cloudy,31.9,1.0,Railway,Bicycle,93,73,91,19.1
+2026-07-20,18:00,18,Weekday,Cloudy,29.3,0.9,Market,Bus,282,288,229,27.3
+2026-07-20,18:00,18,Weekday,Cloudy,31.6,0.5,Beach,Scooter,127,126,102,16.4
+2026-07-20,19:00,19,Weekday,Cloudy,28.7,0.9,Airport,Bike,142,125,134,17.1
+2026-07-20,19:00,19,Weekday,Cloudy,28.0,0.6,Tech Park,Ride Hailing,156,163,139,24.6
+2026-07-20,19:00,19,Weekday,Cloudy,30.2,0.2,Market,Bicycle,91,69,84,20.9
+2026-07-20,19:00,19,Weekday,Cloudy,28.0,0.4,Railway,Bus,290,236,273,29.1
+2026-07-20,19:00,19,Weekday,Cloudy,27.2,1.6,Airport,Scooter,162,184,150,12.3
+2026-07-20,20:00,20,Weekday,Cloudy,27.6,0.3,College,Bike,183,132,152,14.0
+2026-07-20,20:00,20,Weekday,Cloudy,31.2,1.6,College,Ride Hailing,133,104,126,26.0
+2026-07-20,20:00,20,Weekday,Cloudy,31.3,1.6,Central,Bicycle,92,65,86,23.2
+2026-07-20,20:00,20,Weekday,Cloudy,27.3,1.3,Central,Bus,246,241,201,32.0
+2026-07-20,20:00,20,Weekday,Cloudy,31.3,1.2,Central,Scooter,141,128,116,16.2
+2026-07-20,21:00,21,Weekday,Cloudy,31.9,1.2,Airport,Bike,62,66,58,14.3
+2026-07-20,21:00,21,Weekday,Cloudy,28.4,1.2,Market,Ride Hailing,70,63,63,26.3
+2026-07-20,21:00,21,Weekday,Cloudy,31.8,1.4,Beach,Bicycle,34,36,31,19.8
+2026-07-20,21:00,21,Weekday,Cloudy,28.8,0.0,Beach,Bus,113,111,100,34.8
+2026-07-20,21:00,21,Weekday,Cloudy,31.9,1.0,Central,Scooter,56,38,48,14.1
+2026-07-21,06:00,6,Weekday,Sunny,33.1,0.2,Central,Bike,74,70,70,16.3
+2026-07-21,06:00,6,Weekday,Sunny,30.2,0.1,Market,Ride Hailing,72,72,69,26.1
+2026-07-21,06:00,6,Weekday,Sunny,31.6,0.3,College,Bicycle,39,28,32,23.8
+2026-07-21,06:00,6,Weekday,Sunny,33.9,0.1,Tech Park,Bus,110,129,107,37.8
+2026-07-21,06:00,6,Weekday,Sunny,31.0,0.4,Tech Park,Scooter,62,66,48,12.1
+2026-07-21,07:00,7,Weekday,Sunny,30.0,0.2,Central,Bike,151,110,130,15.0
+2026-07-21,07:00,7,Weekday,Sunny,30.0,0.1,Airport,Ride Hailing,173,119,162,25.8
+2026-07-21,07:00,7,Weekday,Sunny,33.0,0.1,College,Bicycle,102,93,92,23.7
+2026-07-21,07:00,7,Weekday,Sunny,34.3,0.4,Market,Bus,180,183,176,34.2
+2026-07-21,07:00,7,Weekday,Sunny,30.8,0.2,Railway,Scooter,130,87,110,14.7
+2026-07-21,08:00,8,Weekday,Sunny,33.6,0.0,Beach,Bike,147,138,129,14.6
+2026-07-21,08:00,8,Weekday,Sunny,32.6,0.5,Central,Ride Hailing,174,138,139,27.7
+2026-07-21,08:00,8,Weekday,Sunny,31.1,0.4,Airport,Bicycle,109,82,91,19.3
+2026-07-21,08:00,8,Weekday,Sunny,32.8,0.3,Central,Bus,212,165,204,36.4
+2026-07-21,08:00,8,Weekday,Sunny,32.3,0.4,Tech Park,Scooter,118,135,100,12.9
+2026-07-21,09:00,9,Weekday,Sunny,33.7,0.3,Airport,Bike,177,175,146,17.6
+2026-07-21,09:00,9,Weekday,Sunny,33.7,0.2,College,Ride Hailing,140,129,121,23.3
+2026-07-21,09:00,9,Weekday,Sunny,34.6,0.3,Central,Bicycle,102,83,87,18.5
+2026-07-21,09:00,9,Weekday,Sunny,34.1,0.3,Airport,Bus,212,178,175,34.9
+2026-07-21,09:00,9,Weekday,Sunny,30.3,0.3,Beach,Scooter,136,160,131,15.9
+2026-07-21,10:00,10,Weekday,Sunny,33.6,0.1,Central,Bike,79,70,76,15.5
+2026-07-21,10:00,10,Weekday,Sunny,29.4,0.5,Central,Ride Hailing,64,60,58,25.1
+2026-07-21,10:00,10,Weekday,Sunny,34.8,0.1,Beach,Bicycle,43,49,33,19.6
+2026-07-21,10:00,10,Weekday,Sunny,29.6,0.1,Airport,Bus,80,63,64,36.3
+2026-07-21,10:00,10,Weekday,Sunny,31.7,0.4,College,Scooter,65,56,59,12.8
+2026-07-21,11:00,11,Weekday,Sunny,30.4,0.2,Tech Park,Bike,118,91,114,17.5
+2026-07-21,11:00,11,Weekday,Sunny,34.0,0.5,Railway,Ride Hailing,96,89,90,27.4
+2026-07-21,11:00,11,Weekday,Sunny,30.1,0.5,College,Bicycle,69,73,56,24.0
+2026-07-21,11:00,11,Weekday,Sunny,29.5,0.5,Railway,Bus,125,109,97,30.4
+2026-07-21,11:00,11,Weekday,Sunny,30.5,0.1,Tech Park,Scooter,97,90,94,15.3
+2026-07-21,12:00,12,Weekday,Sunny,31.0,0.3,Tech Park,Bike,106,87,80,13.7
+2026-07-21,12:00,12,Weekday,Sunny,30.9,0.2,Market,Ride Hailing,90,81,71,27.3
+2026-07-21,12:00,12,Weekday,Sunny,30.8,0.5,Market,Bicycle,57,63,44,18.4
+2026-07-21,12:00,12,Weekday,Sunny,31.1,0.3,Beach,Bus,161,184,154,28.4
+2026-07-21,12:00,12,Weekday,Sunny,33.2,0.4,Beach,Scooter,93,71,86,13.1
+2026-07-21,13:00,13,Weekday,Sunny,29.7,0.3,Central,Bike,93,61,71,18.7
+2026-07-21,13:00,13,Weekday,Sunny,32.8,0.1,College,Ride Hailing,77,66,68,25.3
+2026-07-21,13:00,13,Weekday,Sunny,34.9,0.5,Tech Park,Bicycle,64,69,57,17.7
+2026-07-21,13:00,13,Weekday,Sunny,31.8,0.0,Beach,Bus,166,169,132,29.4
+2026-07-21,13:00,13,Weekday,Sunny,34.8,0.1,Airport,Scooter,89,102,76,15.0
+2026-07-21,14:00,14,Weekday,Sunny,31.5,0.4,College,Bike,106,116,86,17.1
+2026-07-21,14:00,14,Weekday,Sunny,30.6,0.4,Airport,Ride Hailing,83,62,70,28.5
+2026-07-21,14:00,14,Weekday,Sunny,33.6,0.5,College,Bicycle,67,66,61,19.8
+2026-07-21,14:00,14,Weekday,Sunny,30.4,0.2,College,Bus,123,125,93,29.2
+2026-07-21,14:00,14,Weekday,Sunny,29.7,0.0,Central,Scooter,97,94,94,14.7
+2026-07-21,15:00,15,Weekday,Sunny,30.5,0.5,Tech Park,Bike,72,75,63,18.3
+2026-07-21,15:00,15,Weekday,Sunny,33.5,0.3,Central,Ride Hailing,81,89,64,27.7
+2026-07-21,15:00,15,Weekday,Sunny,34.2,0.2,Beach,Bicycle,40,27,34,22.3
+2026-07-21,15:00,15,Weekday,Sunny,30.5,0.1,Beach,Bus,91,97,86,34.8
+2026-07-21,15:00,15,Weekday,Sunny,31.8,0.4,Market,Scooter,68,73,65,15.9
+2026-07-21,16:00,16,Weekday,Sunny,30.0,0.3,Airport,Bike,79,92,63,14.6
+2026-07-21,16:00,16,Weekday,Sunny,34.6,0.3,College,Ride Hailing,64,68,60,21.6
+2026-07-21,16:00,16,Weekday,Sunny,32.9,0.1,Tech Park,Bicycle,44,33,39,21.1
+2026-07-21,16:00,16,Weekday,Sunny,33.7,0.2,Tech Park,Bus,125,123,116,35.9
+2026-07-21,16:00,16,Weekday,Sunny,31.5,0.4,Tech Park,Scooter,60,50,51,14.0
+2026-07-21,17:00,17,Weekday,Sunny,33.7,0.4,Railway,Bike,204,138,184,13.8
+2026-07-21,17:00,17,Weekday,Sunny,33.2,0.3,Airport,Ride Hailing,149,123,124,28.5
+2026-07-21,17:00,17,Weekday,Sunny,33.1,0.1,Tech Park,Bicycle,109,111,94,21.6
+2026-07-21,17:00,17,Weekday,Sunny,34.3,0.3,Airport,Bus,246,168,187,33.5
+2026-07-21,17:00,17,Weekday,Sunny,31.0,0.2,College,Scooter,171,117,163,14.6
+2026-07-21,18:00,18,Weekday,Sunny,34.5,0.1,College,Bike,180,158,171,15.2
+2026-07-21,18:00,18,Weekday,Sunny,34.1,0.4,Central,Ride Hailing,153,147,134,23.7
+2026-07-21,18:00,18,Weekday,Sunny,30.5,0.3,Tech Park,Bicycle,97,86,92,23.9
+2026-07-21,18:00,18,Weekday,Sunny,33.4,0.5,Tech Park,Bus,263,301,217,35.4
+2026-07-21,18:00,18,Weekday,Sunny,30.3,0.4,Market,Scooter,201,148,187,13.4
+2026-07-21,19:00,19,Weekday,Sunny,30.1,0.3,Tech Park,Bike,182,173,170,15.3
+2026-07-21,19:00,19,Weekday,Sunny,30.5,0.1,Tech Park,Ride Hailing,138,120,121,22.0
+2026-07-21,19:00,19,Weekday,Sunny,30.6,0.4,Market,Bicycle,114,115,106,21.0
+2026-07-21,19:00,19,Weekday,Sunny,30.1,0.3,Central,Bus,241,271,183,33.6
+2026-07-21,19:00,19,Weekday,Sunny,33.5,0.2,Central,Scooter,161,189,148,15.3
+2026-07-21,20:00,20,Weekday,Sunny,30.6,0.2,College,Bike,174,192,131,18.3
+2026-07-21,20:00,20,Weekday,Sunny,29.6,0.5,Railway,Ride Hailing,157,114,150,21.3
+2026-07-21,20:00,20,Weekday,Sunny,31.4,0.1,College,Bicycle,115,129,88,22.6
+2026-07-21,20:00,20,Weekday,Sunny,32.5,0.4,Beach,Bus,222,265,197,29.7
+2026-07-21,20:00,20,Weekday,Sunny,30.7,0.2,Market,Scooter,129,124,104,14.1
+2026-07-21,21:00,21,Weekday,Sunny,32.7,0.1,Tech Park,Bike,80,60,62,15.5
+2026-07-21,21:00,21,Weekday,Sunny,32.8,0.0,College,Ride Hailing,48,46,37,28.2
+2026-07-21,21:00,21,Weekday,Sunny,34.4,0.4,Beach,Bicycle,40,44,36,17.7
+2026-07-21,21:00,21,Weekday,Sunny,31.9,0.4,Tech Park,Bus,98,68,75,36.6
+2026-07-21,21:00,21,Weekday,Sunny,34.5,0.4,Central,Scooter,68,52,51,16.3
+2026-07-22,06:00,6,Weekday,Rainy,25.4,31.8,Railway,Bike,31,36,29,17.7
+2026-07-22,06:00,6,Weekday,Rainy,26.0,19.9,College,Ride Hailing,123,125,118,21.7
+2026-07-22,06:00,6,Weekday,Rainy,27.8,28.7,Central,Bicycle,13,14,10,20.4
+2026-07-22,06:00,6,Weekday,Rainy,27.5,15.2,Tech Park,Bus,120,138,116,29.3
+2026-07-22,06:00,6,Weekday,Rainy,24.9,25.6,Central,Scooter,41,28,37,15.9
+2026-07-22,07:00,7,Weekday,Rainy,27.8,11.7,Market,Bike,68,82,64,15.5
+2026-07-22,07:00,7,Weekday,Rainy,27.6,20.6,Beach,Ride Hailing,233,262,216,22.2
+2026-07-22,07:00,7,Weekday,Rainy,26.3,15.8,College,Bicycle,32,24,29,23.6
+2026-07-22,07:00,7,Weekday,Rainy,26.3,10.8,Beach,Bus,251,279,245,32.5
+2026-07-22,07:00,7,Weekday,Rainy,27.2,34.8,Tech Park,Scooter,80,71,77,16.1
+2026-07-22,08:00,8,Weekday,Rainy,28.8,24.1,Railway,Bike,65,43,61,18.0
+2026-07-22,08:00,8,Weekday,Rainy,27.0,17.2,College,Ride Hailing,218,225,173,28.6
+2026-07-22,08:00,8,Weekday,Rainy,26.7,11.3,Central,Bicycle,34,41,33,22.1
+2026-07-22,08:00,8,Weekday,Rainy,27.1,28.6,Central,Bus,247,224,195,27.4
+2026-07-22,08:00,8,Weekday,Rainy,27.0,35.0,Central,Scooter,73,56,55,13.0
+2026-07-22,09:00,9,Weekday,Rainy,25.2,26.4,Railway,Bike,66,67,62,18.0
+2026-07-22,09:00,9,Weekday,Rainy,25.5,26.0,College,Ride Hailing,227,196,196,23.9
+2026-07-22,09:00,9,Weekday,Rainy,28.5,11.0,College,Bicycle,37,25,28,21.3
+2026-07-22,09:00,9,Weekday,Rainy,26.0,30.2,Market,Bus,273,197,262,31.1
+2026-07-22,09:00,9,Weekday,Rainy,26.7,11.9,Tech Park,Scooter,82,57,74,15.8
+2026-07-22,10:00,10,Weekday,Rainy,25.8,33.8,Tech Park,Bike,31,23,27,13.8
+2026-07-22,10:00,10,Weekday,Rainy,27.3,29.5,Tech Park,Ride Hailing,117,111,94,27.6
+2026-07-22,10:00,10,Weekday,Rainy,26.7,10.7,Central,Bicycle,14,12,11,20.6
+2026-07-22,10:00,10,Weekday,Rainy,27.6,28.7,Central,Bus,95,77,72,37.3
+2026-07-22,10:00,10,Weekday,Rainy,27.4,18.1,Central,Scooter,36,36,30,13.6
+2026-07-22,11:00,11,Weekday,Rainy,28.6,10.0,Beach,Bike,38,43,34,18.7
+2026-07-22,11:00,11,Weekday,Rainy,24.2,13.1,Railway,Ride Hailing,186,133,178,25.7
+2026-07-22,11:00,11,Weekday,Rainy,26.1,32.9,Tech Park,Bicycle,20,15,16,23.7
+2026-07-22,11:00,11,Weekday,Rainy,28.2,20.6,Beach,Bus,177,207,169,35.8
+2026-07-22,11:00,11,Weekday,Rainy,27.2,34.5,Tech Park,Scooter,44,29,38,15.8
+2026-07-22,12:00,12,Weekday,Rainy,28.8,26.9,Railway,Bike,54,56,41,18.1
+2026-07-22,12:00,12,Weekday,Rainy,27.0,27.2,Beach,Ride Hailing,149,139,130,27.1
+2026-07-22,12:00,12,Weekday,Rainy,27.9,21.2,College,Bicycle,20,14,18,23.8
+2026-07-22,12:00,12,Weekday,Rainy,25.4,20.4,Beach,Bus,182,142,156,37.5
+2026-07-22,12:00,12,Weekday,Rainy,28.6,27.4,Market,Scooter,52,60,44,15.4
+2026-07-22,13:00,13,Weekday,Rainy,26.1,16.9,Beach,Bike,45,31,43,17.1
+2026-07-22,13:00,13,Weekday,Rainy,27.0,16.5,Tech Park,Ride Hailing,212,186,197,24.0
+2026-07-22,13:00,13,Weekday,Rainy,28.5,24.4,College,Bicycle,16,14,14,18.1
+2026-07-22,13:00,13,Weekday,Rainy,27.8,21.5,Beach,Bus,168,184,158,27.4
+2026-07-22,13:00,13,Weekday,Rainy,28.3,27.5,Airport,Scooter,52,38,50,12.5
+2026-07-22,14:00,14,Weekday,Rainy,27.1,22.5,Railway,Bike,44,43,40,14.0
+2026-07-22,14:00,14,Weekday,Rainy,24.6,33.3,Tech Park,Ride Hailing,147,154,130,24.5
+2026-07-22,14:00,14,Weekday,Rainy,27.5,16.9,Airport,Bicycle,21,20,20,17.0
+2026-07-22,14:00,14,Weekday,Rainy,26.0,14.7,Tech Park,Bus,179,163,148,35.5
+2026-07-22,14:00,14,Weekday,Rainy,28.3,28.6,Tech Park,Scooter,44,34,35,13.9
+2026-07-22,15:00,15,Weekday,Rainy,25.6,33.5,Beach,Bike,26,22,21,16.8
+2026-07-22,15:00,15,Weekday,Rainy,25.8,17.7,Railway,Ride Hailing,120,82,107,23.3
+2026-07-22,15:00,15,Weekday,Rainy,25.4,22.9,Tech Park,Bicycle,13,14,10,18.2
+2026-07-22,15:00,15,Weekday,Rainy,27.1,29.2,Central,Bus,115,127,109,27.5
+2026-07-22,15:00,15,Weekday,Rainy,27.5,19.7,Tech Park,Scooter,33,35,31,14.8
+2026-07-22,16:00,16,Weekday,Rainy,28.0,31.1,Railway,Bike,28,30,23,15.0
+2026-07-22,16:00,16,Weekday,Rainy,28.2,12.3,Beach,Ride Hailing,126,139,115,27.6
+2026-07-22,16:00,16,Weekday,Rainy,27.1,20.4,Central,Bicycle,13,15,11,19.3
+2026-07-22,16:00,16,Weekday,Rainy,27.6,20.7,College,Bus,119,118,93,33.0
+2026-07-22,16:00,16,Weekday,Rainy,24.1,21.5,College,Scooter,39,27,30,13.7
+2026-07-22,17:00,17,Weekday,Rainy,25.4,9.6,Market,Bike,89,79,80,13.8
+2026-07-22,17:00,17,Weekday,Rainy,24.5,17.0,Airport,Ride Hailing,308,218,296,27.9
+2026-07-22,17:00,17,Weekday,Rainy,26.4,15.6,Airport,Bicycle,33,39,26,18.1
+2026-07-22,17:00,17,Weekday,Rainy,25.1,33.3,Beach,Bus,302,346,258,32.1
+2026-07-22,17:00,17,Weekday,Rainy,25.2,13.5,Central,Scooter,88,96,70,14.3
+2026-07-22,18:00,18,Weekday,Rainy,26.6,23.6,Railway,Bike,66,54,53,17.2
+2026-07-22,18:00,18,Weekday,Rainy,25.1,26.7,Railway,Ride Hailing,288,293,271,22.8
+2026-07-22,18:00,18,Weekday,Rainy,27.5,19.5,Central,Bicycle,37,34,30,19.5
+2026-07-22,18:00,18,Weekday,Rainy,24.9,15.7,Airport,Bus,300,270,240,35.5
+2026-07-22,18:00,18,Weekday,Rainy,26.8,8.4,Airport,Scooter,88,76,80,12.3
+2026-07-22,19:00,19,Weekday,Rainy,27.8,16.4,Railway,Bike,86,92,84,15.5
+2026-07-22,19:00,19,Weekday,Rainy,29.0,17.2,Beach,Ride Hailing,290,198,249,21.5
+2026-07-22,19:00,19,Weekday,Rainy,28.3,19.4,Market,Bicycle,41,33,39,22.2
+2026-07-22,19:00,19,Weekday,Rainy,26.0,24.8,Railway,Bus,307,242,297,29.6
+2026-07-22,19:00,19,Weekday,Rainy,27.1,12.2,Central,Scooter,99,106,80,14.8
+2026-07-22,20:00,20,Weekday,Rainy,27.7,8.3,Railway,Bike,88,66,78,18.9
+2026-07-22,20:00,20,Weekday,Rainy,25.4,34.8,Central,Ride Hailing,302,316,292,23.0
+2026-07-22,20:00,20,Weekday,Rainy,28.1,22.9,College,Bicycle,41,43,31,21.4
+2026-07-22,20:00,20,Weekday,Rainy,27.5,33.6,Beach,Bus,287,263,256,30.4
+2026-07-22,20:00,20,Weekday,Rainy,27.3,34.4,Beach,Scooter,108,105,100,12.3
+2026-07-22,21:00,21,Weekday,Rainy,24.5,20.4,College,Bike,22,21,17,16.0
+2026-07-22,21:00,21,Weekday,Rainy,26.5,21.6,Airport,Ride Hailing,115,136,108,28.8
+2026-07-22,21:00,21,Weekday,Rainy,24.1,24.0,College,Bicycle,16,14,13,21.4
+2026-07-22,21:00,21,Weekday,Rainy,26.0,11.2,Beach,Bus,109,122,102,38.2
+2026-07-22,21:00,21,Weekday,Rainy,27.0,33.8,Railway,Scooter,37,30,32,14.4
+2026-07-23,06:00,6,Weekday,Rainy,26.6,13.8,Railway,Bike,30,23,25,14.3
+2026-07-23,06:00,6,Weekday,Rainy,26.8,15.5,College,Ride Hailing,113,84,94,28.5
+2026-07-23,06:00,6,Weekday,Rainy,28.1,28.9,Beach,Bicycle,12,13,11,19.4
+2026-07-23,06:00,6,Weekday,Rainy,28.6,34.9,Market,Bus,103,109,98,28.1
+2026-07-23,06:00,6,Weekday,Rainy,26.8,33.5,Central,Scooter,39,28,31,15.8
+2026-07-23,07:00,7,Weekday,Rainy,27.5,16.0,Market,Bike,86,74,76,16.8
+2026-07-23,07:00,7,Weekday,Rainy,24.9,29.0,Airport,Ride Hailing,291,316,224,25.3
+2026-07-23,07:00,7,Weekday,Rainy,25.6,29.5,Beach,Bicycle,33,30,28,23.2
+2026-07-23,07:00,7,Weekday,Rainy,26.1,21.7,Market,Bus,238,279,197,33.1
+2026-07-23,07:00,7,Weekday,Rainy,28.3,28.5,Tech Park,Scooter,97,86,83,13.9
+2026-07-23,08:00,8,Weekday,Rainy,25.6,26.8,Railway,Bike,68,59,57,16.0
+2026-07-23,08:00,8,Weekday,Rainy,25.4,26.5,Tech Park,Ride Hailing,268,299,257,24.2
+2026-07-23,08:00,8,Weekday,Rainy,28.5,20.7,Airport,Bicycle,30,25,24,18.3
+2026-07-23,08:00,8,Weekday,Rainy,27.1,29.1,Tech Park,Bus,254,261,225,35.6
+2026-07-23,08:00,8,Weekday,Rainy,26.5,22.6,Railway,Scooter,84,59,72,12.9
+2026-07-23,09:00,9,Weekday,Rainy,25.5,25.6,Beach,Bike,66,50,56,16.7
+2026-07-23,09:00,9,Weekday,Rainy,27.8,19.8,College,Ride Hailing,227,169,187,22.9
+2026-07-23,09:00,9,Weekday,Rainy,25.6,14.5,Tech Park,Bicycle,39,39,31,19.9
+2026-07-23,09:00,9,Weekday,Rainy,25.5,16.0,Railway,Bus,234,246,214,35.9
+2026-07-23,09:00,9,Weekday,Rainy,27.8,27.6,Tech Park,Scooter,82,96,80,14.7
+2026-07-23,10:00,10,Weekday,Rainy,26.1,9.8,Beach,Bike,34,30,31,17.0
+2026-07-23,10:00,10,Weekday,Rainy,25.8,18.8,Market,Ride Hailing,104,98,90,22.7
+2026-07-23,10:00,10,Weekday,Rainy,27.2,13.8,Airport,Bicycle,15,11,13,19.3
+2026-07-23,10:00,10,Weekday,Rainy,28.5,10.3,Market,Bus,109,83,106,29.9
+2026-07-23,10:00,10,Weekday,Rainy,25.0,9.6,Railway,Scooter,36,39,27,12.4
+2026-07-23,11:00,11,Weekday,Rainy,26.7,18.3,Railway,Bike,47,38,40,18.3
+2026-07-23,11:00,11,Weekday,Rainy,28.2,28.6,Market,Ride Hailing,190,132,158,28.3
+2026-07-23,11:00,11,Weekday,Rainy,28.4,22.0,Market,Bicycle,19,19,16,20.5
+2026-07-23,11:00,11,Weekday,Rainy,27.3,14.0,College,Bus,181,134,146,36.0
+2026-07-23,11:00,11,Weekday,Rainy,27.5,16.4,College,Scooter,49,41,47,16.8
+2026-07-23,12:00,12,Weekday,Rainy,26.7,18.8,Railway,Bike,41,47,40,14.7
+2026-07-23,12:00,12,Weekday,Rainy,28.5,22.0,Airport,Ride Hailing,164,128,145,26.2
+2026-07-23,12:00,12,Weekday,Rainy,27.4,21.5,Tech Park,Bicycle,20,15,18,17.4
+2026-07-23,12:00,12,Weekday,Rainy,26.3,13.9,Airport,Bus,168,195,159,27.3
+2026-07-23,12:00,12,Weekday,Rainy,24.2,20.4,Central,Scooter,53,56,40,14.2
+2026-07-23,13:00,13,Weekday,Rainy,28.0,13.9,Beach,Bike,51,54,40,15.8
+2026-07-23,13:00,13,Weekday,Rainy,25.4,21.1,College,Ride Hailing,184,141,172,24.4
+2026-07-23,13:00,13,Weekday,Rainy,24.7,12.9,College,Bicycle,23,19,21,23.3
+2026-07-23,13:00,13,Weekday,Rainy,25.6,16.6,Central,Bus,159,145,124,34.5
+2026-07-23,13:00,13,Weekday,Rainy,24.9,27.3,College,Scooter,53,55,50,14.4
+2026-07-23,14:00,14,Weekday,Rainy,25.1,32.9,Airport,Bike,40,47,36,13.9
+2026-07-23,14:00,14,Weekday,Rainy,24.4,9.8,Tech Park,Ride Hailing,163,147,145,23.9
+2026-07-23,14:00,14,Weekday,Rainy,25.7,9.3,Railway,Bicycle,21,24,17,23.5
+2026-07-23,14:00,14,Weekday,Rainy,27.4,16.6,Railway,Bus,159,167,146,29.7
+2026-07-23,14:00,14,Weekday,Rainy,25.0,29.6,Central,Scooter,51,56,40,16.8
+2026-07-23,15:00,15,Weekday,Rainy,28.0,19.7,College,Bike,29,20,26,14.6
+2026-07-23,15:00,15,Weekday,Rainy,25.5,11.6,Market,Ride Hailing,107,105,93,22.9
+2026-07-23,15:00,15,Weekday,Rainy,28.4,29.5,College,Bicycle,14,15,11,18.7
+2026-07-23,15:00,15,Weekday,Rainy,25.2,20.6,Market,Bus,120,117,105,30.0
+2026-07-23,15:00,15,Weekday,Rainy,27.8,8.3,College,Scooter,33,32,26,15.8
+2026-07-23,16:00,16,Weekday,Rainy,26.4,10.7,Tech Park,Bike,28,33,25,16.0
+2026-07-23,16:00,16,Weekday,Rainy,27.1,11.5,Market,Ride Hailing,98,114,89,25.9
+2026-07-23,16:00,16,Weekday,Rainy,28.1,21.9,Airport,Bicycle,15,11,13,22.7
+2026-07-23,16:00,16,Weekday,Rainy,24.8,23.6,Market,Bus,116,79,102,37.3
+2026-07-23,16:00,16,Weekday,Rainy,24.7,12.9,Tech Park,Scooter,34,23,27,14.3
+2026-07-23,17:00,17,Weekday,Rainy,24.1,12.2,Central,Bike,73,70,59,13.7
+2026-07-23,17:00,17,Weekday,Rainy,28.2,33.6,Beach,Ride Hailing,315,261,283,28.7
+2026-07-23,17:00,17,Weekday,Rainy,26.1,21.8,Tech Park,Bicycle,35,37,33,22.5
+2026-07-23,17:00,17,Weekday,Rainy,24.3,27.1,Central,Bus,307,355,263,34.6
+2026-07-23,17:00,17,Weekday,Rainy,28.0,10.9,Airport,Scooter,104,100,88,12.3
+2026-07-23,18:00,18,Weekday,Rainy,24.3,34.3,Market,Bike,91,62,77,17.4
+2026-07-23,18:00,18,Weekday,Rainy,25.3,14.1,Market,Ride Hailing,281,199,263,26.9
+2026-07-23,18:00,18,Weekday,Rainy,25.0,18.3,Railway,Bicycle,40,31,37,22.6
+2026-07-23,18:00,18,Weekday,Rainy,28.3,29.2,College,Bus,303,272,272,37.0
+2026-07-23,18:00,18,Weekday,Rainy,27.1,35.0,Tech Park,Scooter,96,71,88,15.5
+2026-07-23,19:00,19,Weekday,Rainy,24.3,23.2,Market,Bike,81,74,75,18.8
+2026-07-23,19:00,19,Weekday,Rainy,25.9,25.4,Airport,Ride Hailing,298,318,251,23.2
+2026-07-23,19:00,19,Weekday,Rainy,28.8,14.4,Beach,Bicycle,35,34,30,19.3
+2026-07-23,19:00,19,Weekday,Rainy,27.0,18.8,Railway,Bus,328,248,320,32.1
+2026-07-23,19:00,19,Weekday,Rainy,26.6,34.7,Market,Scooter,93,76,78,12.7
+2026-07-23,20:00,20,Weekday,Rainy,26.9,25.7,Airport,Bike,83,90,73,15.4
+2026-07-23,20:00,20,Weekday,Rainy,29.0,10.4,Central,Ride Hailing,297,235,250,25.8
+2026-07-23,20:00,20,Weekday,Rainy,28.0,13.9,Central,Bicycle,36,34,30,18.0
+2026-07-23,20:00,20,Weekday,Rainy,28.8,8.5,Market,Bus,288,234,234,36.9
+2026-07-23,20:00,20,Weekday,Rainy,25.0,19.0,Market,Scooter,89,94,73,12.9
+2026-07-23,21:00,21,Weekday,Rainy,24.8,17.9,Railway,Bike,25,26,24,16.1
+2026-07-23,21:00,21,Weekday,Rainy,28.8,30.1,Market,Ride Hailing,123,136,109,27.0
+2026-07-23,21:00,21,Weekday,Rainy,28.0,28.3,Railway,Bicycle,15,15,13,22.8
+2026-07-23,21:00,21,Weekday,Rainy,27.5,15.7,College,Bus,114,89,86,34.5
+2026-07-23,21:00,21,Weekday,Rainy,25.1,9.5,Beach,Scooter,40,27,39,16.8
+2026-07-24,06:00,6,Weekday,Cloudy,29.6,0.9,Tech Park,Bike,72,80,55,19.0
+2026-07-24,06:00,6,Weekday,Cloudy,28.1,1.1,Beach,Ride Hailing,61,72,48,28.6
+2026-07-24,06:00,6,Weekday,Cloudy,28.5,0.9,Market,Bicycle,36,30,31,17.9
+2026-07-24,06:00,6,Weekday,Cloudy,30.8,0.8,Airport,Bus,95,109,78,31.4
+2026-07-24,06:00,6,Weekday,Cloudy,29.7,0.6,Tech Park,Scooter,67,74,56,16.4
+2026-07-24,07:00,7,Weekday,Cloudy,29.9,0.8,Railway,Bike,140,130,123,16.2
+2026-07-24,07:00,7,Weekday,Cloudy,28.8,0.7,Tech Park,Ride Hailing,175,146,139,23.2
+2026-07-24,07:00,7,Weekday,Cloudy,31.9,1.1,Market,Bicycle,81,63,76,22.1
+2026-07-24,07:00,7,Weekday,Cloudy,31.9,0.9,Airport,Bus,208,191,202,37.9
+2026-07-24,07:00,7,Weekday,Cloudy,29.0,0.4,Tech Park,Scooter,109,106,85,13.4
+2026-07-24,08:00,8,Weekday,Cloudy,29.5,0.7,Market,Bike,136,98,108,17.9
+2026-07-24,08:00,8,Weekday,Cloudy,30.4,0.2,College,Ride Hailing,181,122,148,25.3
+2026-07-24,08:00,8,Weekday,Cloudy,27.3,1.0,Beach,Bicycle,89,67,79,21.1
+2026-07-24,08:00,8,Weekday,Cloudy,30.2,0.3,Market,Bus,203,152,162,27.4
+2026-07-24,08:00,8,Weekday,Cloudy,28.0,0.9,Market,Scooter,146,100,122,13.3
+2026-07-24,09:00,9,Weekday,Cloudy,27.6,0.9,Railway,Bike,139,157,109,18.5
+2026-07-24,09:00,9,Weekday,Cloudy,30.4,0.6,Railway,Ride Hailing,155,177,143,28.2
+2026-07-24,09:00,9,Weekday,Cloudy,27.6,1.1,Market,Bicycle,88,85,81,23.8
+2026-07-24,09:00,9,Weekday,Cloudy,30.5,0.5,Beach,Bus,206,161,194,32.4
+2026-07-24,09:00,9,Weekday,Cloudy,28.3,0.1,Market,Scooter,123,85,109,15.3
+2026-07-24,10:00,10,Weekday,Cloudy,30.9,1.0,Railway,Bike,67,72,61,18.7
+2026-07-24,10:00,10,Weekday,Cloudy,30.6,0.9,Tech Park,Ride Hailing,83,90,75,24.1
+2026-07-24,10:00,10,Weekday,Cloudy,28.5,0.1,Railway,Bicycle,38,31,34,18.9
+2026-07-24,10:00,10,Weekday,Cloudy,30.0,1.7,Tech Park,Bus,102,67,87,27.6
+2026-07-24,10:00,10,Weekday,Cloudy,29.3,0.9,Central,Scooter,54,46,43,15.0
+2026-07-24,11:00,11,Weekday,Cloudy,27.1,1.6,Railway,Bike,103,91,94,16.9
+2026-07-24,11:00,11,Weekday,Cloudy,31.8,1.9,College,Ride Hailing,90,102,80,23.8
+2026-07-24,11:00,11,Weekday,Cloudy,30.5,0.4,Railway,Bicycle,46,31,37,18.1
+2026-07-24,11:00,11,Weekday,Cloudy,28.6,1.9,Beach,Bus,127,118,108,30.2
+2026-07-24,11:00,11,Weekday,Cloudy,30.7,0.7,Airport,Scooter,77,53,71,15.6
+2026-07-24,12:00,12,Weekday,Cloudy,27.1,1.3,Tech Park,Bike,88,95,79,16.9
+2026-07-24,12:00,12,Weekday,Cloudy,28.6,0.5,Central,Ride Hailing,121,144,94,21.3
+2026-07-24,12:00,12,Weekday,Cloudy,28.7,1.1,Market,Bicycle,56,55,54,20.9
+2026-07-24,12:00,12,Weekday,Cloudy,31.8,1.1,Tech Park,Bus,155,155,143,30.0
+2026-07-24,12:00,12,Weekday,Cloudy,27.6,0.1,Market,Scooter,83,66,64,14.3
+2026-07-24,13:00,13,Weekday,Cloudy,30.0,0.3,Airport,Bike,124,120,110,17.9
+2026-07-24,13:00,13,Weekday,Cloudy,28.1,1.6,Railway,Ride Hailing,101,95,96,25.5
+2026-07-24,13:00,13,Weekday,Cloudy,27.4,1.2,Central,Bicycle,59,70,55,17.1
+2026-07-24,13:00,13,Weekday,Cloudy,31.2,0.2,College,Bus,133,89,112,32.3
+2026-07-24,13:00,13,Weekday,Cloudy,29.1,1.3,College,Scooter,75,83,67,14.7
+2026-07-24,14:00,14,Weekday,Cloudy,31.8,1.4,Tech Park,Bike,96,96,91,18.8
+2026-07-24,14:00,14,Weekday,Cloudy,27.8,1.9,Market,Ride Hailing,103,81,98,25.2
+2026-07-24,14:00,14,Weekday,Cloudy,27.3,1.5,Market,Bicycle,56,64,47,19.4
+2026-07-24,14:00,14,Weekday,Cloudy,29.1,1.1,Central,Bus,160,188,144,32.3
+2026-07-24,14:00,14,Weekday,Cloudy,31.5,1.8,Tech Park,Scooter,79,63,63,14.4
+2026-07-24,15:00,15,Weekday,Cloudy,28.0,0.3,Market,Bike,71,64,69,16.9
+2026-07-24,15:00,15,Weekday,Cloudy,27.7,0.1,Railway,Ride Hailing,71,79,62,20.4
+2026-07-24,15:00,15,Weekday,Cloudy,27.3,1.0,Railway,Bicycle,43,41,36,22.4
+2026-07-24,15:00,15,Weekday,Cloudy,30.4,0.8,Airport,Bus,84,59,73,35.6
+2026-07-24,15:00,15,Weekday,Cloudy,29.9,0.1,College,Scooter,56,67,54,14.5
+2026-07-24,16:00,16,Weekday,Cloudy,30.3,1.3,Railway,Bike,60,45,56,17.2
+2026-07-24,16:00,16,Weekday,Cloudy,27.9,0.1,Airport,Ride Hailing,64,57,58,24.2
+2026-07-24,16:00,16,Weekday,Cloudy,28.1,1.4,College,Bicycle,40,38,38,22.1
+2026-07-24,16:00,16,Weekday,Cloudy,29.0,0.7,Market,Bus,84,97,69,33.4
+2026-07-24,16:00,16,Weekday,Cloudy,31.9,1.3,Tech Park,Scooter,67,71,62,15.0
+2026-07-24,17:00,17,Weekday,Cloudy,31.7,0.8,Beach,Bike,127,113,112,16.4
+2026-07-24,17:00,17,Weekday,Cloudy,29.7,1.1,Airport,Ride Hailing,180,142,166,22.9
+2026-07-24,17:00,17,Weekday,Cloudy,28.2,0.4,Beach,Bicycle,99,108,91,22.5
+2026-07-24,17:00,17,Weekday,Cloudy,31.1,1.8,Airport,Bus,282,335,255,37.3
+2026-07-24,17:00,17,Weekday,Cloudy,31.0,1.1,College,Scooter,138,123,108,12.4
+2026-07-24,18:00,18,Weekday,Cloudy,29.9,0.7,Beach,Bike,179,150,156,15.8
+2026-07-24,18:00,18,Weekday,Cloudy,30.2,0.8,Beach,Ride Hailing,207,232,176,20.7
+2026-07-24,18:00,18,Weekday,Cloudy,27.7,1.9,Market,Bicycle,91,108,81,17.0
+2026-07-24,18:00,18,Weekday,Cloudy,30.7,1.6,Railway,Bus,267,223,216,34.9
+2026-07-24,18:00,18,Weekday,Cloudy,31.2,1.6,Airport,Scooter,126,116,101,14.3
+2026-07-24,19:00,19,Weekday,Cloudy,30.0,1.3,Beach,Bike,152,123,139,17.5
+2026-07-24,19:00,19,Weekday,Cloudy,30.4,1.3,College,Ride Hailing,162,173,135,27.3
+2026-07-24,19:00,19,Weekday,Cloudy,27.9,1.2,Beach,Bicycle,99,79,78,22.4
+2026-07-24,19:00,19,Weekday,Cloudy,31.9,0.8,Beach,Bus,279,314,222,31.2
+2026-07-24,19:00,19,Weekday,Cloudy,29.5,0.5,Tech Park,Scooter,125,104,118,12.4
+2026-07-24,20:00,20,Weekday,Cloudy,30.9,0.1,Central,Bike,178,203,151,15.4
+2026-07-24,20:00,20,Weekday,Cloudy,27.6,0.9,Market,Ride Hailing,192,174,159,20.7
+2026-07-24,20:00,20,Weekday,Cloudy,31.1,0.1,Tech Park,Bicycle,84,56,70,20.0
+2026-07-24,20:00,20,Weekday,Cloudy,28.5,1.6,Central,Bus,259,310,238,30.7
+2026-07-24,20:00,20,Weekday,Cloudy,30.1,0.3,Airport,Scooter,149,126,141,15.4
+2026-07-24,21:00,21,Weekday,Cloudy,29.6,1.5,College,Bike,55,58,45,18.1
+2026-07-24,21:00,21,Weekday,Cloudy,30.0,1.4,Airport,Ride Hailing,65,73,49,24.1
+2026-07-24,21:00,21,Weekday,Cloudy,31.8,1.2,Railway,Bicycle,43,33,37,23.9
+2026-07-24,21:00,21,Weekday,Cloudy,31.1,1.7,Beach,Bus,93,95,73,34.7
+2026-07-24,21:00,21,Weekday,Cloudy,29.2,0.8,Central,Scooter,53,56,49,15.0
+2026-07-25,06:00,6,Weekend,Rainy,26.6,27.9,College,Bike,25,17,24,19.0
+2026-07-25,06:00,6,Weekend,Rainy,26.6,14.5,Beach,Ride Hailing,87,80,68,27.4
+2026-07-25,06:00,6,Weekend,Rainy,27.7,10.0,Market,Bicycle,12,10,10,19.1
+2026-07-25,06:00,6,Weekend,Rainy,25.4,12.9,Tech Park,Bus,93,69,71,37.4
+2026-07-25,06:00,6,Weekend,Rainy,28.2,31.3,Beach,Scooter,32,28,26,15.7
+2026-07-25,07:00,7,Weekend,Rainy,27.9,13.8,Railway,Bike,61,62,49,15.1
+2026-07-25,07:00,7,Weekend,Rainy,24.5,21.1,Railway,Ride Hailing,167,191,129,21.6
+2026-07-25,07:00,7,Weekend,Rainy,25.9,24.2,Railway,Bicycle,25,20,21,23.3
+2026-07-25,07:00,7,Weekend,Rainy,24.2,17.5,Railway,Bus,248,224,233,37.5
+2026-07-25,07:00,7,Weekend,Rainy,27.8,14.5,Central,Scooter,69,78,64,15.3
+2026-07-25,08:00,8,Weekend,Rainy,25.8,33.8,Airport,Bike,61,51,51,18.0
+2026-07-25,08:00,8,Weekend,Rainy,26.9,23.4,Railway,Ride Hailing,176,125,152,25.7
+2026-07-25,08:00,8,Weekend,Rainy,26.6,13.4,Central,Bicycle,27,29,24,19.5
+2026-07-25,08:00,8,Weekend,Rainy,24.0,25.6,Market,Bus,223,161,185,35.8
+2026-07-25,08:00,8,Weekend,Rainy,27.6,28.8,Central,Scooter,64,62,56,12.5
+2026-07-25,09:00,9,Weekend,Rainy,26.7,18.1,Railway,Bike,51,44,49,14.0
+2026-07-25,09:00,9,Weekend,Rainy,25.5,23.0,Central,Ride Hailing,210,189,163,28.7
+2026-07-25,09:00,9,Weekend,Rainy,26.2,29.5,Beach,Bicycle,26,29,22,22.8
+2026-07-25,09:00,9,Weekend,Rainy,28.7,18.3,Airport,Bus,215,144,207,29.2
+2026-07-25,09:00,9,Weekend,Rainy,28.6,9.1,College,Scooter,65,69,61,14.1
+2026-07-25,10:00,10,Weekend,Rainy,24.3,23.5,Railway,Bike,23,16,22,14.0
+2026-07-25,10:00,10,Weekend,Rainy,28.2,32.7,Beach,Ride Hailing,83,77,69,27.3
+2026-07-25,10:00,10,Weekend,Rainy,28.5,19.1,Airport,Bicycle,11,8,10,18.4
+2026-07-25,10:00,10,Weekend,Rainy,24.3,31.7,Airport,Bus,91,61,87,33.0
+2026-07-25,10:00,10,Weekend,Rainy,25.7,29.2,Market,Scooter,28,29,27,14.4
+2026-07-25,11:00,11,Weekend,Rainy,28.2,8.5,Railway,Bike,41,45,36,14.8
+2026-07-25,11:00,11,Weekend,Rainy,28.2,29.3,Beach,Ride Hailing,134,98,129,20.4
+2026-07-25,11:00,11,Weekend,Rainy,29.0,9.8,Railway,Bicycle,15,12,14,18.4
+2026-07-25,11:00,11,Weekend,Rainy,28.8,23.2,Central,Bus,143,122,140,31.3
+2026-07-25,11:00,11,Weekend,Rainy,25.4,21.4,Beach,Scooter,41,46,33,14.8
+2026-07-25,12:00,12,Weekend,Rainy,28.8,8.3,Airport,Bike,41,30,39,17.0
+2026-07-25,12:00,12,Weekend,Rainy,25.1,19.8,Tech Park,Ride Hailing,137,137,134,28.1
+2026-07-25,12:00,12,Weekend,Rainy,26.4,11.0,Tech Park,Bicycle,17,19,16,19.9
+2026-07-25,12:00,12,Weekend,Rainy,27.3,30.9,Market,Bus,150,175,114,37.2
+2026-07-25,12:00,12,Weekend,Rainy,25.3,26.4,Central,Scooter,52,58,50,14.5
+2026-07-25,13:00,13,Weekend,Rainy,24.2,33.0,Railway,Bike,46,53,44,19.1
+2026-07-25,13:00,13,Weekend,Rainy,25.9,17.6,Central,Ride Hailing,131,137,124,24.3
+2026-07-25,13:00,13,Weekend,Rainy,29.0,30.7,Railway,Bicycle,19,17,15,20.4
+2026-07-25,13:00,13,Weekend,Rainy,27.2,25.1,Railway,Bus,116,109,87,32.5
+2026-07-25,13:00,13,Weekend,Rainy,27.8,16.8,Airport,Scooter,45,37,43,14.1
+2026-07-25,14:00,14,Weekend,Rainy,28.7,11.6,Airport,Bike,40,37,37,15.1
+2026-07-25,14:00,14,Weekend,Rainy,27.7,17.7,Airport,Ride Hailing,143,154,129,21.2
+2026-07-25,14:00,14,Weekend,Rainy,27.0,23.7,Central,Bicycle,19,15,18,21.7
+2026-07-25,14:00,14,Weekend,Rainy,28.2,32.0,Railway,Bus,120,83,95,34.9
+2026-07-25,14:00,14,Weekend,Rainy,24.0,15.6,Airport,Scooter,39,36,34,13.5
+2026-07-25,15:00,15,Weekend,Rainy,28.1,23.2,Beach,Bike,28,22,26,17.0
+2026-07-25,15:00,15,Weekend,Rainy,27.5,29.4,Tech Park,Ride Hailing,83,62,74,22.9
+2026-07-25,15:00,15,Weekend,Rainy,26.4,10.2,Beach,Bicycle,11,8,10,17.5
+2026-07-25,15:00,15,Weekend,Rainy,27.3,24.4,Tech Park,Bus,113,133,108,32.1
+2026-07-25,15:00,15,Weekend,Rainy,27.4,22.7,Railway,Scooter,31,25,28,12.9
+2026-07-25,16:00,16,Weekend,Rainy,27.7,25.4,Market,Bike,20,15,17,17.3
+2026-07-25,16:00,16,Weekend,Rainy,25.9,26.8,Tech Park,Ride Hailing,96,107,79,26.7
+2026-07-25,16:00,16,Weekend,Rainy,28.3,34.0,Beach,Bicycle,10,10,8,21.6
+2026-07-25,16:00,16,Weekend,Rainy,27.4,19.0,Beach,Bus,87,102,72,34.4
+2026-07-25,16:00,16,Weekend,Rainy,27.0,23.3,Market,Scooter,29,29,22,13.9
+2026-07-25,17:00,17,Weekend,Rainy,24.2,18.9,College,Bike,69,81,66,13.6
+2026-07-25,17:00,17,Weekend,Rainy,24.0,33.1,Airport,Ride Hailing,268,300,259,28.1
+2026-07-25,17:00,17,Weekend,Rainy,27.4,9.0,Railway,Bicycle,32,35,29,17.0
+2026-07-25,17:00,17,Weekend,Rainy,28.2,29.2,Airport,Bus,246,260,195,31.9
+2026-07-25,17:00,17,Weekend,Rainy,25.0,19.9,Airport,Scooter,71,60,56,15.2
+2026-07-25,18:00,18,Weekend,Rainy,26.3,10.0,Central,Bike,58,68,50,16.2
+2026-07-25,18:00,18,Weekend,Rainy,24.3,9.7,Market,Ride Hailing,246,237,197,21.6
+2026-07-25,18:00,18,Weekend,Rainy,26.9,14.5,Airport,Bicycle,24,24,22,18.4
+2026-07-25,18:00,18,Weekend,Rainy,25.3,31.3,Airport,Bus,217,146,197,34.8
+2026-07-25,18:00,18,Weekend,Rainy,24.0,31.6,Airport,Scooter,64,43,57,13.8
+2026-07-25,19:00,19,Weekend,Rainy,24.6,28.0,Market,Bike,72,69,58,14.2
+2026-07-25,19:00,19,Weekend,Rainy,26.5,17.7,Tech Park,Ride Hailing,243,290,192,27.5
+2026-07-25,19:00,19,Weekend,Rainy,29.0,26.1,Tech Park,Bicycle,31,21,24,18.9
+2026-07-25,19:00,19,Weekend,Rainy,24.3,12.1,Tech Park,Bus,234,223,185,31.8
+2026-07-25,19:00,19,Weekend,Rainy,27.6,29.0,College,Scooter,74,50,58,14.9
+2026-07-25,20:00,20,Weekend,Rainy,27.8,10.6,Tech Park,Bike,59,40,57,16.0
+2026-07-25,20:00,20,Weekend,Rainy,27.5,19.4,College,Ride Hailing,247,187,194,27.1
+2026-07-25,20:00,20,Weekend,Rainy,25.5,20.1,College,Bicycle,24,20,21,19.1
+2026-07-25,20:00,20,Weekend,Rainy,27.4,10.5,Railway,Bus,229,210,196,36.0
+2026-07-25,20:00,20,Weekend,Rainy,26.5,15.7,Railway,Scooter,80,72,69,16.5
+2026-07-25,21:00,21,Weekend,Rainy,28.9,15.8,Market,Bike,22,24,21,14.9
+2026-07-25,21:00,21,Weekend,Rainy,26.5,22.5,Market,Ride Hailing,79,54,66,27.6
+2026-07-25,21:00,21,Weekend,Rainy,24.2,34.8,Railway,Bicycle,13,9,12,21.4
+2026-07-25,21:00,21,Weekend,Rainy,24.3,23.4,Tech Park,Bus,89,102,71,31.9
+2026-07-25,21:00,21,Weekend,Rainy,26.3,34.0,Market,Scooter,26,17,21,13.0
+2026-07-26,06:00,6,Weekend,Cloudy,27.9,0.4,Airport,Bike,59,57,46,18.1
+2026-07-26,06:00,6,Weekend,Cloudy,28.6,0.8,Airport,Ride Hailing,49,44,48,27.8
+2026-07-26,06:00,6,Weekend,Cloudy,31.4,1.3,Central,Bicycle,26,20,25,18.5
+2026-07-26,06:00,6,Weekend,Cloudy,28.5,0.7,Tech Park,Bus,72,73,64,36.8
+2026-07-26,06:00,6,Weekend,Cloudy,31.0,1.4,Railway,Scooter,40,34,37,13.4
+2026-07-26,07:00,7,Weekend,Cloudy,29.4,1.4,Railway,Bike,134,104,125,17.5
+2026-07-26,07:00,7,Weekend,Cloudy,30.2,0.6,College,Ride Hailing,135,108,117,26.3
+2026-07-26,07:00,7,Weekend,Cloudy,31.5,1.1,Railway,Bicycle,80,80,70,17.1
+2026-07-26,07:00,7,Weekend,Cloudy,28.5,1.5,College,Bus,182,195,162,27.5
+2026-07-26,07:00,7,Weekend,Cloudy,27.0,0.3,College,Scooter,93,81,89,16.1
+2026-07-26,08:00,8,Weekend,Cloudy,27.2,1.9,Beach,Bike,120,115,90,19.1
+2026-07-26,08:00,8,Weekend,Cloudy,28.5,2.0,College,Ride Hailing,145,147,111,24.2
+2026-07-26,08:00,8,Weekend,Cloudy,31.9,0.5,Tech Park,Bicycle,65,74,57,17.7
+2026-07-26,08:00,8,Weekend,Cloudy,27.8,1.8,Market,Bus,180,194,156,29.6
+2026-07-26,08:00,8,Weekend,Cloudy,30.8,0.7,College,Scooter,99,68,86,12.5
+2026-07-26,09:00,9,Weekend,Cloudy,28.2,0.8,Central,Bike,98,71,87,17.7
+2026-07-26,09:00,9,Weekend,Cloudy,30.7,0.6,Central,Ride Hailing,138,146,132,20.9
+2026-07-26,09:00,9,Weekend,Cloudy,27.2,0.8,Railway,Bicycle,71,71,57,17.3
+2026-07-26,09:00,9,Weekend,Cloudy,32.0,1.6,Beach,Bus,179,197,146,30.5
+2026-07-26,09:00,9,Weekend,Cloudy,30.7,1.4,Market,Scooter,107,72,99,16.4
+2026-07-26,10:00,10,Weekend,Cloudy,27.3,0.8,Railway,Bike,52,61,47,17.8
+2026-07-26,10:00,10,Weekend,Cloudy,30.5,0.4,Tech Park,Ride Hailing,54,56,41,20.7
+2026-07-26,10:00,10,Weekend,Cloudy,27.7,1.8,Tech Park,Bicycle,32,31,24,17.6
+2026-07-26,10:00,10,Weekend,Cloudy,30.1,1.0,Central,Bus,73,78,61,36.4
+2026-07-26,10:00,10,Weekend,Cloudy,27.1,0.5,Central,Scooter,52,49,46,13.1
+2026-07-26,11:00,11,Weekend,Cloudy,27.0,0.7,College,Bike,67,55,65,14.4
+2026-07-26,11:00,11,Weekend,Cloudy,28.9,1.9,Tech Park,Ride Hailing,88,105,68,24.1
+2026-07-26,11:00,11,Weekend,Cloudy,31.8,1.1,Beach,Bicycle,49,46,41,19.4
+2026-07-26,11:00,11,Weekend,Cloudy,28.6,1.1,Tech Park,Bus,143,133,138,31.7
+2026-07-26,11:00,11,Weekend,Cloudy,29.8,1.5,Tech Park,Scooter,65,69,51,16.6
+2026-07-26,12:00,12,Weekend,Cloudy,27.4,1.6,Central,Bike,85,72,75,15.9
+2026-07-26,12:00,12,Weekend,Cloudy,30.0,0.5,Airport,Ride Hailing,74,57,58,24.6
+2026-07-26,12:00,12,Weekend,Cloudy,30.2,1.8,College,Bicycle,43,42,36,20.5
+2026-07-26,12:00,12,Weekend,Cloudy,28.6,0.9,Railway,Bus,116,110,97,34.9
+2026-07-26,12:00,12,Weekend,Cloudy,28.5,1.0,Market,Scooter,67,75,65,15.3
+2026-07-26,13:00,13,Weekend,Cloudy,29.4,1.5,Railway,Bike,80,64,71,15.0
+2026-07-26,13:00,13,Weekend,Cloudy,31.1,1.1,College,Ride Hailing,94,95,72,27.2
+2026-07-26,13:00,13,Weekend,Cloudy,27.4,1.7,Railway,Bicycle,45,47,37,19.3
+2026-07-26,13:00,13,Weekend,Cloudy,30.2,1.7,Railway,Bus,133,108,103,37.2
+2026-07-26,13:00,13,Weekend,Cloudy,30.8,0.3,Tech Park,Scooter,72,48,65,14.4
+2026-07-26,14:00,14,Weekend,Cloudy,28.8,0.8,Market,Bike,74,76,72,17.3
+2026-07-26,14:00,14,Weekend,Cloudy,30.5,1.5,Airport,Ride Hailing,85,82,74,24.8
+2026-07-26,14:00,14,Weekend,Cloudy,31.7,0.6,Central,Bicycle,34,36,33,22.3
+2026-07-26,14:00,14,Weekend,Cloudy,30.4,1.1,Beach,Bus,112,88,105,35.9
+2026-07-26,14:00,14,Weekend,Cloudy,30.6,0.4,Central,Scooter,64,50,58,13.4
+2026-07-26,15:00,15,Weekend,Cloudy,28.5,0.9,Market,Bike,53,43,50,19.2
+2026-07-26,15:00,15,Weekend,Cloudy,28.8,0.2,Railway,Ride Hailing,61,47,55,24.9
+2026-07-26,15:00,15,Weekend,Cloudy,31.5,0.4,College,Bicycle,32,31,30,19.9
+2026-07-26,15:00,15,Weekend,Cloudy,29.7,0.2,Market,Bus,86,76,81,34.9
+2026-07-26,15:00,15,Weekend,Cloudy,28.2,0.7,Airport,Scooter,49,42,40,16.0
+2026-07-26,16:00,16,Weekend,Cloudy,30.7,0.5,Market,Bike,49,49,42,15.3
+2026-07-26,16:00,16,Weekend,Cloudy,29.1,0.7,Beach,Ride Hailing,61,72,47,28.7
+2026-07-26,16:00,16,Weekend,Cloudy,28.7,0.8,College,Bicycle,30,24,23,18.0
+2026-07-26,16:00,16,Weekend,Cloudy,31.0,0.5,Tech Park,Bus,86,57,72,28.4
+2026-07-26,16:00,16,Weekend,Cloudy,27.7,0.5,Tech Park,Scooter,39,35,36,14.1
+2026-07-26,17:00,17,Weekend,Cloudy,28.7,1.3,Tech Park,Bike,129,126,118,18.7
+2026-07-26,17:00,17,Weekend,Cloudy,31.8,1.3,Airport,Ride Hailing,186,158,168,22.5
+2026-07-26,17:00,17,Weekend,Cloudy,32.0,1.3,Central,Bicycle,83,70,67,18.6
+2026-07-26,17:00,17,Weekend,Cloudy,27.9,1.5,Airport,Bus,203,163,187,28.8
+2026-07-26,17:00,17,Weekend,Cloudy,29.4,1.0,Beach,Scooter,111,86,107,16.0
+2026-07-26,18:00,18,Weekend,Cloudy,29.7,0.1,Airport,Bike,155,136,134,18.3
+2026-07-26,18:00,18,Weekend,Cloudy,27.7,0.6,Central,Ride Hailing,138,153,116,26.3
+2026-07-26,18:00,18,Weekend,Cloudy,29.3,0.2,Central,Bicycle,85,98,67,19.7
+2026-07-26,18:00,18,Weekend,Cloudy,29.9,1.1,College,Bus,209,211,194,35.0
+2026-07-26,18:00,18,Weekend,Cloudy,31.3,0.4,Beach,Scooter,111,74,85,15.2
+2026-07-26,19:00,19,Weekend,Cloudy,28.8,0.1,College,Bike,154,172,127,18.5
+2026-07-26,19:00,19,Weekend,Cloudy,27.5,1.6,Tech Park,Ride Hailing,166,150,153,21.7
+2026-07-26,19:00,19,Weekend,Cloudy,28.8,0.9,Central,Bicycle,72,64,65,22.3
+2026-07-26,19:00,19,Weekend,Cloudy,29.7,1.4,Beach,Bus,184,150,164,35.3
+2026-07-26,19:00,19,Weekend,Cloudy,28.3,0.3,Market,Scooter,118,132,110,12.3
+2026-07-26,20:00,20,Weekend,Cloudy,27.0,1.2,Tech Park,Bike,140,142,135,18.9
+2026-07-26,20:00,20,Weekend,Cloudy,29.9,1.5,College,Ride Hailing,134,148,106,24.4
+2026-07-26,20:00,20,Weekend,Cloudy,30.3,1.3,Railway,Bicycle,82,63,80,18.1
+2026-07-26,20:00,20,Weekend,Cloudy,28.0,0.8,Airport,Bus,213,184,209,29.4
+2026-07-26,20:00,20,Weekend,Cloudy,29.3,1.7,Railway,Scooter,126,128,115,16.8
+2026-07-26,21:00,21,Weekend,Cloudy,30.7,1.8,College,Bike,46,36,42,17.0
+2026-07-26,21:00,21,Weekend,Cloudy,29.4,1.0,Market,Ride Hailing,55,56,49,28.3
+2026-07-26,21:00,21,Weekend,Cloudy,30.1,1.1,Beach,Bicycle,25,28,22,19.8
+2026-07-26,21:00,21,Weekend,Cloudy,28.9,0.9,Central,Bus,92,91,83,38.1
+2026-07-26,21:00,21,Weekend,Cloudy,27.8,1.7,Beach,Scooter,46,44,38,15.5
+2026-07-27,06:00,6,Weekday,Rainy,24.5,25.7,Tech Park,Bike,29,28,25,18.5
+2026-07-27,06:00,6,Weekday,Rainy,28.4,22.2,Market,Ride Hailing,126,147,113,21.7
+2026-07-27,06:00,6,Weekday,Rainy,28.5,16.5,College,Bicycle,16,11,15,18.0
+2026-07-27,06:00,6,Weekday,Rainy,29.0,12.7,Tech Park,Bus,118,84,115,29.1
+2026-07-27,06:00,6,Weekday,Rainy,27.3,15.6,Beach,Scooter,40,30,37,12.1
+2026-07-27,07:00,7,Weekday,Rainy,24.2,21.8,Beach,Bike,82,66,66,14.4
+2026-07-27,07:00,7,Weekday,Rainy,24.9,9.3,Beach,Ride Hailing,234,173,199,26.9
+2026-07-27,07:00,7,Weekday,Rainy,25.8,20.6,Tech Park,Bicycle,36,26,28,17.6
+2026-07-27,07:00,7,Weekday,Rainy,27.5,18.5,Tech Park,Bus,282,275,227,27.2
+2026-07-27,07:00,7,Weekday,Rainy,26.2,19.5,Airport,Scooter,86,91,67,15.9
+2026-07-27,08:00,8,Weekday,Rainy,26.1,11.5,College,Bike,68,63,56,19.2
+2026-07-27,08:00,8,Weekday,Rainy,26.9,31.9,College,Ride Hailing,275,292,217,22.5
+2026-07-27,08:00,8,Weekday,Rainy,26.0,26.9,Beach,Bicycle,32,36,28,22.5
+2026-07-27,08:00,8,Weekday,Rainy,28.3,10.3,Railway,Bus,276,200,231,29.2
+2026-07-27,08:00,8,Weekday,Rainy,24.6,20.1,Tech Park,Scooter,84,65,78,14.1
+2026-07-27,09:00,9,Weekday,Rainy,28.1,14.4,Market,Bike,79,51,72,16.7
+2026-07-27,09:00,9,Weekday,Rainy,26.6,30.2,Beach,Ride Hailing,251,277,198,25.7
+2026-07-27,09:00,9,Weekday,Rainy,24.1,10.7,Beach,Bicycle,36,37,33,23.8
+2026-07-27,09:00,9,Weekday,Rainy,25.2,33.8,Airport,Bus,273,180,210,33.7
+2026-07-27,09:00,9,Weekday,Rainy,24.7,26.4,College,Scooter,90,101,68,16.4
+2026-07-27,10:00,10,Weekday,Rainy,27.0,32.5,Beach,Bike,33,33,31,15.8
+2026-07-27,10:00,10,Weekday,Rainy,28.3,10.9,Airport,Ride Hailing,125,148,117,21.2
+2026-07-27,10:00,10,Weekday,Rainy,27.6,28.9,Railway,Bicycle,13,15,11,18.5
+2026-07-27,10:00,10,Weekday,Rainy,28.0,15.8,Market,Bus,102,86,77,37.1
+2026-07-27,10:00,10,Weekday,Rainy,26.8,26.1,Central,Scooter,39,32,32,14.9
+2026-07-27,11:00,11,Weekday,Rainy,24.1,33.0,College,Bike,36,36,28,15.0
+2026-07-27,11:00,11,Weekday,Rainy,24.6,30.5,Tech Park,Ride Hailing,156,182,147,27.0
+2026-07-27,11:00,11,Weekday,Rainy,25.2,25.7,Market,Bicycle,20,14,19,23.9
+2026-07-27,11:00,11,Weekday,Rainy,26.0,21.3,College,Bus,172,125,158,35.7
+2026-07-27,11:00,11,Weekday,Rainy,26.9,33.0,Tech Park,Scooter,52,50,46,16.5
+2026-07-27,12:00,12,Weekday,Rainy,27.3,9.9,College,Bike,41,33,36,16.4
+2026-07-27,12:00,12,Weekday,Rainy,26.7,18.7,Railway,Ride Hailing,150,103,117,25.3
+2026-07-27,12:00,12,Weekday,Rainy,28.8,11.6,Central,Bicycle,23,25,21,17.3
+2026-07-27,12:00,12,Weekday,Rainy,26.9,22.6,College,Bus,185,217,151,28.1
+2026-07-27,12:00,12,Weekday,Rainy,25.1,29.3,Beach,Scooter,51,42,47,16.4
+2026-07-27,13:00,13,Weekday,Rainy,28.6,9.9,Railway,Bike,45,31,41,16.4
+2026-07-27,13:00,13,Weekday,Rainy,25.1,9.2,Market,Ride Hailing,154,171,139,23.2
+2026-07-27,13:00,13,Weekday,Rainy,27.0,26.2,Tech Park,Bicycle,22,20,21,23.1
+2026-07-27,13:00,13,Weekday,Rainy,27.0,29.1,Tech Park,Bus,138,90,132,28.1
+2026-07-27,13:00,13,Weekday,Rainy,26.6,12.6,Central,Scooter,52,53,49,12.5
+2026-07-27,14:00,14,Weekday,Rainy,27.2,22.3,Airport,Bike,44,32,34,18.5
+2026-07-27,14:00,14,Weekday,Rainy,28.1,10.2,Central,Ride Hailing,154,134,148,21.1
+2026-07-27,14:00,14,Weekday,Rainy,28.1,33.1,Tech Park,Bicycle,20,18,15,20.5
+2026-07-27,14:00,14,Weekday,Rainy,28.1,11.6,Central,Bus,152,179,147,37.3
+2026-07-27,14:00,14,Weekday,Rainy,27.8,10.8,Market,Scooter,56,43,48,13.5
+2026-07-27,15:00,15,Weekday,Rainy,25.2,21.1,Railway,Bike,27,32,21,16.6
+2026-07-27,15:00,15,Weekday,Rainy,24.3,19.5,College,Ride Hailing,104,85,85,25.5
+2026-07-27,15:00,15,Weekday,Rainy,27.2,12.3,Beach,Bicycle,12,9,11,21.7
+2026-07-27,15:00,15,Weekday,Rainy,27.7,17.2,Beach,Bus,131,138,108,32.9
+2026-07-27,15:00,15,Weekday,Rainy,28.6,19.9,Market,Scooter,32,27,30,15.1
+2026-07-27,16:00,16,Weekday,Rainy,28.5,31.4,Railway,Bike,30,23,26,18.6
+2026-07-27,16:00,16,Weekday,Rainy,25.7,22.1,Beach,Ride Hailing,105,97,101,25.1
+2026-07-27,16:00,16,Weekday,Rainy,24.6,16.6,College,Bicycle,14,14,11,22.2
+2026-07-27,16:00,16,Weekday,Rainy,24.3,25.4,Airport,Bus,127,89,104,34.5
+2026-07-27,16:00,16,Weekday,Rainy,28.8,24.6,College,Scooter,38,45,31,12.7
+2026-07-27,17:00,17,Weekday,Rainy,28.3,27.3,Market,Bike,90,67,84,16.4
+2026-07-27,17:00,17,Weekday,Rainy,27.3,8.9,Tech Park,Ride Hailing,295,290,232,23.9
+2026-07-27,17:00,17,Weekday,Rainy,28.0,22.3,College,Bicycle,33,36,26,17.3
+2026-07-27,17:00,17,Weekday,Rainy,25.7,9.1,Beach,Bus,344,309,268,34.5
+2026-07-27,17:00,17,Weekday,Rainy,28.1,32.9,Central,Scooter,94,62,79,14.4
+2026-07-27,18:00,18,Weekday,Rainy,27.2,24.9,Beach,Bike,82,58,69,15.9
+2026-07-27,18:00,18,Weekday,Rainy,24.3,24.2,Beach,Ride Hailing,273,182,215,20.9
+2026-07-27,18:00,18,Weekday,Rainy,26.8,28.8,Central,Bicycle,36,34,27,19.1
+2026-07-27,18:00,18,Weekday,Rainy,27.2,8.1,College,Bus,339,226,288,35.9
+2026-07-27,18:00,18,Weekday,Rainy,26.3,16.6,College,Scooter,112,99,107,14.5
+2026-07-27,19:00,19,Weekday,Rainy,27.5,31.3,Beach,Bike,81,92,75,14.7
+2026-07-27,19:00,19,Weekday,Rainy,28.8,21.0,Market,Ride Hailing,284,250,266,27.1
+2026-07-27,19:00,19,Weekday,Rainy,27.6,16.1,Market,Bicycle,40,28,35,21.9
+2026-07-27,19:00,19,Weekday,Rainy,24.6,16.5,Central,Bus,336,287,290,34.4
+2026-07-27,19:00,19,Weekday,Rainy,27.7,31.3,Beach,Scooter,85,62,66,16.6
+2026-07-27,20:00,20,Weekday,Rainy,24.8,21.5,Airport,Bike,74,66,65,13.7
+2026-07-27,20:00,20,Weekday,Rainy,25.4,14.4,Tech Park,Ride Hailing,267,182,223,22.0
+2026-07-27,20:00,20,Weekday,Rainy,25.7,25.2,Central,Bicycle,36,28,32,21.9
+2026-07-27,20:00,20,Weekday,Rainy,24.2,16.8,Central,Bus,265,202,208,32.9
+2026-07-27,20:00,20,Weekday,Rainy,25.0,28.0,Tech Park,Scooter,83,84,63,13.3
+2026-07-27,21:00,21,Weekday,Rainy,27.2,23.8,Railway,Bike,34,31,27,17.5
+2026-07-27,21:00,21,Weekday,Rainy,27.8,11.1,Airport,Ride Hailing,128,97,125,25.3
+2026-07-27,21:00,21,Weekday,Rainy,27.4,11.5,Beach,Bicycle,13,10,11,22.7
+2026-07-27,21:00,21,Weekday,Rainy,27.6,14.0,Railway,Bus,107,110,91,37.0
+2026-07-27,21:00,21,Weekday,Rainy,27.2,28.8,College,Scooter,36,24,30,12.0
+2026-07-28,06:00,6,Weekday,Rainy,24.7,32.2,College,Bike,31,29,27,19.2
+2026-07-28,06:00,6,Weekday,Rainy,24.3,24.0,Tech Park,Ride Hailing,113,100,106,28.1
+2026-07-28,06:00,6,Weekday,Rainy,27.9,18.4,Airport,Bicycle,14,14,12,22.6
+2026-07-28,06:00,6,Weekday,Rainy,27.8,27.7,Tech Park,Bus,113,93,89,30.5
+2026-07-28,06:00,6,Weekday,Rainy,24.4,32.3,Railway,Scooter,34,25,27,13.2
+2026-07-28,07:00,7,Weekday,Rainy,25.7,32.7,College,Bike,75,68,72,18.5
+2026-07-28,07:00,7,Weekday,Rainy,27.0,21.1,Tech Park,Ride Hailing,269,188,258,25.4
+2026-07-28,07:00,7,Weekday,Rainy,26.2,21.1,Beach,Bicycle,28,20,22,22.7
+2026-07-28,07:00,7,Weekday,Rainy,24.8,33.3,Beach,Bus,195,233,185,32.1
+2026-07-28,07:00,7,Weekday,Rainy,25.8,15.6,Railway,Scooter,83,95,66,12.9
+2026-07-28,08:00,8,Weekday,Rainy,24.5,11.1,Tech Park,Bike,65,69,63,14.0
+2026-07-28,08:00,8,Weekday,Rainy,24.7,19.1,Railway,Ride Hailing,243,268,223,25.2
+2026-07-28,08:00,8,Weekday,Rainy,28.0,26.0,College,Bicycle,32,25,28,20.9
+2026-07-28,08:00,8,Weekday,Rainy,27.7,17.2,Airport,Bus,277,272,253,31.6
+2026-07-28,08:00,8,Weekday,Rainy,26.6,21.7,Central,Scooter,64,67,61,14.9
+2026-07-28,09:00,9,Weekday,Rainy,27.9,30.3,Railway,Bike,68,66,57,17.3
+2026-07-28,09:00,9,Weekday,Rainy,26.0,14.1,Airport,Ride Hailing,251,270,212,28.4
+2026-07-28,09:00,9,Weekday,Rainy,28.1,28.1,Tech Park,Bicycle,33,32,26,19.7
+2026-07-28,09:00,9,Weekday,Rainy,25.1,19.1,Tech Park,Bus,245,184,209,33.0
+2026-07-28,09:00,9,Weekday,Rainy,28.2,8.6,College,Scooter,78,57,73,14.0
+2026-07-28,10:00,10,Weekday,Rainy,25.9,33.5,Airport,Bike,33,40,31,16.3
+2026-07-28,10:00,10,Weekday,Rainy,24.9,20.8,Beach,Ride Hailing,108,95,99,26.1
+2026-07-28,10:00,10,Weekday,Rainy,25.3,26.3,College,Bicycle,14,11,11,22.3
+2026-07-28,10:00,10,Weekday,Rainy,28.8,9.9,Airport,Bus,113,106,100,35.4
+2026-07-28,10:00,10,Weekday,Rainy,24.6,19.1,Central,Scooter,39,38,34,14.6
+2026-07-28,11:00,11,Weekday,Rainy,25.1,22.4,Central,Bike,51,57,40,14.5
+2026-07-28,11:00,11,Weekday,Rainy,24.7,33.3,Airport,Ride Hailing,162,161,133,26.5
+2026-07-28,11:00,11,Weekday,Rainy,25.4,29.8,Beach,Bicycle,21,22,19,20.0
+2026-07-28,11:00,11,Weekday,Rainy,26.9,24.5,Beach,Bus,175,199,134,36.0
+2026-07-28,11:00,11,Weekday,Rainy,24.1,15.7,Market,Scooter,48,36,45,12.5
+2026-07-28,12:00,12,Weekday,Rainy,24.1,8.8,Central,Bike,48,51,46,16.5
+2026-07-28,12:00,12,Weekday,Rainy,28.9,14.3,Beach,Ride Hailing,169,188,129,23.1
+2026-07-28,12:00,12,Weekday,Rainy,24.5,28.4,Airport,Bicycle,22,18,20,21.7
+2026-07-28,12:00,12,Weekday,Rainy,25.9,15.0,Airport,Bus,169,137,148,33.6
+2026-07-28,12:00,12,Weekday,Rainy,28.9,19.2,College,Scooter,51,54,47,15.0
+2026-07-28,13:00,13,Weekday,Rainy,27.0,15.7,College,Bike,37,36,28,15.8
+2026-07-28,13:00,13,Weekday,Rainy,24.2,23.5,College,Ride Hailing,154,103,145,24.3
+2026-07-28,13:00,13,Weekday,Rainy,24.8,13.8,Railway,Bicycle,22,26,17,21.4
+2026-07-28,13:00,13,Weekday,Rainy,28.6,34.2,Beach,Bus,175,125,150,33.1
+2026-07-28,13:00,13,Weekday,Rainy,24.5,25.5,Beach,Scooter,44,36,35,15.2
+2026-07-28,14:00,14,Weekday,Rainy,28.2,25.0,College,Bike,45,43,38,14.4
+2026-07-28,14:00,14,Weekday,Rainy,27.4,30.5,Tech Park,Ride Hailing,182,142,147,23.6
+2026-07-28,14:00,14,Weekday,Rainy,24.4,27.9,Market,Bicycle,19,21,17,19.2
+2026-07-28,14:00,14,Weekday,Rainy,27.1,11.6,Tech Park,Bus,139,147,135,31.5
+2026-07-28,14:00,14,Weekday,Rainy,26.0,32.8,Railway,Scooter,45,32,40,14.4
+2026-07-28,15:00,15,Weekday,Rainy,28.1,28.9,Market,Bike,31,34,30,14.7
+2026-07-28,15:00,15,Weekday,Rainy,24.0,9.7,Market,Ride Hailing,106,124,94,25.8
+2026-07-28,15:00,15,Weekday,Rainy,24.8,20.3,Beach,Bicycle,14,13,11,20.1
+2026-07-28,15:00,15,Weekday,Rainy,25.1,16.0,Central,Bus,119,117,95,34.9
+2026-07-28,15:00,15,Weekday,Rainy,24.0,26.0,Airport,Scooter,36,42,34,13.7
+2026-07-28,16:00,16,Weekday,Rainy,25.5,30.3,Railway,Bike,32,23,31,17.5
+2026-07-28,16:00,16,Weekday,Rainy,24.2,25.7,Market,Ride Hailing,115,96,107,22.1
+2026-07-28,16:00,16,Weekday,Rainy,28.2,18.4,Central,Bicycle,15,11,13,19.9
+2026-07-28,16:00,16,Weekday,Rainy,25.0,8.8,Central,Bus,114,105,105,31.4
+2026-07-28,16:00,16,Weekday,Rainy,25.2,9.8,Railway,Scooter,36,32,30,14.3
+2026-07-28,17:00,17,Weekday,Rainy,27.0,12.1,College,Bike,72,77,62,14.6
+2026-07-28,17:00,17,Weekday,Rainy,26.8,26.7,Railway,Ride Hailing,271,223,253,23.9
+2026-07-28,17:00,17,Weekday,Rainy,28.6,12.6,Railway,Bicycle,33,24,26,20.7
+2026-07-28,17:00,17,Weekday,Rainy,25.0,31.3,Central,Bus,244,235,213,35.9
+2026-07-28,17:00,17,Weekday,Rainy,26.6,34.4,Beach,Scooter,85,65,66,14.6
+2026-07-28,18:00,18,Weekday,Rainy,26.1,9.4,Central,Bike,72,51,61,16.4
+2026-07-28,18:00,18,Weekday,Rainy,25.8,8.9,Tech Park,Ride Hailing,275,303,241,21.9
+2026-07-28,18:00,18,Weekday,Rainy,25.1,16.4,Market,Bicycle,39,43,38,19.2
+2026-07-28,18:00,18,Weekday,Rainy,27.2,24.1,Tech Park,Bus,278,251,209,29.6
+2026-07-28,18:00,18,Weekday,Rainy,26.4,31.4,Market,Scooter,111,91,105,15.3
+2026-07-28,19:00,19,Weekday,Rainy,24.7,22.7,Beach,Bike,74,74,68,14.8
+2026-07-28,19:00,19,Weekday,Rainy,28.0,19.4,Beach,Ride Hailing,296,231,227,21.7
+2026-07-28,19:00,19,Weekday,Rainy,26.6,25.7,College,Bicycle,35,24,34,20.2
+2026-07-28,19:00,19,Weekday,Rainy,27.7,28.7,Beach,Bus,320,222,286,36.9
+2026-07-28,19:00,19,Weekday,Rainy,28.7,22.4,Beach,Scooter,87,74,66,15.4
+2026-07-28,20:00,20,Weekday,Rainy,26.9,16.2,Tech Park,Bike,81,75,67,15.9
+2026-07-28,20:00,20,Weekday,Rainy,24.9,17.2,Airport,Ride Hailing,294,299,275,21.2
+2026-07-28,20:00,20,Weekday,Rainy,24.4,30.4,Market,Bicycle,32,26,26,17.9
+2026-07-28,20:00,20,Weekday,Rainy,24.7,17.8,Beach,Bus,281,289,247,37.7
+2026-07-28,20:00,20,Weekday,Rainy,24.6,20.8,Central,Scooter,104,75,95,16.7
+2026-07-28,21:00,21,Weekday,Rainy,26.7,23.9,Central,Bike,27,30,23,15.1
+2026-07-28,21:00,21,Weekday,Rainy,24.4,11.2,Market,Ride Hailing,114,97,99,25.6
+2026-07-28,21:00,21,Weekday,Rainy,26.5,13.8,Market,Bicycle,12,14,10,18.5
+2026-07-28,21:00,21,Weekday,Rainy,28.9,24.6,College,Bus,124,85,118,30.7
+2026-07-28,21:00,21,Weekday,Rainy,27.1,23.1,Railway,Scooter,35,27,33,15.8
+2026-07-29,06:00,6,Weekday,Sunny,31.1,0.1,Central,Bike,67,55,65,15.4
+2026-07-29,06:00,6,Weekday,Sunny,32.4,0.4,Market,Ride Hailing,77,82,74,23.7
+2026-07-29,06:00,6,Weekday,Sunny,33.3,0.1,Central,Bicycle,44,36,38,19.4
+2026-07-29,06:00,6,Weekday,Sunny,31.2,0.0,Central,Bus,101,71,81,35.8
+2026-07-29,06:00,6,Weekday,Sunny,29.4,0.0,Central,Scooter,61,64,47,15.4
+2026-07-29,07:00,7,Weekday,Sunny,32.9,0.1,Central,Bike,179,156,146,17.6
+2026-07-29,07:00,7,Weekday,Sunny,34.3,0.4,College,Ride Hailing,136,159,128,28.7
+2026-07-29,07:00,7,Weekday,Sunny,31.6,0.2,Airport,Bicycle,113,110,102,19.1
+2026-07-29,07:00,7,Weekday,Sunny,32.3,0.3,Central,Bus,244,245,206,34.8
+2026-07-29,07:00,7,Weekday,Sunny,30.1,0.4,College,Scooter,136,153,123,12.7
+2026-07-29,08:00,8,Weekday,Sunny,31.7,0.4,Airport,Bike,137,110,105,17.0
+2026-07-29,08:00,8,Weekday,Sunny,33.9,0.1,Railway,Ride Hailing,139,122,128,21.9
+2026-07-29,08:00,8,Weekday,Sunny,32.4,0.4,Beach,Bicycle,96,100,85,20.4
+2026-07-29,08:00,8,Weekday,Sunny,33.7,0.0,Beach,Bus,198,207,185,31.4
+2026-07-29,08:00,8,Weekday,Sunny,29.9,0.0,Tech Park,Scooter,171,203,141,16.6
+2026-07-29,09:00,9,Weekday,Sunny,32.3,0.2,Airport,Bike,183,131,162,15.4
+2026-07-29,09:00,9,Weekday,Sunny,33.0,0.5,Market,Ride Hailing,151,107,117,26.3
+2026-07-29,09:00,9,Weekday,Sunny,34.3,0.3,Market,Bicycle,101,120,76,22.1
+2026-07-29,09:00,9,Weekday,Sunny,33.6,0.4,Tech Park,Bus,217,205,173,28.8
+2026-07-29,09:00,9,Weekday,Sunny,31.0,0.2,Market,Scooter,123,130,109,16.6
+2026-07-29,10:00,10,Weekday,Sunny,30.2,0.0,Airport,Bike,79,70,77,14.2
+2026-07-29,10:00,10,Weekday,Sunny,30.8,0.3,Airport,Ride Hailing,72,70,58,21.9
+2026-07-29,10:00,10,Weekday,Sunny,33.6,0.3,College,Bicycle,35,41,31,22.9
+2026-07-29,10:00,10,Weekday,Sunny,29.5,0.5,Beach,Bus,93,98,84,33.0
+2026-07-29,10:00,10,Weekday,Sunny,32.1,0.4,Railway,Scooter,68,50,53,16.6
+2026-07-29,11:00,11,Weekday,Sunny,31.4,0.3,Beach,Bike,107,119,101,13.9
+2026-07-29,11:00,11,Weekday,Sunny,30.4,0.1,Airport,Ride Hailing,89,92,84,20.6
+2026-07-29,11:00,11,Weekday,Sunny,29.7,0.4,College,Bicycle,63,43,55,20.3
+2026-07-29,11:00,11,Weekday,Sunny,33.2,0.2,Central,Bus,137,120,114,30.2
+2026-07-29,11:00,11,Weekday,Sunny,34.4,0.2,Railway,Scooter,94,66,80,16.5
+2026-07-29,12:00,12,Weekday,Sunny,30.5,0.1,Market,Bike,112,127,107,16.1
+2026-07-29,12:00,12,Weekday,Sunny,31.8,0.3,College,Ride Hailing,77,56,59,21.4
+2026-07-29,12:00,12,Weekday,Sunny,31.0,0.5,Airport,Bicycle,59,42,57,18.3
+2026-07-29,12:00,12,Weekday,Sunny,34.7,0.0,Railway,Bus,133,86,102,32.0
+2026-07-29,12:00,12,Weekday,Sunny,31.5,0.2,Railway,Scooter,100,112,90,15.8
+2026-07-29,13:00,13,Weekday,Sunny,31.9,0.4,College,Bike,120,88,104,15.8
+2026-07-29,13:00,13,Weekday,Sunny,34.6,0.4,Beach,Ride Hailing,97,72,88,23.9
+2026-07-29,13:00,13,Weekday,Sunny,34.6,0.3,College,Bicycle,62,47,47,23.9
+2026-07-29,13:00,13,Weekday,Sunny,33.0,0.1,Railway,Bus,138,99,128,30.1
+2026-07-29,13:00,13,Weekday,Sunny,31.3,0.4,Market,Scooter,91,72,88,12.0
+2026-07-29,14:00,14,Weekday,Sunny,31.0,0.3,Tech Park,Bike,109,90,89,16.7
+2026-07-29,14:00,14,Weekday,Sunny,31.2,0.3,Market,Ride Hailing,105,89,94,20.6
+2026-07-29,14:00,14,Weekday,Sunny,33.5,0.3,Beach,Bicycle,74,88,58,17.2
+2026-07-29,14:00,14,Weekday,Sunny,34.4,0.1,Airport,Bus,154,172,142,30.9
+2026-07-29,14:00,14,Weekday,Sunny,30.1,0.3,Central,Scooter,100,106,87,15.2
+2026-07-29,15:00,15,Weekday,Sunny,29.3,0.4,Airport,Bike,70,82,54,14.0
+2026-07-29,15:00,15,Weekday,Sunny,33.3,0.2,Tech Park,Ride Hailing,78,71,72,28.8
+2026-07-29,15:00,15,Weekday,Sunny,32.1,0.3,Railway,Bicycle,51,45,44,17.5
+2026-07-29,15:00,15,Weekday,Sunny,30.6,0.1,Airport,Bus,114,114,107,35.2
+2026-07-29,15:00,15,Weekday,Sunny,29.3,0.1,Market,Scooter,73,69,64,16.2
+2026-07-29,16:00,16,Weekday,Sunny,31.7,0.2,Beach,Bike,86,85,69,13.7
+2026-07-29,16:00,16,Weekday,Sunny,32.5,0.3,Beach,Ride Hailing,83,56,63,24.0
+2026-07-29,16:00,16,Weekday,Sunny,33.3,0.1,Market,Bicycle,52,44,41,20.6
+2026-07-29,16:00,16,Weekday,Sunny,34.0,0.1,Beach,Bus,86,72,74,36.4
+2026-07-29,16:00,16,Weekday,Sunny,30.0,0.2,Market,Scooter,56,66,45,14.4
+2026-07-29,17:00,17,Weekday,Sunny,29.9,0.2,Tech Park,Bike,187,175,148,18.1
+2026-07-29,17:00,17,Weekday,Sunny,30.6,0.2,Beach,Ride Hailing,183,173,173,21.9
+2026-07-29,17:00,17,Weekday,Sunny,34.9,0.3,Railway,Bicycle,102,107,81,20.3
+2026-07-29,17:00,17,Weekday,Sunny,34.4,0.4,Beach,Bus,239,264,222,34.6
+2026-07-29,17:00,17,Weekday,Sunny,32.6,0.4,Tech Park,Scooter,170,124,159,13.0
+2026-07-29,18:00,18,Weekday,Sunny,29.7,0.0,Beach,Bike,166,180,161,18.6
+2026-07-29,18:00,18,Weekday,Sunny,34.6,0.2,Railway,Ride Hailing,178,165,172,28.1
+2026-07-29,18:00,18,Weekday,Sunny,29.5,0.5,Airport,Bicycle,109,89,91,23.8
+2026-07-29,18:00,18,Weekday,Sunny,30.8,0.4,Airport,Bus,256,240,221,30.0
+2026-07-29,18:00,18,Weekday,Sunny,30.9,0.1,College,Scooter,192,196,159,15.4
+2026-07-29,19:00,19,Weekday,Sunny,33.8,0.3,Tech Park,Bike,231,223,194,16.0
+2026-07-29,19:00,19,Weekday,Sunny,34.5,0.2,Airport,Ride Hailing,151,122,135,22.0
+2026-07-29,19:00,19,Weekday,Sunny,30.3,0.1,College,Bicycle,108,98,95,17.0
+2026-07-29,19:00,19,Weekday,Sunny,29.3,0.3,Market,Bus,250,292,220,28.3
+2026-07-29,19:00,19,Weekday,Sunny,34.1,0.3,Railway,Scooter,148,124,118,14.4
+2026-07-29,20:00,20,Weekday,Sunny,29.8,0.3,Airport,Bike,208,166,189,17.5
+2026-07-29,20:00,20,Weekday,Sunny,34.0,0.3,Beach,Ride Hailing,141,124,126,23.8
+2026-07-29,20:00,20,Weekday,Sunny,33.6,0.4,Central,Bicycle,116,119,106,21.6
+2026-07-29,20:00,20,Weekday,Sunny,29.3,0.2,College,Bus,251,275,234,27.4
+2026-07-29,20:00,20,Weekday,Sunny,30.1,0.2,Market,Scooter,138,140,121,15.8
+2026-07-29,21:00,21,Weekday,Sunny,32.9,0.3,Railway,Bike,75,62,71,13.6
+2026-07-29,21:00,21,Weekday,Sunny,33.3,0.0,Tech Park,Ride Hailing,72,81,65,25.1
+2026-07-29,21:00,21,Weekday,Sunny,31.7,0.2,Market,Bicycle,50,48,45,20.9
+2026-07-29,21:00,21,Weekday,Sunny,33.5,0.5,Airport,Bus,99,90,95,30.6
+2026-07-29,21:00,21,Weekday,Sunny,34.0,0.4,Tech Park,Scooter,68,79,57,14.6
+2026-07-30,06:00,6,Weekday,Rainy,28.4,8.5,College,Bike,29,30,23,15.7
+2026-07-30,06:00,6,Weekday,Rainy,26.1,33.7,Tech Park,Ride Hailing,125,138,113,23.9
+2026-07-30,06:00,6,Weekday,Rainy,25.7,15.1,Central,Bicycle,15,15,13,20.6
+2026-07-30,06:00,6,Weekday,Rainy,24.4,11.4,Tech Park,Bus,119,85,95,30.1
+2026-07-30,06:00,6,Weekday,Rainy,24.4,17.7,Central,Scooter,29,32,22,15.6
+2026-07-30,07:00,7,Weekday,Rainy,26.0,12.6,Tech Park,Bike,64,69,53,13.6
+2026-07-30,07:00,7,Weekday,Rainy,25.7,34.1,Beach,Ride Hailing,278,287,255,24.4
+2026-07-30,07:00,7,Weekday,Rainy,24.9,17.3,Central,Bicycle,26,19,22,18.7
+2026-07-30,07:00,7,Weekday,Rainy,24.9,33.4,Tech Park,Bus,211,198,174,36.1
+2026-07-30,07:00,7,Weekday,Rainy,27.9,14.5,Railway,Scooter,84,78,76,14.1
+2026-07-30,08:00,8,Weekday,Rainy,26.0,20.5,Central,Bike,61,40,51,17.7
+2026-07-30,08:00,8,Weekday,Rainy,24.0,15.8,Railway,Ride Hailing,237,273,189,25.7
+2026-07-30,08:00,8,Weekday,Rainy,28.7,31.0,Central,Bicycle,31,34,26,17.5
+2026-07-30,08:00,8,Weekday,Rainy,24.5,29.0,Tech Park,Bus,284,318,261,28.9
+2026-07-30,08:00,8,Weekday,Rainy,24.5,22.7,Central,Scooter,75,64,66,15.3
+2026-07-30,09:00,9,Weekday,Rainy,28.7,8.7,Airport,Bike,67,59,61,15.3
+2026-07-30,09:00,9,Weekday,Rainy,25.1,25.1,Railway,Ride Hailing,251,223,213,26.1
+2026-07-30,09:00,9,Weekday,Rainy,24.9,29.6,Airport,Bicycle,32,23,24,23.0
+2026-07-30,09:00,9,Weekday,Rainy,28.9,27.7,Airport,Bus,282,209,261,33.7
+2026-07-30,09:00,9,Weekday,Rainy,24.8,16.4,Beach,Scooter,69,72,66,15.0
+2026-07-30,10:00,10,Weekday,Rainy,25.7,19.9,College,Bike,34,31,28,16.7
+2026-07-30,10:00,10,Weekday,Rainy,28.9,34.0,Tech Park,Ride Hailing,106,71,95,24.6
+2026-07-30,10:00,10,Weekday,Rainy,24.1,9.2,Railway,Bicycle,12,9,9,17.4
+2026-07-30,10:00,10,Weekday,Rainy,26.1,32.6,Market,Bus,125,134,108,29.4
+2026-07-30,10:00,10,Weekday,Rainy,28.7,30.9,Beach,Scooter,36,34,32,15.2
+2026-07-30,11:00,11,Weekday,Rainy,26.1,10.0,Beach,Bike,52,60,45,18.4
+2026-07-30,11:00,11,Weekday,Rainy,25.3,33.9,Airport,Ride Hailing,164,159,155,23.3
+2026-07-30,11:00,11,Weekday,Rainy,28.1,21.4,College,Bicycle,22,16,19,23.7
+2026-07-30,11:00,11,Weekday,Rainy,24.9,20.0,Beach,Bus,144,147,127,36.7
+2026-07-30,11:00,11,Weekday,Rainy,28.4,27.4,Tech Park,Scooter,47,51,42,13.7
+2026-07-30,12:00,12,Weekday,Rainy,24.3,20.0,Railway,Bike,44,49,36,13.7
+2026-07-30,12:00,12,Weekday,Rainy,26.0,16.8,Beach,Ride Hailing,184,143,166,22.9
+2026-07-30,12:00,12,Weekday,Rainy,28.1,26.1,Airport,Bicycle,23,24,22,17.3
+2026-07-30,12:00,12,Weekday,Rainy,28.9,10.3,Market,Bus,158,145,119,32.6
+2026-07-30,12:00,12,Weekday,Rainy,26.2,20.0,Airport,Scooter,48,49,42,16.1
+2026-07-30,13:00,13,Weekday,Rainy,26.5,32.4,Market,Bike,45,36,37,14.9
+2026-07-30,13:00,13,Weekday,Rainy,25.6,12.6,College,Ride Hailing,163,147,131,23.2
+2026-07-30,13:00,13,Weekday,Rainy,28.6,10.4,Railway,Bicycle,20,16,17,22.1
+2026-07-30,13:00,13,Weekday,Rainy,25.9,9.9,Airport,Bus,157,129,146,31.4
+2026-07-30,13:00,13,Weekday,Rainy,29.0,26.0,Tech Park,Scooter,49,51,40,15.8
+2026-07-30,14:00,14,Weekday,Rainy,25.6,23.0,College,Bike,43,37,35,15.0
+2026-07-30,14:00,14,Weekday,Rainy,26.4,26.7,Beach,Ride Hailing,149,115,113,26.8
+2026-07-30,14:00,14,Weekday,Rainy,27.6,18.2,College,Bicycle,20,24,17,17.7
+2026-07-30,14:00,14,Weekday,Rainy,26.7,23.2,Central,Bus,199,191,184,34.9
+2026-07-30,14:00,14,Weekday,Rainy,24.5,27.1,Railway,Scooter,44,52,38,11.9
+2026-07-30,15:00,15,Weekday,Rainy,26.9,25.9,Airport,Bike,31,30,28,17.1
+2026-07-30,15:00,15,Weekday,Rainy,26.2,18.4,Beach,Ride Hailing,110,85,91,25.6
+2026-07-30,15:00,15,Weekday,Rainy,24.5,34.0,Market,Bicycle,14,15,13,22.0
+2026-07-30,15:00,15,Weekday,Rainy,24.2,8.3,Beach,Bus,106,71,102,37.2
+2026-07-30,15:00,15,Weekday,Rainy,27.9,12.3,Central,Scooter,38,26,36,15.6
+2026-07-30,16:00,16,Weekday,Rainy,27.9,13.1,Market,Bike,31,34,27,19.0
+2026-07-30,16:00,16,Weekday,Rainy,28.0,26.4,Railway,Ride Hailing,119,113,98,23.1
+2026-07-30,16:00,16,Weekday,Rainy,26.1,33.4,Beach,Bicycle,11,13,10,18.2
+2026-07-30,16:00,16,Weekday,Rainy,28.8,28.9,College,Bus,90,75,83,32.2
+2026-07-30,16:00,16,Weekday,Rainy,26.6,11.9,Beach,Scooter,39,39,32,14.1
+2026-07-30,17:00,17,Weekday,Rainy,25.3,30.1,Tech Park,Bike,67,48,54,18.6
+2026-07-30,17:00,17,Weekday,Rainy,25.1,16.9,Railway,Ride Hailing,282,333,213,22.1
+2026-07-30,17:00,17,Weekday,Rainy,24.9,28.2,Railway,Bicycle,30,36,27,19.4
+2026-07-30,17:00,17,Weekday,Rainy,25.5,24.0,Market,Bus,272,239,230,28.4
+2026-07-30,17:00,17,Weekday,Rainy,28.5,17.9,Airport,Scooter,95,92,73,13.1
+2026-07-30,18:00,18,Weekday,Rainy,25.2,21.4,Market,Bike,78,83,71,18.1
+2026-07-30,18:00,18,Weekday,Rainy,26.3,30.3,Beach,Ride Hailing,303,342,257,24.5
+2026-07-30,18:00,18,Weekday,Rainy,24.1,31.9,Central,Bicycle,33,36,32,21.6
+2026-07-30,18:00,18,Weekday,Rainy,27.5,15.6,Central,Bus,266,240,233,30.7
+2026-07-30,18:00,18,Weekday,Rainy,28.1,31.0,Railway,Scooter,95,96,79,12.1
+2026-07-30,19:00,19,Weekday,Rainy,25.0,11.3,Market,Bike,89,62,78,15.8
+2026-07-30,19:00,19,Weekday,Rainy,24.1,31.8,Market,Ride Hailing,283,313,229,24.3
+2026-07-30,19:00,19,Weekday,Rainy,27.9,16.5,Railway,Bicycle,33,32,32,20.6
+2026-07-30,19:00,19,Weekday,Rainy,27.6,18.0,Airport,Bus,316,345,298,36.7
+2026-07-30,19:00,19,Weekday,Rainy,28.6,19.9,College,Scooter,98,109,95,15.7
+2026-07-30,20:00,20,Weekday,Rainy,27.9,22.2,Railway,Bike,83,90,66,18.2
+2026-07-30,20:00,20,Weekday,Rainy,25.1,29.5,Market,Ride Hailing,251,197,226,21.2
+2026-07-30,20:00,20,Weekday,Rainy,25.2,19.5,Market,Bicycle,37,30,32,17.0
+2026-07-30,20:00,20,Weekday,Rainy,28.9,8.1,Tech Park,Bus,277,251,244,32.9
+2026-07-30,20:00,20,Weekday,Rainy,26.6,17.0,Central,Scooter,108,121,99,12.0
+2026-07-30,21:00,21,Weekday,Rainy,27.1,15.9,Airport,Bike,31,25,25,17.9
+2026-07-30,21:00,21,Weekday,Rainy,26.2,18.1,Market,Ride Hailing,89,95,70,21.0
+2026-07-30,21:00,21,Weekday,Rainy,28.5,12.2,Tech Park,Bicycle,15,15,11,22.0
+2026-07-30,21:00,21,Weekday,Rainy,28.9,17.5,Railway,Bus,123,90,97,29.7
+2026-07-30,21:00,21,Weekday,Rainy,28.1,27.6,College,Scooter,34,34,33,12.4
